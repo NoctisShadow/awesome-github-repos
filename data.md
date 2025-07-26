@@ -953,7 +953,7 @@
 
 ## Go
 
-*   [fish2018/pansou](https://github.com/fish2018/pansou) - PanSou是一个高性能的网盘资源搜索API服务，支持TG搜索和网盘搜索引擎。系统设计以性能和可扩展性为核心，支持多频道并发搜索、结果智能排序和网盘类型分类。https://so.252035.xyz/
+*   [fish2018/pansou](https://github.com/fish2018/pansou) - PanSou（GoComicMosaic的独立子项目）是一个高性能的网盘资源搜索API服务，支持TG搜索和网盘搜索引擎。系统设计以性能和可扩展性为核心，支持多频道并发搜索、结果智能排序和网盘类型分类。https://so.252035.xyz/
 
 *   [gdy666/lucky](https://github.com/gdy666/lucky) - 软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,阿里云盘,ftp,webdav,filebrowser
 
@@ -1709,7 +1709,7 @@
 
 *   [hamflx/cursor-reset](https://github.com/hamflx/cursor-reset) - cursor 0.45.x machine id reset
 
-*   [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Explore the ultimate curated list of best root apps,powerful Magisk, KernelSU & LSPosed(Xposed) modules, must-have tools and step-by-step rooting guides to control, boost performance, and customize your device
+*   [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Ultimate curated list of best root apps, Magisk, KernelSU & LSPosed(Xposed) modules, must-have tools and step-by-step rooting guides to control, boost performance, and customize your device.
 
 *   [justonemorenight/Fix-Cursor-Too-many-free-trial-accounts-used-on-this-machine](https://github.com/justonemorenight/Fix-Cursor-Too-many-free-trial-accounts-used-on-this-machine) - Reset Trial Cursor
 
