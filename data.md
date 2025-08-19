@@ -2,11 +2,11 @@
 
 ## Table of Contents
 
+*   [HTML](#html)
 *   [miscellaneous](#miscellaneous)
 *   [Shell](#shell)
 *   [Python](#python)
 *   [TypeScript](#typescript)
-*   [HTML](#html)
 *   [Svelte](#svelte)
 *   [JavaScript](#javascript)
 *   [C++](#c)
@@ -45,8 +45,100 @@
 *   [Handlebars](#handlebars)
 *   [Ruby](#ruby)
 *   [Perl](#perl)
+*   [Haskell](#haskell)
+*   [Swift](#swift)
+
+## HTML
+
+*   [madlifer/BentoGrid-Html-Slide](https://github.com/madlifer/BentoGrid-Html-Slide) - A Bento Grid Style Slide template.
+
+*   [SimonUTD/AI-Diagram-Prototype-Generator-MCP-Server-](https://github.com/SimonUTD/AI-Diagram-Prototype-Generator-MCP-Server-) - AI Diagram & Prototype Generator (MCP Server)
+
+*   [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
+
+*   [MindMobius/WallpaperEngineMediaLibrary](https://github.com/MindMobius/WallpaperEngineMediaLibrary) - 一键将你本地的 Wallpaper Engine 仓库变成一个可通过浏览器访问的个人媒体库，支持多端访问和数据同步
+
+*   [yang478/ai-ui-html](https://github.com/yang478/ai-ui-html) - AI UI 提示词生成器
+
+*   [lfglfg11/openaimodels](https://github.com/lfglfg11/openaimodels) - openai API模型及余额查询、硅基流动模型及余额查询
+
+*   [fff122/PicSpider](https://github.com/fff122/PicSpider) - 批量爬取写真站,并展示
+
+*   [Qianxia666/feedback-platform](https://github.com/Qianxia666/feedback-platform) - 轻量化用户反馈系统，旨在收集用户的真实意见。
+
+*   [zhtyyx/ioe](https://github.com/zhtyyx/ioe) - One-Stop Retail Inventory Solution
+
+*   [Suxiaoqinx/Netease\_url](https://github.com/Suxiaoqinx/Netease_url) - 网易云无损解析
+
+*   [lanxiuyun/lazyeat](https://github.com/lanxiuyun/lazyeat) - Lazyeat｜手势隔空控制，比划就行！Lazyeat is a touch-free controller for use while eating! Don't want greasy hands while watching shows or browsing the web during meals? You can pause videos/full screen/switch videos just by gesturing to the camera!
+
+*   [Ac-Wiki/Ac-Wiki](https://github.com/Ac-Wiki/Ac-Wiki) - 高等教育学社基础知识开源建设工程｜青年大学习
+
+*   [ls1248659692/python\_guide](https://github.com/ls1248659692/python_guide) - python  backend learning map
+
+*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+
+*   [CyC2018/Markdown-Resume](https://github.com/CyC2018/Markdown-Resume) - ⭐️ Markdown 简历模版
+
+*   [duolabmeng6/ollama\_ui](https://github.com/duolabmeng6/ollama_ui) - This is a simple ollama admin panel that implements a list of models to download models and a dialog function.
+
+*   [qiye45/wechatDownload](https://github.com/qiye45/wechatDownload) - 微信公众号文章批量下载工具，支持评论、合集下载，支持保存html/mhtml/md/pdf/docx文件，保存文章内图片、视频、音频文件
+
+*   [worldwonderer/gpt\_algo](https://github.com/worldwonderer/gpt_algo) - 利用 GPT-4 的代码理解能力，为 LeetCode 算法题提供高质量的题解和解答说明
+
+*   [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
+
+*   [xy-sea/blog](https://github.com/xy-sea/blog) - 博客：前端知识体系、前端监控、性能优化、原理探索、面经等
+
+*   [Terminus2049/Not-exist-in-douban](https://github.com/Terminus2049/Not-exist-in-douban) - 豆瓣不存在的书影音
+
+*   [shengqiangzhang/examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) - 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、微信读书、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
+
+*   [kenzok8/openwrt-packages](https://github.com/kenzok8/openwrt-packages) - openwrt常用软件包
+
+*   [Momo707577045/media-source-extract](https://github.com/Momo707577045/media-source-extract) - MediaSource 视频提取教程
+
+*   [abhivaikar/howtheytest](https://github.com/abhivaikar/howtheytest) - A collection of public resources about how software companies test their software
+
+*   [eveningwater/code-segment](https://github.com/eveningwater/code-segment) - 一个代码片段的集合
+
+*   [remram44/regex-cheatsheet](https://github.com/remram44/regex-cheatsheet) - Cheatsheet for different regex syntaxes
+
+*   [xxlllq/system\_architect](https://github.com/xxlllq/system_architect) - :100: 2025年系统架构设计师（软考高级）备考资料。
+
+*   [momo0853/kkndme](https://github.com/momo0853/kkndme) - kkndme聊房，数据整理自天涯。提供HTML、PDF和Markdown三种形式。
+
+*   [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
+
+*   [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
+
+*   [zhangkaitao/shiro-example](https://github.com/zhangkaitao/shiro-example) - 跟我学Shiro（我的公众号：kaitao-1234567，我的新书：《亿级流量网站架构核心技术》）
+
+*   [HZFE/awesome-interview](https://github.com/HZFE/awesome-interview) - 剑指前端 Offer
+
+*   [anbang/javascript-notes](https://github.com/anbang/javascript-notes) -  JavaScript 学习笔记；JavaScript学习总结；前端变化太快，只有把JS基础打扎实了，才能游刃有余；为了让我的JavaScript基础异常牢固，思路更加清晰，我会把以前总结过的知识和平时看到的资料放在这里，把以前零零散散的知识点全部串起来！这个项目也许写到最后会是一个非常不错的JavaScript教程，希望可以帮到更多的人；收藏请点star；如果发现我有写错误的，欢迎随时帮我改正，或者增加新的观点，谢谢！
+
+*   [PanDownloadServer/Server](https://github.com/PanDownloadServer/Server) - PanDownload的个人维护版本
+
+*   [SaltyLeo/i-book.in\_Archive](https://github.com/SaltyLeo/i-book.in_Archive) -
+
+*   [bajins/notes-docsify](https://github.com/bajins/notes-docsify) - 这是一个用docsify构建的文档
+
+*   [bajins/notes-vuepress](https://github.com/bajins/notes-vuepress) - 使用VuePress构建静态网站 https://github.com/bajins/bajins.github.io ，动态构建 https://github.com/bajins/notes-docsify
+
+*   [xiongbao/we.dog](https://github.com/xiongbao/we.dog) - 我们是狗，舔狗。心酸的舔狗日记。
+
+*   [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
+
+*   [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
+
+*   [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
+
+*   [Du1L0v3/duitutu.github.io](https://github.com/Du1L0v3/duitutu.github.io) - Blog for myself
 
 ## miscellaneous
+
+*   [cleverBody/cursor-pool](https://github.com/cleverBody/cursor-pool) -
 
 *   [lixiaojie001/AI-Voice-Typing-Shortcuts](https://github.com/lixiaojie001/AI-Voice-Typing-Shortcuts) - 基于 Gemini 的 AI 语音输入快捷指令，完全开源、免费、可自定义词汇和规则，高识别精度，可用性超越现有语音输入法。 告别昂贵订阅软件（Whisper Flow、AQUA Voice）和传统语音输入法（百度语音、讯飞语音）无法识别个性化词汇的局限，仅需 免费 Gemini API Key，就可使用 超级AI语音输入法。
 
@@ -90,7 +182,7 @@
 
 *   [ashish0kumar/windots](https://github.com/ashish0kumar/windots) - 🌾 My Windows setup
 
-*   [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models.
+*   [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models.
 
 *   [bb-music/flutter-app](https://github.com/bb-music/flutter-app) - 使用 flutter 编写的哔哔音乐客户端，无需登录，没有信息收集，实现你的听歌自由。
 
@@ -400,13 +492,61 @@
 
 *   [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
 
+*   [freefq/free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
+
+*   [xjh22222228/linux-manual](https://github.com/xjh22222228/linux-manual) - 🐧 Linux command reference manual; Linux 常用命令参考手册, 日常运维的最佳拍档。
+
+*   [jjqqkk/jjqqkk](https://github.com/jjqqkk/jjqqkk) - JJQQKK上网助手
+
+*   [CodingDocs/advanced-programmer](https://github.com/CodingDocs/advanced-programmer) - 专业程序员修炼之路。
+
+*   [wsdjeg/Learn-Vim\_zh\_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn) - 聪明地学习Vim
+
+*   [AobingJava/JavaFamily](https://github.com/AobingJava/JavaFamily) - 【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
+
+*   [iamshuaidi/CS-Book](https://github.com/iamshuaidi/CS-Book) - 计算机类常用电子书整理，并且附带下载链接，包括Java，Python，Linux，Go，C，C++，数据结构与算法，人工智能，计算机基础，面试，设计模式，数据库，前端等书籍
+
+*   [awesome-vpn/awesome-vpn](https://github.com/awesome-vpn/awesome-vpn) - Free proxy,VPN,免费代理,网络加速,科学上网,机场订阅,翻墙,梯子 無料プロキシ 무료 프록시 Gratis gratuit Бесплатный прокси gratuito Gratis  Darmowe  Ücretsiz  بروكسي مجاني मुफ्त प्रॉक्सी พร็อกซีฟรี miễn phí
+
+*   [midou-tech/articles](https://github.com/midou-tech/articles) - 我是龙叔，一个分享互联网技术和成长历程的大叔。希望在授人以鱼的同时也能授人以渔，欢迎大家踊跃star 和 issues 。
+
+*   [fex-team/interview-questions](https://github.com/fex-team/interview-questions) - FEX 面试问题
+
+*   [simonbbl/c9-python-getting-started](https://github.com/simonbbl/c9-python-getting-started) - Sample code for Channel 9 Python for Beginners course
+
+*   [justjavac/free-programming-books-zh\_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
+
+*   [stanzhai/be-a-professional-programmer](https://github.com/stanzhai/be-a-professional-programmer) - 成为专业程序员路上用到的各种优秀资料、神器及框架
+
+*   [HandSonic/HTQ](https://github.com/HandSonic/HTQ) - How To Ask Questions The Smart Way 《提问的智慧》简体中文版
+
+*   [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
+
+*   [lpg-it/BaiduYunVIP](https://github.com/lpg-it/BaiduYunVIP) - 百度云百度网盘超级会员账号SVIP账号 分享, 另分享多款百度网盘不限速下载工具以及各大平台会员账号（迅雷 优酷 爱奇艺 腾讯视频等）.
+
+*   [VIP-Share/Baidu-XunleiVIP](https://github.com/VIP-Share/Baidu-XunleiVIP) - 百度网盘超级会员，迅雷会员、爱奇艺会员账号每日分享，还有优酷，腾讯，芒果等VIP。AND。百度网盘(百度云)不限速工具分享。
+
+*   [SunRelease/BaiduSVIP](https://github.com/SunRelease/BaiduSVIP) - 每日分享百度网盘SVIP会员账号|百度云会员|百度网盘云账号,不定期更新,欢迎使用
+
+*   [wuxingsanren/wildcat-vip-account](https://github.com/wuxingsanren/wildcat-vip-account) - 野猫 - 每天分享最新的百度网盘SVIP、迅雷超级会员、手机话费折扣充值、霸王餐免费吃VIP（美团、饿了么、大众点评、肯德基、麦当劳、星巴克）、饿了么超级会员、美团外卖会员&红包券、爱奇艺VIP会员、腾讯视频VIP、优酷VIP会员、哔哩哔哩大会员、百度文库VIP、QQ音乐VIP、网易云黑胶VIP、喜马拉雅VIP、樊登读书会VIP、千图网VIP、包图网VIP、摄图网VIP、CSDN下载VIP、天眼查VIP、苹果ID等等各类VIP帐号，随取随用，完全免费，绝无套路，同时提供：百度文库VIP下载、图库素材VIP下载、学术文献VIP下载（知网维普万方读秀龙源超星、英文数据库、法律数据库、医学数据库、金融数据库）、全网视频VIP解析、全网音乐MP3免费听及下载、微信域名拦截检测API ，欢迎推荐分享给
+
+*   [googlehosts/hosts](https://github.com/googlehosts/hosts) - 镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts
+
+*   [getlantern/download](https://github.com/getlantern/download) - Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 proxy vpn circumvention gfw
+
+*   [izackwu/TeachYourselfCS-CN](https://github.com/izackwu/TeachYourselfCS-CN) - TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS
+
+*   [SSHeRun/CS-Xmind-Note](https://github.com/SSHeRun/CS-Xmind-Note) - 计算机专业课（408）思维导图和笔记：计算机组成原理（第五版 王爱英），数据结构（王道），计算机网络（第七版 谢希仁），操作系统（第四版 汤小丹）
+
+*   [zbezj/HEU\_KMS\_Activator](https://github.com/zbezj/HEU_KMS_Activator) -
+
 ## Shell
 
 *   [BevalZ/awesome-prompt-for-academic](https://github.com/BevalZ/awesome-prompt-for-academic) - awesome-prompt-for-academic, welcome to contribute
 
 *   [hamflx/cursor-reset](https://github.com/hamflx/cursor-reset) - cursor 0.45.x machine id reset
 
-*   [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Ultimate curated list of best root apps, Magisk/KernelSU/APtach/KernelSU-Next/Sukisu-Ultra & LSPosed(Xposed) modules & step-by-step rooting guides to control, boost performance, debloat & customize your device.
+*   [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Ultimate collection of 280+ curated Android root apps, Magisk/KernelSU/LSPosed modules, and step-by-step rooting guides.
 
 *   [justonemorenight/Fix-Cursor-Too-many-free-trial-accounts-used-on-this-machine](https://github.com/justonemorenight/Fix-Cursor-Too-many-free-trial-accounts-used-on-this-machine) - Reset Trial Cursor
 
@@ -443,6 +583,8 @@
 *   [233boy/v2ray](https://github.com/233boy/v2ray) - 最好用的 V2Ray 一键安装脚本 & 管理脚本
 
 *   [ToyoDAdoubi/doubi](https://github.com/ToyoDAdoubi/doubi) - 一个逗比写的各种逗比脚本~
+
+*   [EtherDream/jsproxy](https://github.com/EtherDream/jsproxy) - An online proxy based on ServiceWorker
 
 ## Python
 
@@ -760,6 +902,24 @@
 
 *   [tgbot-collection/YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) - 🎬 人人影视 机器人和网站，包含人人影视全部资源以及众多网友的网盘分享
 
+*   [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、fanqiang、油管youtube/视频下载、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载、youtube油管镜像/免翻墙网站、美区apple id共享账号、翻墙-科学上网-梯子
+
+*   [Cimbali/pympress](https://github.com/Cimbali/pympress) - Pympress is a simple yet powerful PDF reader designed for dual-screen presentations
+
+*   [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing\_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
+
+*   [taojy123/KeymouseGo](https://github.com/taojy123/KeymouseGo) - 类似按键精灵的鼠标键盘录制和自动化操作 模拟点击和键入 | automate mouse clicks and keyboard input
+
+*   [iswbm/magic-python](https://github.com/iswbm/magic-python) - Python 黑魔法手册
+
+*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+
+*   [wangzheng0822/algo](https://github.com/wangzheng0822/algo) - 数据结构和算法必知必会的50个代码实现
+
+*   [soimort/you-get](https://github.com/soimort/you-get) - :arrow\_double\_down: Dumb downloader that scrapes the web
+
+*   [Nostalgiaaa/foreman\_pylint](https://github.com/Nostalgiaaa/foreman_pylint) - 快速开发公司/个人代码规范检查
+
 ## TypeScript
 
 *   [GeekyWizKid/prompt-lesson](https://github.com/GeekyWizKid/prompt-lesson) -
@@ -926,71 +1086,9 @@
 
 *   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
-## HTML
+*   [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 
-*   [SimonUTD/AI-Diagram-Prototype-Generator-MCP-Server-](https://github.com/SimonUTD/AI-Diagram-Prototype-Generator-MCP-Server-) - AI Diagram & Prototype Generator (MCP Server)
-
-*   [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
-
-*   [MindMobius/WallpaperEngineMediaLibrary](https://github.com/MindMobius/WallpaperEngineMediaLibrary) - 一键将你本地的 Wallpaper Engine 仓库变成一个可通过浏览器访问的个人媒体库，支持多端访问和数据同步
-
-*   [yang478/ai-ui-html](https://github.com/yang478/ai-ui-html) - AI UI 提示词生成器
-
-*   [lfglfg11/openaimodels](https://github.com/lfglfg11/openaimodels) - openai API模型及余额查询、硅基流动模型及余额查询
-
-*   [fff122/PicSpider](https://github.com/fff122/PicSpider) - 批量爬取写真站,并展示
-
-*   [Qianxia666/feedback-platform](https://github.com/Qianxia666/feedback-platform) - 轻量化用户反馈系统，旨在收集用户的真实意见。
-
-*   [zhtyyx/ioe](https://github.com/zhtyyx/ioe) - One-Stop Retail Inventory Solution
-
-*   [Suxiaoqinx/Netease\_url](https://github.com/Suxiaoqinx/Netease_url) - 网易云无损解析
-
-*   [lanxiuyun/lazyeat](https://github.com/lanxiuyun/lazyeat) - Lazyeat｜手势隔空控制，比划就行！Lazyeat is a touch-free controller for use while eating! Don't want greasy hands while watching shows or browsing the web during meals? You can pause videos/full screen/switch videos just by gesturing to the camera!
-
-*   [Ac-Wiki/Ac-Wiki](https://github.com/Ac-Wiki/Ac-Wiki) - 高等教育学社基础知识开源建设工程｜青年大学习
-
-*   [ls1248659692/python\_guide](https://github.com/ls1248659692/python_guide) - python  backend learning map
-
-*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-
-*   [CyC2018/Markdown-Resume](https://github.com/CyC2018/Markdown-Resume) - ⭐️ Markdown 简历模版
-
-*   [duolabmeng6/ollama\_ui](https://github.com/duolabmeng6/ollama_ui) - This is a simple ollama admin panel that implements a list of models to download models and a dialog function.
-
-*   [qiye45/wechatDownload](https://github.com/qiye45/wechatDownload) - 微信公众号文章批量下载工具，支持评论、合集下载，支持保存html/mhtml/md/pdf/docx文件，保存文章内图片、视频、音频文件
-
-*   [worldwonderer/gpt\_algo](https://github.com/worldwonderer/gpt_algo) - 利用 GPT-4 的代码理解能力，为 LeetCode 算法题提供高质量的题解和解答说明
-
-*   [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
-
-*   [xy-sea/blog](https://github.com/xy-sea/blog) - 博客：前端知识体系、前端监控、性能优化、原理探索、面经等
-
-*   [Terminus2049/Not-exist-in-douban](https://github.com/Terminus2049/Not-exist-in-douban) - 豆瓣不存在的书影音
-
-*   [shengqiangzhang/examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) - 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、微信读书、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
-
-*   [kenzok8/openwrt-packages](https://github.com/kenzok8/openwrt-packages) - openwrt常用软件包
-
-*   [Momo707577045/media-source-extract](https://github.com/Momo707577045/media-source-extract) - MediaSource 视频提取教程
-
-*   [abhivaikar/howtheytest](https://github.com/abhivaikar/howtheytest) - A collection of public resources about how software companies test their software
-
-*   [eveningwater/code-segment](https://github.com/eveningwater/code-segment) - 一个代码片段的集合
-
-*   [remram44/regex-cheatsheet](https://github.com/remram44/regex-cheatsheet) - Cheatsheet for different regex syntaxes
-
-*   [xxlllq/system\_architect](https://github.com/xxlllq/system_architect) - :100: 2025年系统架构设计师（软考高级）备考资料。
-
-*   [momo0853/kkndme](https://github.com/momo0853/kkndme) - kkndme聊房，数据整理自天涯。提供HTML、PDF和Markdown三种形式。
-
-*   [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
-
-*   [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
-
-*   [zhangkaitao/shiro-example](https://github.com/zhangkaitao/shiro-example) - 跟我学Shiro（我的公众号：kaitao-1234567，我的新书：《亿级流量网站架构核心技术》）
-
-*   [HZFE/awesome-interview](https://github.com/HZFE/awesome-interview) - 剑指前端 Offer
+*   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 
 ## Svelte
 
@@ -1238,6 +1336,30 @@
 
 *   [webpro/reveal-md](https://github.com/webpro/reveal-md) - reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file
 
+*   [hzdu/setprograms](https://github.com/hzdu/setprograms) - NodeJS、JDK、Python开发环境设置工具
+
+*   [lanzhsh/react-vue-koa](https://github.com/lanzhsh/react-vue-koa) - Vue，React，微信小程序，快应用，TS , Koa, JS一把梭
+
+*   [up209d/ResourcesSaverExt](https://github.com/up209d/ResourcesSaverExt) - Chrome Extension for one click downloading all resources files and keeping folder structures.
+
+*   [XiumingLee/MingTools](https://github.com/XiumingLee/MingTools) -
+
+*   [Ovilia/lipstick](https://github.com/Ovilia/lipstick) - 口红颜色可视化 - 为什么你的女神总缺一支口红
+
+*   [zenghongtu/saladict-desktop](https://github.com/zenghongtu/saladict-desktop) - ✨✨桌面划词与翻译工具，聚合了 N 多词典，功能强大，支持 Windows 、 Mac 和 Linux。
+
+*   [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
+
+*   [Lakr233/GetThemAll](https://github.com/Lakr233/GetThemAll) - A copy of GetThemAll of *Chrome Extesnion* that seems got banned from Google.
+
+*   [jadezi/github-accelerator](https://github.com/jadezi/github-accelerator) - 油猴插件---github访问加速
+
+*   [unbug/codelf](https://github.com/unbug/codelf) - A search tool helps dev to solve the naming things problem.
+
+*   [be5invis/Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) - Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
+
+*   [thegreatjavascript/FakeScreenshot](https://github.com/thegreatjavascript/FakeScreenshot) - 🔥对抗假消息系列项目之一：截屏 = 实锤？相信你就输了！（”突破性“更新💥：支持修改任何网站！） 下载安装包，手动安装到Chrome本地扩展中（注意打开开发者模式）
+
 ## C++
 
 *   [0voice/Awesome\_c-cpp\_Projects](https://github.com/0voice/Awesome_c-cpp_Projects) - 2025年 最新收录整理 500+ 个高质量的 C/C++ 项目，包括但不限于核心开发、基础工具、系统与并发、系统编程、图形处理、网络通信、数据处理、应用框架、开源工具、嵌入式开发等多个领域。适合学习、参考和实战。
@@ -1287,6 +1409,14 @@
 *   [USTC-Resource/USTC-Course](https://github.com/USTC-Resource/USTC-Course) - :heart:中国科学技术大学课程资源
 
 *   [15172658790/Blog](https://github.com/15172658790/Blog) - 中国科学技术大学计算机学院课程资源(https://mbinary.xyz/ustc-cs/)
+
+*   [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
+
+*   [Du1L0v3/Maze](https://github.com/Du1L0v3/Maze) - 大一新生的课设，很垃圾嗷
+
+*   [electronicarts/CnC\_Remastered\_Collection](https://github.com/electronicarts/CnC_Remastered_Collection) - Command & Conquer: Remastered Collection
+
+*   [Du1L0v3/Test-of--](https://github.com/Du1L0v3/Test-of--) - 老师布置的课设类作业，简单拓展了一点点
 
 ## Vue
 
@@ -1344,6 +1474,10 @@
 
 *   [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines) - ⏰ Collaboratively track deadlines of conferences recommended by CCF (Website, Python Cli, Wechat Applet) / If you find it useful, please star this project, thanks~
 
+*   [yiqia/activity](https://github.com/yiqia/activity) - 基于vue+element-ui的SSM校园活动信息平台
+
+*   [jae-jae/Userscript-Plus](https://github.com/jae-jae/Userscript-Plus) - :monkey: Show current site all UserJS，The easier way to install UserJs for Tampermonkey. 显示当前网站的所有可用Tampermonkey脚本
+
 ## Kotlin
 
 *   [wecode-ai/RunVSAgent](https://github.com/wecode-ai/RunVSAgent) - Run VSCode-based coding agents and extensions seamlessly within other IDE platforms - bridging the gap between VSCode ecosystem and other development environment.
@@ -1363,6 +1497,8 @@
 *   [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 
 *   [gyakkun/qq-mht2html](https://github.com/gyakkun/qq-mht2html) - 转换QQ导出的MHT文件到HTML和图片文件, 支持按日期、行数自动分页, 支持多线程, 支持150G+文件
+
+*   [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) - 翻墙-科学上网
 
 ## Go
 
@@ -1448,6 +1584,18 @@
 
 *   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 
+*   [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
+
+*   [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
+
+*   [wxbool/video-srt-windows](https://github.com/wxbool/video-srt-windows) - 这是一个可以识别视频语音自动生成字幕SRT文件的开源 Windows-GUI 软件工具。
+
+*   [greyireland/algorithm-pattern](https://github.com/greyireland/algorithm-pattern) - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
+
+*   [Jinnrry/getAwayBSG](https://github.com/Jinnrry/getAwayBSG) - 逃离北上广
+
+*   [getlantern/lantern](https://github.com/getlantern/lantern) - Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 - Быстрый, надежный и безопасный доступ к открытому интернету - lantern proxy vpn censorship-circumvention censorship gfw accelerator پراکسی لنترن، ضدسانسور، امن، قابل اعتماد و پرسرعت
+
 ## Dart
 
 *   [Predidit/Kazumi](https://github.com/Predidit/Kazumi) - 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。
@@ -1463,6 +1611,8 @@
 *   [ComicSparks/pikapika](https://github.com/ComicSparks/pikapika) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
 
 *   [user1121114685/Wallpaper\_Engine](https://github.com/user1121114685/Wallpaper_Engine) - 一个便捷的创意工坊下载器
+
+*   [xausky/DockerRegisterCloud](https://github.com/xausky/DockerRegisterCloud) - 基于 Docker 仓库协议的网盘客户端，可以将目前众多的免费容器仓库服务用于网盘。
 
 ## PHP
 
@@ -1483,6 +1633,10 @@
 *   [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service.
 
 *   [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
+
+*   [xiebruce/PicUploader](https://github.com/xiebruce/PicUploader) - 一个还不错的图床工具，支持Mac/Win/Linux服务器、支持压缩后上传、添加图片或文字水印、多文件同时上传、同时上传到多个云、右击任意文件上传、快捷键上传剪贴板截图、Web版上传、支持作为Mweb/Typora发布图片接口、作为PicGo/ShareX/uPic等的自定义图床，支持在服务器上部署作为图床接口，支持上传任意格式文件。
+
+*   [owen0o0/WebStack](https://github.com/owen0o0/WebStack) - WordPress 版 WebStack 导航主题 https://nav.iowen.cn
 
 ## Rust
 
@@ -1515,6 +1669,8 @@
 *   [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 
 *   [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
+
+*   [cangzhang/champ-r](https://github.com/cangzhang/champ-r) - 🐶 Yet another League of Legends helper
 
 ## PowerShell
 
@@ -1593,6 +1749,20 @@
 *   [LeagueSandbox/GameServer](https://github.com/LeagueSandbox/GameServer) - League Sandbox's Game Server
 
 *   [Richasy/BiliBili-UWP](https://github.com/Richasy/BiliBili-UWP) - BiliBili的UWP客户端，当然，是第三方的了
+
+*   [MoocDownloader/MoocDownloader](https://github.com/MoocDownloader/MoocDownloader) - An MOOC downloader implemented by .NET. 一枚由 .NET 实现的 MOOC 下载器.
+
+*   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
+
+*   [nilaoda/N\_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) - \[.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.
+
+*   [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
+
+*   [randyrants/sharpkeys](https://github.com/randyrants/sharpkeys) - SharpKeys is a utility that manages a Registry key that allows Windows to remap one key to any other key.
+
+*   [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
+
+*   [QL-Win/QuickLook.Plugin.EpubViewer](https://github.com/QL-Win/QuickLook.Plugin.EpubViewer) - QuickLook EPUB plugin.
 
 ## Java
 
@@ -1738,6 +1908,16 @@
 
 *   [373675032/moti-blog](https://github.com/373675032/moti-blog) - 🔥🔥🔥 莫提博客（moti-blog）是一个基于 SpringBoot 开发的标准 Java Web 项目。项目中应用了 SpringBoot、MyBatis、Redis、RabbitMq、ElasticSearch、BootStrap、Thymeleaf 等技术。项目页面美观大气，完成度较高，前后端不分离的单体架构，非常适合刚刚接触学习 SpringBoot 的技术小白学习，也非常适合学校中的项目答辩或者毕业设计。喜欢的话记得帮忙点亮 Star，不求打赏，免费分享，只求你一个免费的👍，你的支持是我做下去的动力。
 
+*   [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍 针对小白的算法训练 | 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）推荐免费ChatGPT使用网站
+
+*   [LJWLgl/CommonUtil](https://github.com/LJWLgl/CommonUtil) - 轻便简单的Java常用工具类库
+
+*   [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
+
+*   [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
+
+*   [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
+
 ## TeX
 
 *   [hijiangtao/resume](https://github.com/hijiangtao/resume) - 个人中文简历 Latex 源码 https://hijiangtao.github.io/
@@ -1762,6 +1942,8 @@
 
 *   [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 
+*   [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
+
 ## C
 
 *   [heiher/natmap](https://github.com/heiher/natmap) - TCP/UDP port mapping for full-cone NAT
@@ -1779,6 +1961,10 @@
 *   [RamonUnch/AltSnap](https://github.com/RamonUnch/AltSnap) - Maintained continuation of Stefan Sundin's AltDrag
 
 *   [stefansundin/altdrag](https://github.com/stefansundin/altdrag) - :file\_folder: Easily drag windows when pressing the alt key. (Windows)
+
+*   [binbyu/Reader](https://github.com/binbyu/Reader) - A win32 txt file reader
+
+*   [luoweipeter/C](https://github.com/luoweipeter/C) - c/c++ 学习记录
 
 ## Less
 
@@ -1854,6 +2040,10 @@
 
 *   [BNDong/Cnblogs-Theme-SimpleMemory](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory) - 🍭　Cnblogs theme \_ Basic theme :  SimpleMemory
 
+*   [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version
+
+*   [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
+
 ## SCSS
 
 *   [Keldos-Li/typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme) - 将Typora伪装成LaTeX的中文样式主题，本科生轻量级课程论文撰写的好帮手。This is a theme disguising Typora into Chinese LaTeX style.
@@ -1880,6 +2070,8 @@
 
 *   [zh-google-styleguide/zh-google-styleguide](https://github.com/zh-google-styleguide/zh-google-styleguide) - Google 开源项目风格指南 (中文版)
 
+*   [niudai/How-to-be-a-good-programmer](https://github.com/niudai/How-to-be-a-good-programmer) - I'm here to tell you some amazing stuff which teacher would never tell you.
+
 ## AngelScript
 
 *   [chen310/BilibiliPotPlayer](https://github.com/chen310/BilibiliPotPlayer) - PotPlayer 哔哩哔哩插件：可以直接在 PotPlayer 中播放哔哩哔哩中的视频、直播和音乐
@@ -1891,6 +2083,8 @@
 ## AutoIt
 
 *   [rcmaehl/MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser
+
+*   [J2TEAM/idm-trial-reset](https://github.com/J2TEAM/idm-trial-reset) - Use IDM forever without cracking
 
 ## Clojure
 
@@ -1907,6 +2101,10 @@
 ## Dockerfile
 
 *   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
+
+*   [Y1ran/Free-VPN-for-Coursera](https://github.com/Y1ran/Free-VPN-for-Coursera) - :key: :unlock:免费开源的科学上网工具
+
+*   [ThinkDevelop/Free-SS-SSR](https://github.com/ThinkDevelop/Free-SS-SSR) - 每日分享免费的ss、vmess、vless、trojan、hysteria2等各类节点
 
 ## Vim Script
 
@@ -1931,3 +2129,11 @@
 ## Perl
 
 *   [major/MySQLTuner-perl](https://github.com/major/MySQLTuner-perl) - MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.
+
+## Haskell
+
+*   [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
+
+## Swift
+
+*   [wwdc/2020](https://github.com/wwdc/2020) - Student submissions for the WWDC 2020 - Swift Student Challenge
