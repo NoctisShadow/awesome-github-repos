@@ -2,18 +2,19 @@
 
 ## Table of Contents
 
-*   [Rust](#rust)
 *   [TypeScript](#typescript)
+*   [Go](#go)
+*   [Rust](#rust)
 *   [miscellaneous](#miscellaneous)
 *   [Python](#python)
 *   [HTML](#html)
 *   [Shell](#shell)
+*   [CSS](#css)
 *   [Svelte](#svelte)
 *   [JavaScript](#javascript)
 *   [C++](#c)
 *   [Vue](#vue)
 *   [Kotlin](#kotlin)
-*   [Go](#go)
 *   [Dart](#dart)
 *   [PHP](#php)
 *   [PowerShell](#powershell)
@@ -28,7 +29,6 @@
 *   [MDX](#mdx)
 *   [AutoHotkey](#autohotkey)
 *   [Batchfile](#batchfile)
-*   [CSS](#css)
 *   [SCSS](#scss)
 *   [PostScript](#postscript)
 *   [Lua](#lua)
@@ -48,41 +48,15 @@
 *   [Haskell](#haskell)
 *   [Swift](#swift)
 
-## Rust
-
-*   [mosheng1/QuickClipboard](https://github.com/mosheng1/QuickClipboard) -
-
-*   [lanyeeee/bilibili-video-downloader](https://github.com/lanyeeee/bilibili-video-downloader) - 哔哩哔哩 bilibili B站 视频 下载器，图形界面 + nfo刮削 + 广告标记 + 字幕下载 + 弹幕下载，轻松将视频加入emby等媒体库
-
-*   [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
-
-*   [Super1Windcloud/hyperscoop](https://github.com/Super1Windcloud/hyperscoop) - 🦀次世代更快,更强, 更精美的windows 包管理器 (Scoop By Rust), Next-generation, faster, more powerful, and more refined Windows package manager
-
-*   [afaa1991/BetterWX-UI](https://github.com/afaa1991/BetterWX-UI) - 微信|企业微信 多开、防撤回提示、多账号免扫码登录的终极解决方案
-
-*   [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
-
-*   [djkato/m0nkrus-adobe-tracker](https://github.com/djkato/m0nkrus-adobe-tracker) - Track m0nkrus torrents for Adobe, update your local versions or get new apps
-
-*   [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
-
-*   [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
-
-*   [Sunnnner/wallhaven\_rs](https://github.com/Sunnnner/wallhaven_rs) - Wallpapers图片下载器
-
-*   [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
-
-*   [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
-
-*   [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
-
-*   [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-
-*   [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
-
-*   [cangzhang/champ-r](https://github.com/cangzhang/champ-r) - 🐶 Yet another League of Legends helper
-
 ## TypeScript
+
+*   [Amery2010/midjourney-prompt-generator](https://github.com/Amery2010/midjourney-prompt-generator) - Midjourney prompt generator
+
+*   [Stardm0/MoonTV](https://github.com/Stardm0/MoonTV) - 🎬 MoonTV 是一个开箱即用的、跨平台的影视聚合播放器。本项目现基于2.0.1开始自行维护更新
+
+*   [YoungLee-coder/SubMix](https://github.com/YoungLee-coder/SubMix) - 代理订阅链接转换器，将单独的代理订阅链接转换为 Mihomo 内核 YAML 配置文件
+
+*   [nanbingxyz/daily-commit-summarizer](https://github.com/nanbingxyz/daily-commit-summarizer) - A GitHub Action that summarizes daily commits with AI and sends the report to your team via configurable webhooks.
 
 *   [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
 
@@ -254,6 +228,138 @@
 
 *   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 
+## Go
+
+*   [yushangxiao/pplx2api](https://github.com/yushangxiao/pplx2api) - pplx2api 对外提供OpenAi 兼容接口，支持识图，思考，搜索，绘图，账户轮询，重试……
+
+*   [putyy/res-downloader](https://github.com/putyy/res-downloader) - 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
+
+*   [fish2018/pansou](https://github.com/fish2018/pansou) - PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。 https://so.252035.xyz/
+
+*   [gdy666/lucky](https://github.com/gdy666/lucky) - 软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,阿里云盘,ftp,webdav,filebrowser
+
+*   [stackJx/databaseDoc](https://github.com/stackJx/databaseDoc) -
+
+*   [glidea/zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!!
+
+*   [lovebai/plist](https://github.com/lovebai/plist) - Http图片列表程序
+
+*   [beck-8/subs-check](https://github.com/beck-8/subs-check) - 订阅转换、测速、测活、流媒体检测、重命名、导出为任意格式的工具
+
+*   [bestruirui/BestSub](https://github.com/bestruirui/BestSub) - Best Sub, Best for Your Net
+
+*   [chengazhen/gitlens-pro](https://github.com/chengazhen/gitlens-pro) - 一个用于激活 GitLens Pro 的工具。
+
+*   [TensoRaws/FinalRip](https://github.com/TensoRaws/FinalRip) - a distributed AI video processing tool
+
+*   [ltaoo/wx\_channels\_download](https://github.com/ltaoo/wx_channels_download) - 微信视频号下载器
+
+*   [kingparks/cursor-vip](https://github.com/kingparks/cursor-vip) - cursor IDE enjoy VIP
+
+*   [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry\_blossom: A command-line fuzzy finder
+
+*   [libsgh/chrome\_updater](https://github.com/libsgh/chrome_updater) - Chrome Offline Updater and Making Chrome Portable.
+
+*   [qjfoidnh/BaiduPCS-Go](https://github.com/qjfoidnh/BaiduPCS-Go) - iikira/BaiduPCS-Go原版基础上集成了分享链接/秒传链接转存功能
+
+*   [duolabmeng6/overrideManager](https://github.com/duolabmeng6/overrideManager) -
+
+*   [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
+
+*   [arunsupe/semantic-grep](https://github.com/arunsupe/semantic-grep) - grep for words with similar meaning to the query
+
+*   [Ackites/KillWxapkg](https://github.com/Ackites/KillWxapkg) - 自动化反编译微信小程序，小程序安全评估工具，发现小程序安全问题，自动解密，解包，可还原工程目录，支持Hook，小程序修改
+
+*   [synctv-org/synctv](https://github.com/synctv-org/synctv) - Synchronized viewing, theater, live streaming, video
+
+*   [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Teldrive
+
+*   [nannanStrawberry314/license](https://github.com/nannanStrawberry314/license) -
+
+*   [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
+
+*   [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required
+
+*   [HuanMeng233/weread\_downloader](https://github.com/HuanMeng233/weread_downloader) - 学习
+
+*   [deweizhu/bookget](https://github.com/deweizhu/bookget) - bookget 数字古籍图书下载工具
+
+*   [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
+
+*   [EndlessCheng/codeforces-go](https://github.com/EndlessCheng/codeforces-go) - 算法竞赛模板库 by 灵茶山艾府 💭💡🎈
+
+*   [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram toolkit written in Golang
+
+*   [ilanyu/ReverseProxy](https://github.com/ilanyu/ReverseProxy) - ReverseProxy in golang
+
+*   [Wsine/feishu2md](https://github.com/Wsine/feishu2md) - 一键命令下载飞书文档为 Markdown
+
+*   [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
+
+*   [v2ray/domain-list-community](https://github.com/v2ray/domain-list-community) - Community managed domain list
+
+*   [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
+
+*   [LouisYLWang/Sync-Sofa](https://github.com/LouisYLWang/Sync-Sofa) - co-play streaming video with remote friends!
+
+*   [baiyutang/meetup](https://github.com/baiyutang/meetup) - 【❤️ 互联网大厂技术分享PPT 👍🏻 持续更新中！】🍻各大技术交流会、活动资料汇总 ，如 👉QCon👉全球运维技术大会 👉 GDG 👉 全球技术领导力峰会👉大前端大会👉架构师峰会👉敏捷开发DevOps👉OpenResty👉Elastic，欢迎  PR  / Issues
+
+*   [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
+
+*   [ystyle/jvms](https://github.com/ystyle/jvms) - JDK Version Manager (JVMS) for Windows
+
+*   [bonaysoft/notion-md-gen](https://github.com/bonaysoft/notion-md-gen) - Generate the Markdown document for any static site generators from notion
+
+*   [joewalnes/websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
+
+*   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+
+*   [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
+
+*   [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
+
+*   [wxbool/video-srt-windows](https://github.com/wxbool/video-srt-windows) - 这是一个可以识别视频语音自动生成字幕SRT文件的开源 Windows-GUI 软件工具。
+
+*   [greyireland/algorithm-pattern](https://github.com/greyireland/algorithm-pattern) - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
+
+*   [Jinnrry/getAwayBSG](https://github.com/Jinnrry/getAwayBSG) - 逃离北上广
+
+*   [getlantern/lantern](https://github.com/getlantern/lantern) - Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 - Быстрый, надежный и безопасный доступ к открытому интернету - lantern proxy vpn censorship-circumvention censorship gfw accelerator پراکسی لنترن، ضدسانسور، امن، قابل اعتماد و پرسرعت
+
+## Rust
+
+*   [mosheng1/QuickClipboard](https://github.com/mosheng1/QuickClipboard) -
+
+*   [lanyeeee/bilibili-video-downloader](https://github.com/lanyeeee/bilibili-video-downloader) - 哔哩哔哩 bilibili B站 视频 下载器，图形界面 + nfo刮削 + 广告标记 + 字幕下载 + 弹幕下载，轻松将视频加入emby等媒体库
+
+*   [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
+
+*   [Super1Windcloud/hyperscoop](https://github.com/Super1Windcloud/hyperscoop) - 🦀次世代更快,更强, 更精美的windows 包管理器 (Scoop By Rust), Next-generation, faster, more powerful, and more refined Windows package manager
+
+*   [afaa1991/BetterWX-UI](https://github.com/afaa1991/BetterWX-UI) - 微信|企业微信 多开、防撤回提示、多账号免扫码登录的终极解决方案
+
+*   [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
+
+*   [djkato/m0nkrus-adobe-tracker](https://github.com/djkato/m0nkrus-adobe-tracker) - Track m0nkrus torrents for Adobe, update your local versions or get new apps
+
+*   [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
+
+*   [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
+
+*   [Sunnnner/wallhaven\_rs](https://github.com/Sunnnner/wallhaven_rs) - Wallpapers图片下载器
+
+*   [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
+
+*   [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
+
+*   [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
+
+*   [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+
+*   [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
+
+*   [cangzhang/champ-r](https://github.com/cangzhang/champ-r) - 🐶 Yet another League of Legends helper
+
 ## miscellaneous
 
 *   [0voice/Career\_planning\_path](https://github.com/0voice/Career_planning_path) - 2025年程序员找工作求职最新总结，学生阶段的困境解决，从简历到面试的全方位解析，从实习到全职的学习规划，就业必备技能与资源推荐。
@@ -261,8 +367,6 @@
 *   [cleverBody/cursor-pool](https://github.com/cleverBody/cursor-pool) -
 
 *   [lixiaojie001/AI-Voice-Typing-Shortcuts](https://github.com/lixiaojie001/AI-Voice-Typing-Shortcuts) - 基于 Gemini 的 AI 语音输入快捷指令，完全开源、免费、可自定义词汇和规则，高识别精度，可用性超越现有语音输入法。 告别昂贵订阅软件（Whisper Flow、AQUA Voice）和传统语音输入法（百度语音、讯飞语音）无法识别个性化词汇的局限，仅需 免费 Gemini API Key，就可使用 超级AI语音输入法。
-
-*   [KuekHaoYang/AI-Prompt-Protocols](https://github.com/KuekHaoYang/AI-Prompt-Protocols) - A universal system prompt designed to compel Large Language Models to engage in profound, exhaustive, and structured deep thinking.
 
 *   [MoonTechLab/LunaTV](https://github.com/MoonTechLab/LunaTV) -
 
@@ -651,12 +755,6 @@
 *   [wuxingsanren/wildcat-vip-account](https://github.com/wuxingsanren/wildcat-vip-account) - 野猫 - 每天分享最新的百度网盘SVIP、迅雷超级会员、手机话费折扣充值、霸王餐免费吃VIP（美团、饿了么、大众点评、肯德基、麦当劳、星巴克）、饿了么超级会员、美团外卖会员&红包券、爱奇艺VIP会员、腾讯视频VIP、优酷VIP会员、哔哩哔哩大会员、百度文库VIP、QQ音乐VIP、网易云黑胶VIP、喜马拉雅VIP、樊登读书会VIP、千图网VIP、包图网VIP、摄图网VIP、CSDN下载VIP、天眼查VIP、苹果ID等等各类VIP帐号，随取随用，完全免费，绝无套路，同时提供：百度文库VIP下载、图库素材VIP下载、学术文献VIP下载（知网维普万方读秀龙源超星、英文数据库、法律数据库、医学数据库、金融数据库）、全网视频VIP解析、全网音乐MP3免费听及下载、微信域名拦截检测API ，欢迎推荐分享给
 
 *   [googlehosts/hosts](https://github.com/googlehosts/hosts) - 镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts
-
-*   [getlantern/download](https://github.com/getlantern/download) - Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 proxy vpn circumvention gfw
-
-*   [izackwu/TeachYourselfCS-CN](https://github.com/izackwu/TeachYourselfCS-CN) - TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS
-
-*   [SSHeRun/CS-Xmind-Note](https://github.com/SSHeRun/CS-Xmind-Note) - 计算机专业课（408）思维导图和笔记：计算机组成原理（第五版 王爱英），数据结构（王道），计算机网络（第七版 谢希仁），操作系统（第四版 汤小丹）
 
 ## Python
 
@@ -1074,10 +1172,6 @@
 
 *   [xiongbao/we.dog](https://github.com/xiongbao/we.dog) - 我们是狗，舔狗。心酸的舔狗日记。
 
-*   [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
-
-*   [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
-
 ## Shell
 
 *   [BevalZ/awesome-prompt-for-academic](https://github.com/BevalZ/awesome-prompt-for-academic) - awesome-prompt-for-academic, welcome to contribute
@@ -1123,6 +1217,34 @@
 *   [ToyoDAdoubi/doubi](https://github.com/ToyoDAdoubi/doubi) - 一个逗比写的各种逗比脚本~
 
 *   [EtherDream/jsproxy](https://github.com/EtherDream/jsproxy) - An online proxy based on ServiceWorker
+
+## CSS
+
+*   [KuekHaoYang/AI-Prompt-Protocols](https://github.com/KuekHaoYang/AI-Prompt-Protocols) - A universal system prompt designed to compel Large Language Models to engage in profound, exhaustive, and structured deep thinking.
+
+*   [Akifyss/obsidian-border](https://github.com/Akifyss/obsidian-border) - A theme for obsidian.md
+
+*   [jzj1993/ResumeTemplate](https://github.com/jzj1993/ResumeTemplate) - 简单易用的Markdown中英文简历模板，适合有一定动手能力的人使用。
+
+*   [GameGodS3/DropPoint](https://github.com/GameGodS3/DropPoint) - Make drag-and-drop easier using DropPoint. Drag content without having to open side-by-side windows
+
+*   [BingyanStudio/LapisCV](https://github.com/BingyanStudio/LapisCV) - 📄 Easily create your resume with Markdown on VSCode / Typora / Obsidian
+
+*   [shuhongfan/sl-express](https://github.com/shuhongfan/sl-express) - 神领物流 黑马 物流项目 神领物流系统类似顺丰速运，是向C端用户提供快递服务的系统。竞品有：顺丰、中通、圆通、京东快递等。 项目产品主要有4端产品：  - 用户端：基于微信小程序开发，外部客户使用，可以寄件、查询物流信息等。 - 快递员端：基于安卓开发的手机APP，公司内部的快递员使用，可以接收取派件任务等。 - 司机端：基于安卓开发的手机APP，公司内部的司机使用，可以接收运输任务、上报位置信息等。 - 后台系统管理：基于vue开发，PC端使用，公司内部管理员用户使用，可以进行基础数据维护、订单管理、运单管理等。
+
+*   [obscurefreeman/typora\_theme\_blackout](https://github.com/obscurefreeman/typora_theme_blackout) - Blackout theme of typora
+
+*   [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
+
+*   [mgilangjanuar/teledrive](https://github.com/mgilangjanuar/teledrive) - The Google Drive/OneDrive/etc alternative using Telegram API
+
+*   [WebStackPage/WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) - ❤️静态响应式网址导航网站 - webstack.cc
+
+*   [BNDong/Cnblogs-Theme-SimpleMemory](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory) - 🍭　Cnblogs theme \_ Basic theme :  SimpleMemory
+
+*   [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version
+
+*   [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 
 ## Svelte
 
@@ -1534,102 +1656,6 @@
 
 *   [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) - 翻墙-科学上网
 
-## Go
-
-*   [putyy/res-downloader](https://github.com/putyy/res-downloader) - 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
-
-*   [fish2018/pansou](https://github.com/fish2018/pansou) - PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。 https://so.252035.xyz/
-
-*   [gdy666/lucky](https://github.com/gdy666/lucky) - 软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,阿里云盘,ftp,webdav,filebrowser
-
-*   [stackJx/databaseDoc](https://github.com/stackJx/databaseDoc) -
-
-*   [glidea/zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!!
-
-*   [lovebai/plist](https://github.com/lovebai/plist) - Http图片列表程序
-
-*   [beck-8/subs-check](https://github.com/beck-8/subs-check) - 订阅转换、测速、测活、流媒体检测、重命名、导出为任意格式的工具
-
-*   [bestruirui/BestSub](https://github.com/bestruirui/BestSub) - Best Sub, Best for Your Net
-
-*   [chengazhen/gitlens-pro](https://github.com/chengazhen/gitlens-pro) - 一个用于激活 GitLens Pro 的工具。
-
-*   [TensoRaws/FinalRip](https://github.com/TensoRaws/FinalRip) - a distributed AI video processing tool
-
-*   [ltaoo/wx\_channels\_download](https://github.com/ltaoo/wx_channels_download) - 微信视频号下载器
-
-*   [kingparks/cursor-vip](https://github.com/kingparks/cursor-vip) - cursor IDE enjoy VIP
-
-*   [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry\_blossom: A command-line fuzzy finder
-
-*   [libsgh/chrome\_updater](https://github.com/libsgh/chrome_updater) - Chrome Offline Updater and Making Chrome Portable.
-
-*   [qjfoidnh/BaiduPCS-Go](https://github.com/qjfoidnh/BaiduPCS-Go) - iikira/BaiduPCS-Go原版基础上集成了分享链接/秒传链接转存功能
-
-*   [duolabmeng6/overrideManager](https://github.com/duolabmeng6/overrideManager) -
-
-*   [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
-
-*   [arunsupe/semantic-grep](https://github.com/arunsupe/semantic-grep) - grep for words with similar meaning to the query
-
-*   [Ackites/KillWxapkg](https://github.com/Ackites/KillWxapkg) - 自动化反编译微信小程序，小程序安全评估工具，发现小程序安全问题，自动解密，解包，可还原工程目录，支持Hook，小程序修改
-
-*   [synctv-org/synctv](https://github.com/synctv-org/synctv) - Synchronized viewing, theater, live streaming, video
-
-*   [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Teldrive
-
-*   [nannanStrawberry314/license](https://github.com/nannanStrawberry314/license) -
-
-*   [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
-
-*   [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required
-
-*   [HuanMeng233/weread\_downloader](https://github.com/HuanMeng233/weread_downloader) - 学习
-
-*   [deweizhu/bookget](https://github.com/deweizhu/bookget) - bookget 数字古籍图书下载工具
-
-*   [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
-
-*   [EndlessCheng/codeforces-go](https://github.com/EndlessCheng/codeforces-go) - 算法竞赛模板库 by 灵茶山艾府 💭💡🎈
-
-*   [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram toolkit written in Golang
-
-*   [ilanyu/ReverseProxy](https://github.com/ilanyu/ReverseProxy) - ReverseProxy in golang
-
-*   [Wsine/feishu2md](https://github.com/Wsine/feishu2md) - 一键命令下载飞书文档为 Markdown
-
-*   [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
-
-*   [v2ray/domain-list-community](https://github.com/v2ray/domain-list-community) - Community managed domain list
-
-*   [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
-
-*   [LouisYLWang/Sync-Sofa](https://github.com/LouisYLWang/Sync-Sofa) - co-play streaming video with remote friends!
-
-*   [baiyutang/meetup](https://github.com/baiyutang/meetup) - 【❤️ 互联网大厂技术分享PPT 👍🏻 持续更新中！】🍻各大技术交流会、活动资料汇总 ，如 👉QCon👉全球运维技术大会 👉 GDG 👉 全球技术领导力峰会👉大前端大会👉架构师峰会👉敏捷开发DevOps👉OpenResty👉Elastic，欢迎  PR  / Issues
-
-*   [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
-
-*   [ystyle/jvms](https://github.com/ystyle/jvms) - JDK Version Manager (JVMS) for Windows
-
-*   [bonaysoft/notion-md-gen](https://github.com/bonaysoft/notion-md-gen) - Generate the Markdown document for any static site generators from notion
-
-*   [joewalnes/websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
-
-*   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-
-*   [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
-
-*   [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
-
-*   [wxbool/video-srt-windows](https://github.com/wxbool/video-srt-windows) - 这是一个可以识别视频语音自动生成字幕SRT文件的开源 Windows-GUI 软件工具。
-
-*   [greyireland/algorithm-pattern](https://github.com/greyireland/algorithm-pattern) - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
-
-*   [Jinnrry/getAwayBSG](https://github.com/Jinnrry/getAwayBSG) - 逃离北上广
-
-*   [getlantern/lantern](https://github.com/getlantern/lantern) - Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 - Быстрый, надежный и безопасный доступ к открытому интернету - lantern proxy vpn censorship-circumvention censorship gfw accelerator پراکسی لنترن، ضدسانسور، امن، قابل اعتماد و پرسرعت
-
 ## Dart
 
 *   [Predidit/Kazumi](https://github.com/Predidit/Kazumi) - 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。
@@ -2017,32 +2043,6 @@
 *   [moshowgame/Navicat\_Keygen\_Patch](https://github.com/moshowgame/Navicat_Keygen_Patch) - Navicat Keygen Patch/Navicat Cracker for 17 , warning , its for trial only ,please delete it within 12 hours.
 
 *   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
-
-## CSS
-
-*   [Akifyss/obsidian-border](https://github.com/Akifyss/obsidian-border) - A theme for obsidian.md
-
-*   [jzj1993/ResumeTemplate](https://github.com/jzj1993/ResumeTemplate) - 简单易用的Markdown中英文简历模板，适合有一定动手能力的人使用。
-
-*   [GameGodS3/DropPoint](https://github.com/GameGodS3/DropPoint) - Make drag-and-drop easier using DropPoint. Drag content without having to open side-by-side windows
-
-*   [BingyanStudio/LapisCV](https://github.com/BingyanStudio/LapisCV) - 📄 Easily create your resume with Markdown on VSCode / Typora / Obsidian
-
-*   [shuhongfan/sl-express](https://github.com/shuhongfan/sl-express) - 神领物流 黑马 物流项目 神领物流系统类似顺丰速运，是向C端用户提供快递服务的系统。竞品有：顺丰、中通、圆通、京东快递等。 项目产品主要有4端产品：  - 用户端：基于微信小程序开发，外部客户使用，可以寄件、查询物流信息等。 - 快递员端：基于安卓开发的手机APP，公司内部的快递员使用，可以接收取派件任务等。 - 司机端：基于安卓开发的手机APP，公司内部的司机使用，可以接收运输任务、上报位置信息等。 - 后台系统管理：基于vue开发，PC端使用，公司内部管理员用户使用，可以进行基础数据维护、订单管理、运单管理等。
-
-*   [obscurefreeman/typora\_theme\_blackout](https://github.com/obscurefreeman/typora_theme_blackout) - Blackout theme of typora
-
-*   [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
-
-*   [mgilangjanuar/teledrive](https://github.com/mgilangjanuar/teledrive) - The Google Drive/OneDrive/etc alternative using Telegram API
-
-*   [WebStackPage/WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) - ❤️静态响应式网址导航网站 - webstack.cc
-
-*   [BNDong/Cnblogs-Theme-SimpleMemory](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory) - 🍭　Cnblogs theme \_ Basic theme :  SimpleMemory
-
-*   [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version
-
-*   [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 
 ## SCSS
 
