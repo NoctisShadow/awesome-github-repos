@@ -50,6 +50,8 @@
 
 ## miscellaneous
 
+*   [Sube3494/augment-for-vscode](https://github.com/Sube3494/augment-for-vscode) - 🛡️ Augment 去风控 - 智能绕过限制 + ⚡一键无感换号 + 🤖保护第三方API + 🔋自动余额显示
+
 *   [TokenRollAI/show-your-chat](https://github.com/TokenRollAI/show-your-chat) - Code is cheap, show me your Chat!
 
 *   [0voice/Career\_planning\_path](https://github.com/0voice/Career_planning_path) - 2025年程序员找工作求职最新总结，学生阶段的困境解决，从简历到面试的全方位解析，从实习到全职的学习规划，就业必备技能与资源推荐。
@@ -1418,6 +1420,8 @@
 
 *   [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 
+*   [imzyb/MiSub](https://github.com/imzyb/MiSub) - 测试站，密码admin
+
 *   [MiPoNianYou/UserScripts](https://github.com/MiPoNianYou/UserScripts) - 🦐🐔8⃣️✍️的不知道什么乐色脚本
 
 *   [Neet-Nestor/Telegram-Media-Downloader](https://github.com/Neet-Nestor/Telegram-Media-Downloader) - A script allowing you to download images and videos from Telegram web even if the group restricts downloading.
@@ -1736,8 +1740,6 @@
 
 *   [zhaochengcube/augment-token-mng](https://github.com/zhaochengcube/augment-token-mng) - 一个基于 Tauri 构建的跨平台桌面应用程序，用于生成和管理 Augment Code 访问令牌。
 
-*   [imzyb/MiSub](https://github.com/imzyb/MiSub) - 测试站，密码admin
-
 *   [devSlow/aigc](https://github.com/devSlow/aigc) -
 
 *   [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) - 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制
@@ -1941,8 +1943,6 @@
 *   [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 
 *   [randyrants/sharpkeys](https://github.com/randyrants/sharpkeys) - SharpKeys is a utility that manages a Registry key that allows Windows to remap one key to any other key.
-
-*   [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
 
 ## TeX
 
