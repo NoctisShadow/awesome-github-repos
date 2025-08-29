@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [C++](#c)
 *   [miscellaneous](#miscellaneous)
 *   [Python](#python)
 *   [Java](#java)
@@ -13,7 +14,6 @@
 *   [CSS](#css)
 *   [Svelte](#svelte)
 *   [JavaScript](#javascript)
-*   [C++](#c)
 *   [Vue](#vue)
 *   [Kotlin](#kotlin)
 *   [Dart](#dart)
@@ -47,6 +47,66 @@
 *   [Perl](#perl)
 *   [Haskell](#haskell)
 *   [Swift](#swift)
+
+## C++
+
+*   [Hy1Fly/GreenHub-UnlockTool](https://github.com/Hy1Fly/GreenHub-UnlockTool) - GreenHub免费解锁工具 ! 破解时长限制、软件激活 ! 支持2.0.0以上所有版本，包括2.3.0 !（GreenHub Free Unlock Tool! Crack the time limit, software activation! Supports all versions above 2.0.0, including 2.3.0!)
+
+*   [0voice/Awesome\_c-cpp\_Projects](https://github.com/0voice/Awesome_c-cpp_Projects) - 2025年 最新收录整理 500+ 个高质量的 C/C++ 项目，包括但不限于核心开发、基础工具、系统与并发、系统编程、图形处理、网络通信、数据处理、应用框架、开源工具、嵌入式开发等多个领域。适合学习、参考和实战。
+
+*   [game1024/OpenSpeedy](https://github.com/game1024/OpenSpeedy) - 🎮 An open-source game speed modifier.\[一款开源的游戏变速器]
+
+*   [univrsal/input-overlay](https://github.com/univrsal/input-overlay) - Show keyboard, gamepad and mouse input on stream
+
+*   [hydy100/R3nzSkin](https://github.com/hydy100/R3nzSkin) - Skin changer for League of Legends (LOL)
+
+*   [MrBeanCpp/AltTaber](https://github.com/MrBeanCpp/AltTaber) - A MacOS-style Alt-Tab window/app switcher replacement for Windows
+
+*   [hitfyd/ShowJCR](https://github.com/hitfyd/ShowJCR) - 期刊分区查询小工具，包括中科院分区表升级版（2025、2023、2022）及国际期刊预警名单（2025、2024、2023、2021、2020）、JCR（2023、2022、2021、2020）、CCF推荐国际会议和期刊目录（2022）、计算领域高质量科技期刊分级目录（2022）。
+
+*   [mrpond/BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - Video, audio & banner adblock/skip for Spotify
+
+*   [shaoxiongduan/sci-calc](https://github.com/shaoxiongduan/sci-calc) - software and firmware for a esp32-based scientific calculator
+
+*   [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendation, etc.
+
+*   [FrzMtrsprt/QtUnblockNeteaseMusic](https://github.com/FrzMtrsprt/QtUnblockNeteaseMusic) - A desktop client for UnblockNeteaseMusic, made with Qt.
+
+*   [R3nzTheCodeGOD/R3nzSkin](https://github.com/R3nzTheCodeGOD/R3nzSkin) - Skin changer for League of Legends (LOL)
+
+*   [wisdompeak/LeetCode](https://github.com/wisdompeak/LeetCode) - This repository contains the solutions and explanations to the algorithm problems on LeetCode. Only medium or above are included. All are written in C++/Python and implemented by myself. The problems attempted multiple times are labelled with hyperlinks.
+
+*   [std-microblock/chromatic](https://github.com/std-microblock/chromatic) - Universal modifier for Chromium/V8 | 广谱注入 Chromium/V8 的通用修改器
+
+*   [skykeyjoker/A-SOUL-Notification](https://github.com/skykeyjoker/A-SOUL-Notification) - 一个A-SOUL成员动态/直播提醒插件，支持监控B站与抖音动态，可在Windows10 - Windows11系统上运行。
+
+*   [CodePanda66/CSPostgraduate-408](https://github.com/CodePanda66/CSPostgraduate-408) - 💯  CSPostgraduate 计算机考研 408 专业课资料及真题资源
+
+*   [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
+
+*   [BlackINT3/OpenArk](https://github.com/BlackINT3/OpenArk) - The Next Generation of Anti-Rookit(ARK) tool for Windows.
+
+*   [rr-debugger/rr](https://github.com/rr-debugger/rr) - Record and Replay Framework
+
+*   [yangyangwithgnu/hardseed](https://github.com/yangyangwithgnu/hardseed) - SEX IS ZERO (0), so, who wanna be the ONE (1), aha?
+
+*   [SpriteOvO/Telegram-Anti-Revoke](https://github.com/SpriteOvO/Telegram-Anti-Revoke) - Telegram anti-revoke plugin
+
+*   [crabapples-h/navicat-keygen-tools](https://github.com/crabapples-h/navicat-keygen-tools) -
+
+*   [Salensoft/thu-cst-cracker](https://github.com/Salensoft/thu-cst-cracker) - 清华大学计算机系课程攻略
+
+*   [USTC-Resource/USTC-Course](https://github.com/USTC-Resource/USTC-Course) - :heart:中国科学技术大学课程资源
+
+*   [15172658790/Blog](https://github.com/15172658790/Blog) - 中国科学技术大学计算机学院课程资源(https://mbinary.xyz/ustc-cs/)
+
+*   [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
+
+*   [Du1L0v3/Maze](https://github.com/Du1L0v3/Maze) - 大一新生的课设，很垃圾嗷
+
+*   [electronicarts/CnC\_Remastered\_Collection](https://github.com/electronicarts/CnC_Remastered_Collection) - Command & Conquer: Remastered Collection
+
+*   [Du1L0v3/Test-of--](https://github.com/Du1L0v3/Test-of--) - 老师布置的课设类作业，简单拓展了一点点
 
 ## miscellaneous
 
@@ -1678,64 +1738,6 @@
 
 *   [be5invis/Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) - Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
 
-## C++
-
-*   [0voice/Awesome\_c-cpp\_Projects](https://github.com/0voice/Awesome_c-cpp_Projects) - 2025年 最新收录整理 500+ 个高质量的 C/C++ 项目，包括但不限于核心开发、基础工具、系统与并发、系统编程、图形处理、网络通信、数据处理、应用框架、开源工具、嵌入式开发等多个领域。适合学习、参考和实战。
-
-*   [game1024/OpenSpeedy](https://github.com/game1024/OpenSpeedy) - 🎮 An open-source game speed modifier.\[一款开源的游戏变速器]
-
-*   [univrsal/input-overlay](https://github.com/univrsal/input-overlay) - Show keyboard, gamepad and mouse input on stream
-
-*   [hydy100/R3nzSkin](https://github.com/hydy100/R3nzSkin) - Skin changer for League of Legends (LOL)
-
-*   [MrBeanCpp/AltTaber](https://github.com/MrBeanCpp/AltTaber) - A MacOS-style Alt-Tab window/app switcher replacement for Windows
-
-*   [hitfyd/ShowJCR](https://github.com/hitfyd/ShowJCR) - 期刊分区查询小工具，包括中科院分区表升级版（2025、2023、2022）及国际期刊预警名单（2025、2024、2023、2021、2020）、JCR（2023、2022、2021、2020）、CCF推荐国际会议和期刊目录（2022）、计算领域高质量科技期刊分级目录（2022）。
-
-*   [mrpond/BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - Video, audio & banner adblock/skip for Spotify
-
-*   [shaoxiongduan/sci-calc](https://github.com/shaoxiongduan/sci-calc) - software and firmware for a esp32-based scientific calculator
-
-*   [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendation, etc.
-
-*   [FrzMtrsprt/QtUnblockNeteaseMusic](https://github.com/FrzMtrsprt/QtUnblockNeteaseMusic) - A desktop client for UnblockNeteaseMusic, made with Qt.
-
-*   [R3nzTheCodeGOD/R3nzSkin](https://github.com/R3nzTheCodeGOD/R3nzSkin) - Skin changer for League of Legends (LOL)
-
-*   [wisdompeak/LeetCode](https://github.com/wisdompeak/LeetCode) - This repository contains the solutions and explanations to the algorithm problems on LeetCode. Only medium or above are included. All are written in C++/Python and implemented by myself. The problems attempted multiple times are labelled with hyperlinks.
-
-*   [std-microblock/chromatic](https://github.com/std-microblock/chromatic) - Universal modifier for Chromium/V8 | 广谱注入 Chromium/V8 的通用修改器
-
-*   [skykeyjoker/A-SOUL-Notification](https://github.com/skykeyjoker/A-SOUL-Notification) - 一个A-SOUL成员动态/直播提醒插件，支持监控B站与抖音动态，可在Windows10 - Windows11系统上运行。
-
-*   [CodePanda66/CSPostgraduate-408](https://github.com/CodePanda66/CSPostgraduate-408) - 💯  CSPostgraduate 计算机考研 408 专业课资料及真题资源
-
-*   [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
-
-*   [BlackINT3/OpenArk](https://github.com/BlackINT3/OpenArk) - The Next Generation of Anti-Rookit(ARK) tool for Windows.
-
-*   [rr-debugger/rr](https://github.com/rr-debugger/rr) - Record and Replay Framework
-
-*   [yangyangwithgnu/hardseed](https://github.com/yangyangwithgnu/hardseed) - SEX IS ZERO (0), so, who wanna be the ONE (1), aha?
-
-*   [SpriteOvO/Telegram-Anti-Revoke](https://github.com/SpriteOvO/Telegram-Anti-Revoke) - Telegram anti-revoke plugin
-
-*   [crabapples-h/navicat-keygen-tools](https://github.com/crabapples-h/navicat-keygen-tools) -
-
-*   [Salensoft/thu-cst-cracker](https://github.com/Salensoft/thu-cst-cracker) - 清华大学计算机系课程攻略
-
-*   [USTC-Resource/USTC-Course](https://github.com/USTC-Resource/USTC-Course) - :heart:中国科学技术大学课程资源
-
-*   [15172658790/Blog](https://github.com/15172658790/Blog) - 中国科学技术大学计算机学院课程资源(https://mbinary.xyz/ustc-cs/)
-
-*   [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
-
-*   [Du1L0v3/Maze](https://github.com/Du1L0v3/Maze) - 大一新生的课设，很垃圾嗷
-
-*   [electronicarts/CnC\_Remastered\_Collection](https://github.com/electronicarts/CnC_Remastered_Collection) - Command & Conquer: Remastered Collection
-
-*   [Du1L0v3/Test-of--](https://github.com/Du1L0v3/Test-of--) - 老师布置的课设类作业，简单拓展了一点点
-
 ## Vue
 
 *   [zhaochengcube/augment-token-mng](https://github.com/zhaochengcube/augment-token-mng) - 一个基于 Tauri 构建的跨平台桌面应用程序，用于生成和管理 Augment Code 访问令牌。
@@ -2103,8 +2105,6 @@
 *   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 
 *   [Y1ran/Free-VPN-for-Coursera](https://github.com/Y1ran/Free-VPN-for-Coursera) - :key: :unlock:免费开源的科学上网工具
-
-*   [ThinkDevelop/Free-SS-SSR](https://github.com/ThinkDevelop/Free-SS-SSR) - 每日分享免费的ss、vmess、vless、trojan、hysteria2等各类节点
 
 ## Vim Script
 
