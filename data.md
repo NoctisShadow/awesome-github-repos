@@ -448,7 +448,7 @@
 
 ## TypeScript
 
-*   [katelya77/KatelyaTV](https://github.com/katelya77/KatelyaTV) - 一个基于MoonTV(LunaTV)二次开发的项目。【2025.9.1 通知：猛攻了一天，同时更新了一下DecoTV具体可见我的项目，发现bug越修越多心态有点炸了，最新的v0.4.0差不多就这样，后续的bug等我休息一下吧，遭不住了】
+*   [katelya77/KatelyaTV](https://github.com/katelya77/KatelyaTV) - 一个基于MoonTV(LunaTV)二次开发的项目。【2025.9.2 通知：今日战绩---修复OrionTV视频源无法播放问题、添加视频源一键导入导出、修复fork仓库之后无法跟随更新---今天就这样了吧，休息了】
 
 *   [LSTM-Kirigaya/slidev-ai](https://github.com/LSTM-Kirigaya/slidev-ai) - ai app for slidev
 
@@ -483,6 +483,8 @@
 *   [pwh-pwh/douyinVd](https://github.com/pwh-pwh/douyinVd) - 基于deno的抖音视频图文无水印下载，支持cf worker,vercel,deno deploy,docker部署
 
 *   [kleneway/pastemax](https://github.com/kleneway/pastemax) - A simple tool to select files from a repository to copy/paste into an LLM
+
+*   [easychen/CookieCloud](https://github.com/easychen/CookieCloud) - CookieCloud是一个和自架服务器同步浏览器Cookie和LocalStorage的小工具，支持端对端加密，可设定同步时间间隔。本仓库包含了插件和服务器端源码。CookieCloud is a small tool for synchronizing browser cookies and LocalStorage with a self-hosted server. It supports end-to-end encryption and allows for setting the synchronization interval. This repository contains both the plugin and the server-side source code
 
 *   [orion-lib/OrionTV](https://github.com/orion-lib/OrionTV) - 一个基于 React Native TVOS 和 Expo 构建的播放器，旨在提供流畅的视频观看体验。
 
@@ -1502,13 +1504,11 @@
 
 *   [HuChundong/DouBaoFreeImageGen](https://github.com/HuChundong/DouBaoFreeImageGen) - 将豆包强大的文生图能力接入MCP
 
-*   [easychen/CookieCloud](https://github.com/easychen/CookieCloud) - CookieCloud是一个和自架服务器同步浏览器Cookie和LocalStorage的小工具，支持端对端加密，可设定同步时间间隔。本仓库包含了插件和服务器端源码。CookieCloud is a small tool for synchronizing browser cookies and LocalStorage with a self-hosted server. It supports end-to-end encryption and allows for setting the synchronization interval. This repository contains both the plugin and the server-side source code
-
 *   [vancur2021/ProxyFilter](https://github.com/vancur2021/ProxyFilter) - 节点过滤器
 
 *   [Yorkian/clasher](https://github.com/Yorkian/clasher) - A tool for managing network routing rules
 
-*   [eraycc/M3U8Download](https://github.com/eraycc/M3U8Download) - 基于开源项目修改后的在线m3u8下载网页，主要修改了传参方式以适配SuperTV
+*   [eraycc/M3U8Download](https://github.com/eraycc/M3U8Download) - 基于开源项目修改后的在线m3u8下载网页，主要修改了传参方式以适配SuperTV，新增支持多清晰度、部分加密M3U8下载
 
 *   [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - 在原版的基础上修改了显示 VLESS 配置信息转换为订阅内容。使用该脚本，你可以方便地将 VLESS 配置信息使用在线配置转换到 Clash 或 Singbox 等工具中。
 
