@@ -26,7 +26,6 @@
 *   [C](#c-2)
 *   [Less](#less)
 *   [Jupyter Notebook](#jupyter-notebook)
-*   [MDX](#mdx)
 *   [AutoHotkey](#autohotkey)
 *   [Batchfile](#batchfile)
 *   [SCSS](#scss)
@@ -34,6 +33,7 @@
 *   [Lua](#lua)
 *   [Makefile](#makefile)
 *   [AngelScript](#angelscript)
+*   [MDX](#mdx)
 *   [GLSL](#glsl)
 *   [AutoIt](#autoit)
 *   [Clojure](#clojure)
@@ -394,8 +394,6 @@
 
 *   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 
-*   [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines) - ⏰ Collaboratively track worldwide conference deadlines (Website, Python Cli, Wechat Applet) / If you find it useful, please star this project, thanks~
-
 *   [yiqia/activity](https://github.com/yiqia/activity) - 基于vue+element-ui的SSM校园活动信息平台
 
 ## Python
@@ -422,7 +420,7 @@
 
 *   [wozhenbang2004/augetment-cursor-unlimited](https://github.com/wozhenbang2004/augetment-cursor-unlimited) - Augment一站式彻底重置方案汇总 高效|快速|彻底|无限白嫖续杯 包爽用
 
-*   [thedulikaifazr/Free-Cursor](https://github.com/thedulikaifazr/Free-Cursor) - 一款扩展cursor功能的小巧工具
+*   [dulikaifazr/Free-Cursor](https://github.com/dulikaifazr/Free-Cursor) - 一款扩展编辑器功能的小巧工具
 
 *   [coleam00/context-engineering-intro](https://github.com/coleam00/context-engineering-intro) - Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply this strategy with any AI coding assistant!
 
@@ -1298,7 +1296,7 @@
 
 *   [sotasan/decompiler](https://github.com/sotasan/decompiler) - Java Decompiler GUI
 
-*   [zpj80231/idea-set](https://github.com/zpj80231/idea-set) - ✅ JetBrains IntelliJ IDEA 破解激活、自用配置、插件，打包整理。
+*   [zpj80231/idea-set](https://github.com/zpj80231/idea-set) - ✅ JetBrains IntelliJ IDEA 自用配置、常用插件、破解激活，打包整理。
 
 *   [lsieun/learn-java-asm](https://github.com/lsieun/learn-java-asm) - :bug: Java ASM
 
@@ -1536,6 +1534,8 @@
 
 *   [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 
+*   [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
+
 *   [Sunnnner/wallhaven\_rs](https://github.com/Sunnnner/wallhaven_rs) - Wallpapers图片下载器
 
 *   [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
@@ -1549,6 +1549,8 @@
 *   [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 
 *   [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
+
+*   [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines) - ⏰ Collaboratively track worldwide conference deadlines (Website, Python Cli, Wechat Applet) / If you find it useful, please star this project, thanks~
 
 *   [cangzhang/champ-r](https://github.com/cangzhang/champ-r) - 🐶 Yet another League of Legends helper
 
@@ -2022,12 +2024,6 @@
 
 *   [cbdb-project/named-entities-for-premodern-chinese-history-research](https://github.com/cbdb-project/named-entities-for-premodern-chinese-history-research) - Repo to generate and host named entities for premodern chinese history research
 
-## MDX
-
-*   [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
-
-*   [ZiYi0414/handsome-css3-lib](https://github.com/ZiYi0414/handsome-css3-lib) - Amazingly handsome Open-Source UI components made with HTML and CSS. Collection of very handsome CSS animations and special effects on the Internet（在网上收集各种帅气的CSS3特效和动画，按钮标题等各种好玩酷炫的特效组件，网站主旨在于收集网上仅靠 CSS 与 HTML 就可以实现的动效UI。
-
 ## AutoHotkey
 
 *   [sxzxs/Real-time-translation-typing](https://github.com/sxzxs/Real-time-translation-typing) - 实时打字翻译软件、语音实时打字、语音实时翻译、LOL 语音打字
@@ -2077,6 +2073,10 @@
 ## AngelScript
 
 *   [chen310/BilibiliPotPlayer](https://github.com/chen310/BilibiliPotPlayer) - PotPlayer 哔哩哔哩插件：可以直接在 PotPlayer 中播放哔哩哔哩中的视频、直播和音乐
+
+## MDX
+
+*   [ZiYi0414/handsome-css3-lib](https://github.com/ZiYi0414/handsome-css3-lib) - Amazingly handsome Open-Source UI components made with HTML and CSS. Collection of very handsome CSS animations and special effects on the Internet（在网上收集各种帅气的CSS3特效和动画，按钮标题等各种好玩酷炫的特效组件，网站主旨在于收集网上仅靠 CSS 与 HTML 就可以实现的动效UI。
 
 ## GLSL
 
