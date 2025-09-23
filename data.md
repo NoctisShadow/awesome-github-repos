@@ -2,8 +2,9 @@
 
 ## Table of Contents
 
-*   [Vue](#vue)
+*   [HTML](#html)
 *   [miscellaneous](#miscellaneous)
+*   [Vue](#vue)
 *   [TypeScript](#typescript)
 *   [Python](#python)
 *   [Java](#java)
@@ -14,7 +15,6 @@
 *   [C++](#c-1)
 *   [Go](#go)
 *   [Rust](#rust)
-*   [HTML](#html)
 *   [CSS](#css)
 *   [Svelte](#svelte)
 *   [JavaScript](#javascript)
@@ -48,67 +48,79 @@
 *   [Haskell](#haskell)
 *   [Swift](#swift)
 
-## Vue
+## HTML
 
-*   [LSTM-Kirigaya/slidev-theme-miracle](https://github.com/LSTM-Kirigaya/slidev-theme-miracle) - Academic slidev theme for USTC 🎓
+*   [Wilsonoonn/n8n\_nl2sql](https://github.com/Wilsonoonn/n8n_nl2sql) - 这是一个 n8n nl2sql 的工作流，将自然语言问题转化为可执行的 SQL 查询。以一个智能数据助手嵌入 web 系统中，能查询数据库，并为数据提供可视化图表。
 
-*   [Ryson-32/AI-Magnet-Assistant](https://github.com/Ryson-32/AI-Magnet-Assistant) - AI Magnet Assistant: Aggregates multi-engine magnet links with AI optimization for smart filtering and organization. AI磁力助手：聚合多引擎磁力链接，AI优化搜索结果，智能筛选和整理。
+*   [madlifer/BentoGrid-Html-Slide](https://github.com/madlifer/BentoGrid-Html-Slide) - A Bento Grid Style Slide template.
 
-*   [zhaochengcube/augment-token-mng](https://github.com/zhaochengcube/augment-token-mng) - 一个基于 Tauri 构建的跨平台桌面应用程序，用于生成和管理 Augment Code 访问令牌。
+*   [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 
-*   [devSlow/aigc](https://github.com/devSlow/aigc) -
+*   [MindMobius/WallpaperEngineMediaLibrary](https://github.com/MindMobius/WallpaperEngineMediaLibrary) - 一键将你本地的 Wallpaper Engine 仓库变成一个可通过浏览器访问的个人媒体库，支持多端访问和数据同步
 
-*   [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) - 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制
+*   [yang478/ai-ui-html](https://github.com/yang478/ai-ui-html) - AI UI 提示词生成器
 
-*   [isinry/alist\_repo](https://github.com/isinry/alist_repo) -
+*   [lfglfg11/openaimodels](https://github.com/lfglfg11/openaimodels) - openai API模型及余额查询、硅基流动模型及余额查询
 
-*   [hzruo/pdfSeer](https://github.com/hzruo/pdfSeer) -
+*   [fff122/PicSpider](https://github.com/fff122/PicSpider) - 批量爬取写真站,并展示
 
-*   [xifan2333/utools-tvbox](https://github.com/xifan2333/utools-tvbox) - 一个简单易用的 utools 影视搜索工具
+*   [zhtyyx/ioe](https://github.com/zhtyyx/ioe) - One-Stop Retail Inventory Solution
 
-*   [UIforFreedom/UIF](https://github.com/UIforFreedom/UIF) - 代理面板 UI for Freedom
+*   [Ac-Wiki/Ac-Wiki](https://github.com/Ac-Wiki/Ac-Wiki) - 高等教育学社基础知识开源建设工程｜青年大学习
 
-*   [star5o/reverse-check](https://github.com/star5o/reverse-check) - Pure Front-End LLM API Testing Tool
+*   [ls1248659692/python\_guide](https://github.com/ls1248659692/python_guide) - python  backend learning map
 
-*   [lanxiuyun/lazyeat](https://github.com/lanxiuyun/lazyeat) - Lazyeat｜手势隔空控制，比划就行！Lazyeat is a touch-free controller for use while eating! Don't want greasy hands while watching shows or browsing the web during meals? You can pause videos/full screen/switch videos just by gesturing to the camera!
+*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
-*   [luckjiawei/frpc-desktop](https://github.com/luckjiawei/frpc-desktop) - frp跨平台桌面客户端，可视化配置，轻松实现内网穿透！ 支持所有frp版本
+*   [CyC2018/Markdown-Resume](https://github.com/CyC2018/Markdown-Resume) - ⭐️ Markdown 简历模版
 
-*   [anghunk/linuxdo-scripts](https://github.com/anghunk/linuxdo-scripts) - LinuxDo Scripts 扩展，功能持续更新，欢迎提出新想法！已上架 Chrome Web Store 和 Firefox 商店！文档地址：https://linuxdo-scripts.zishu.me
+*   [duolabmeng6/ollama\_ui](https://github.com/duolabmeng6/ollama_ui) - This is a simple ollama admin panel that implements a list of models to download models and a dialog function.
 
-*   [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player
+*   [qiye45/wechatDownload](https://github.com/qiye45/wechatDownload) - 微信公众号文章批量下载工具，支持评论、合集下载，支持保存html/mhtml/md/pdf/docx文件，保存文章内图片、视频、音频文件
 
-*   [wechat-article/wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter) - 一个在线的微信公众号文章批量下载工具，支持下载阅读量与评论数据，支持私有化部署，通过浏览器进行使用，无需进行安装
+*   [worldwonderer/gpt\_algo](https://github.com/worldwonderer/gpt_algo) - 利用 GPT-4 的代码理解能力，为 LeetCode 算法题提供高质量的题解和解答说明
 
-*   [aehyok/video2blog](https://github.com/aehyok/video2blog) - 视频转图文 AI跨平台客户端（win mac linux）
+*   [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 
-*   [Edge-coordinates/WViewer](https://github.com/Edge-coordinates/WViewer) - 瀑布流图片查看器
+*   [xy-sea/blog](https://github.com/xy-sea/blog) - 博客：前端知识体系、前端监控、性能优化、原理探索、面经等
 
-*   [zhiyiYo/KilaKila-Blog](https://github.com/zhiyiYo/KilaKila-Blog) - 一个基于 SpringBoot 和 Vue3 的博客系统
+*   [Terminus2049/Not-exist-in-douban](https://github.com/Terminus2049/Not-exist-in-douban) - 豆瓣不存在的书影音
 
-*   [KeJunMao/ai-anything](https://github.com/KeJunMao/ai-anything) - 💞 Anyone can create GPT tools 人人都能创建 GPT 工具
+*   [shengqiangzhang/examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) - 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、微信读书、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
 
-*   [laorange/paper-assistant](https://github.com/laorange/paper-assistant) - 论文工具：文本复制工具 (智能删除空行空格乱码)
+*   [Momo707577045/media-source-extract](https://github.com/Momo707577045/media-source-extract) - MediaSource 视频提取教程
 
-*   [auroral-ui/hexo-theme-aurora](https://github.com/auroral-ui/hexo-theme-aurora) - 🏳️‍🌈 Futuristic auroral Hexo theme.
+*   [abhivaikar/howtheytest](https://github.com/abhivaikar/howtheytest) - A collection of public resources about how software companies test their software
 
-*   [fzf404/Monit](https://github.com/fzf404/Monit) - 🎯 Desktop Widget ( 桌面小组件 )
+*   [eveningwater/code-segment](https://github.com/eveningwater/code-segment) - 一个代码片段的集合
 
-*   [lsgwr/spring-boot-online-exam](https://github.com/lsgwr/spring-boot-online-exam) - 基于Spring Boot的在线考试系统(预览地址 http://129.211.88.191 ，账户分别是admin、teacher、student，密码是admin123)，也有Python实现
+*   [remram44/regex-cheatsheet](https://github.com/remram44/regex-cheatsheet) - Cheatsheet for different regex syntaxes
 
-*   [lookscanned/lookscanned.io](https://github.com/lookscanned/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned
+*   [xxlllq/system\_architect](https://github.com/xxlllq/system_architect) - :100: 2025年系统架构设计师（软考高级）备考资料。
 
-*   [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
+*   [momo0853/kkndme](https://github.com/momo0853/kkndme) - kkndme聊房，数据整理自天涯。提供HTML、PDF和Markdown三种形式。
 
-*   [betterRunner/context-note](https://github.com/betterRunner/context-note) - A note-taking chrome extension: taking notes on the web with their context.
+*   [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 
-*   [lcomplete/TechShare](https://github.com/lcomplete/TechShare) - 🌟 分享效率方法 🪄、优质文章 📑、编程知识 🎹、实用工具 🛠️ 和有趣内容 😄。💌 当有重要的事情需要分享时会发送 newsletter。
+*   [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
 
-*   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
+*   [zhangkaitao/shiro-example](https://github.com/zhangkaitao/shiro-example) - 跟我学Shiro（我的公众号：kaitao-1234567，我的新书：《亿级流量网站架构核心技术》）
 
-*   [yiqia/activity](https://github.com/yiqia/activity) - 基于vue+element-ui的SSM校园活动信息平台
+*   [HZFE/awesome-interview](https://github.com/HZFE/awesome-interview) - 剑指前端 Offer
+
+*   [anbang/javascript-notes](https://github.com/anbang/javascript-notes) -  JavaScript 学习笔记；JavaScript学习总结；前端变化太快，只有把JS基础打扎实了，才能游刃有余；为了让我的JavaScript基础异常牢固，思路更加清晰，我会把以前总结过的知识和平时看到的资料放在这里，把以前零零散散的知识点全部串起来！这个项目也许写到最后会是一个非常不错的JavaScript教程，希望可以帮到更多的人；收藏请点star；如果发现我有写错误的，欢迎随时帮我改正，或者增加新的观点，谢谢！
+
+*   [PanDownloadServer/Server](https://github.com/PanDownloadServer/Server) - PanDownload的个人维护版本
+
+*   [SaltyLeo/i-book.in\_Archive](https://github.com/SaltyLeo/i-book.in_Archive) -
+
+*   [bajins/notes-docsify](https://github.com/bajins/notes-docsify) - 这是一个用docsify构建的文档
+
+*   [bajins/notes-vuepress](https://github.com/bajins/notes-vuepress) - 使用VuePress构建静态网站 https://github.com/bajins/bajins.github.io ，动态构建 https://github.com/bajins/notes-docsify
 
 ## miscellaneous
+
+*   [CharmingCheung/CharmingTVBox](https://github.com/CharmingCheung/CharmingTVBox) - A streaming media player based on Electron and Shaka-Player
 
 *   [kingkongshot/prompts](https://github.com/kingkongshot/prompts) - AI 相关的笔记
 
@@ -492,6 +504,66 @@
 
 *   [stanzhai/be-a-professional-programmer](https://github.com/stanzhai/be-a-professional-programmer) - 成为专业程序员路上用到的各种优秀资料、神器及框架
 
+## Vue
+
+*   [LSTM-Kirigaya/slidev-theme-miracle](https://github.com/LSTM-Kirigaya/slidev-theme-miracle) - Academic slidev theme for USTC 🎓
+
+*   [Ryson-32/AI-Magnet-Assistant](https://github.com/Ryson-32/AI-Magnet-Assistant) - AI Magnet Assistant: Aggregates multi-engine magnet links with AI optimization for smart filtering and organization. AI磁力助手：聚合多引擎磁力链接，AI优化搜索结果，智能筛选和整理。
+
+*   [zhaochengcube/augment-token-mng](https://github.com/zhaochengcube/augment-token-mng) - 一个基于 Tauri 构建的跨平台桌面应用程序，用于生成和管理 Augment Code 访问令牌。
+
+*   [devSlow/aigc](https://github.com/devSlow/aigc) -
+
+*   [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) - 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制
+
+*   [isinry/alist\_repo](https://github.com/isinry/alist_repo) -
+
+*   [hzruo/pdfSeer](https://github.com/hzruo/pdfSeer) -
+
+*   [xifan2333/utools-tvbox](https://github.com/xifan2333/utools-tvbox) - 一个简单易用的 utools 影视搜索工具
+
+*   [UIforFreedom/UIF](https://github.com/UIforFreedom/UIF) - 代理面板 UI for Freedom
+
+*   [star5o/reverse-check](https://github.com/star5o/reverse-check) - Pure Front-End LLM API Testing Tool
+
+*   [lanxiuyun/lazyeat](https://github.com/lanxiuyun/lazyeat) - Lazyeat｜手势隔空控制，比划就行！Lazyeat is a touch-free controller for use while eating! Don't want greasy hands while watching shows or browsing the web during meals? You can pause videos/full screen/switch videos just by gesturing to the camera!
+
+*   [luckjiawei/frpc-desktop](https://github.com/luckjiawei/frpc-desktop) - frp跨平台桌面客户端，可视化配置，轻松实现内网穿透！ 支持所有frp版本
+
+*   [anghunk/linuxdo-scripts](https://github.com/anghunk/linuxdo-scripts) - LinuxDo Scripts 扩展，功能持续更新，欢迎提出新想法！已上架 Chrome Web Store 和 Firefox 商店！文档地址：https://linuxdo-scripts.zishu.me
+
+*   [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player
+
+*   [wechat-article/wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter) - 一个在线的微信公众号文章批量下载工具，支持下载阅读量与评论数据，支持私有化部署，通过浏览器进行使用，无需进行安装
+
+*   [aehyok/video2blog](https://github.com/aehyok/video2blog) - 视频转图文 AI跨平台客户端（win mac linux）
+
+*   [Edge-coordinates/WViewer](https://github.com/Edge-coordinates/WViewer) - 瀑布流图片查看器
+
+*   [zhiyiYo/KilaKila-Blog](https://github.com/zhiyiYo/KilaKila-Blog) - 一个基于 SpringBoot 和 Vue3 的博客系统
+
+*   [KeJunMao/ai-anything](https://github.com/KeJunMao/ai-anything) - 💞 Anyone can create GPT tools 人人都能创建 GPT 工具
+
+*   [laorange/paper-assistant](https://github.com/laorange/paper-assistant) - 论文工具：文本复制工具 (智能删除空行空格乱码)
+
+*   [auroral-ui/hexo-theme-aurora](https://github.com/auroral-ui/hexo-theme-aurora) - 🏳️‍🌈 Futuristic auroral Hexo theme.
+
+*   [fzf404/Monit](https://github.com/fzf404/Monit) - 🎯 Desktop Widget ( 桌面小组件 )
+
+*   [lsgwr/spring-boot-online-exam](https://github.com/lsgwr/spring-boot-online-exam) - 基于Spring Boot的在线考试系统(预览地址 http://129.211.88.191 ，账户分别是admin、teacher、student，密码是admin123)，也有Python实现
+
+*   [lookscanned/lookscanned.io](https://github.com/lookscanned/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned
+
+*   [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
+
+*   [betterRunner/context-note](https://github.com/betterRunner/context-note) - A note-taking chrome extension: taking notes on the web with their context.
+
+*   [lcomplete/TechShare](https://github.com/lcomplete/TechShare) - 🌟 分享效率方法 🪄、优质文章 📑、编程知识 🎹、实用工具 🛠️ 和有趣内容 😄。💌 当有重要的事情需要分享时会发送 newsletter。
+
+*   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
+
+*   [yiqia/activity](https://github.com/yiqia/activity) - 基于vue+element-ui的SSM校园活动信息平台
+
 ## TypeScript
 
 *   [bestK/vscode-internal-command-mcp-server](https://github.com/bestK/vscode-internal-command-mcp-server) -
@@ -728,7 +800,7 @@
 
 *   [numz/ComfyUI-SeedVR2\_VideoUpscaler](https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler) - Official SeedVR2 Video Upscaler for ComfyUI
 
-*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，趋势分析工具，一键监控抖音、知乎、哔哩哔哩、今日头条、百度热搜、贴吧、微博、华尔街见闻、财联社等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，30秒网页部署，1分钟手机通知，无需编程基础。也支持docker私人部署⭐ 让算法为你服务，而非被算法绑架
+*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，趋势分析工具，一键监控抖音、知乎、哔哩哔哩、今日头条、百度热搜、贴吧、微博、华尔街见闻、财联社等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram、邮件推送，30秒网页部署，1分钟手机通知，无需编程基础。也支持docker私人部署⭐ 让算法为你服务，而非被算法绑架
 
 *   [devgaganin/Save-Restricted-Content-Bot-v2](https://github.com/devgaganin/Save-Restricted-Content-Bot-v2) - A stable telegram bot to get restricted messages with custom thumbnail support , made by TEAM SPY This bot can upload files upto 4GB + YouTube/Insta/Facebook video downloading support  along with 100+ more sites
 
@@ -1268,8 +1340,6 @@
 
 *   [Tichau/FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.
 
-*   [ldqk/Masuit.MyBlogs](https://github.com/ldqk/Masuit.MyBlogs) - 基于C#/.NET8的 masuit.org个人博客站项目源码，https://masuit.org ，供参考、学习、引用、非商业性质的部署。
-
 *   [Tlaster/YourAV](https://github.com/Tlaster/YourAV) - 宇宙级最轻量杀毒软件
 
 *   [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
@@ -1287,10 +1357,6 @@
 *   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 
 *   [nilaoda/N\_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) - \[.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.
-
-*   [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
-
-*   [randyrants/sharpkeys](https://github.com/randyrants/sharpkeys) - SharpKeys is a utility that manages a Registry key that allows Windows to remap one key to any other key.
 
 ## Shell
 
@@ -1558,74 +1624,6 @@
 
 *   [cangzhang/champ-r](https://github.com/cangzhang/champ-r) - 🐶 Yet another League of Legends helper
 
-## HTML
-
-*   [madlifer/BentoGrid-Html-Slide](https://github.com/madlifer/BentoGrid-Html-Slide) - A Bento Grid Style Slide template.
-
-*   [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
-
-*   [MindMobius/WallpaperEngineMediaLibrary](https://github.com/MindMobius/WallpaperEngineMediaLibrary) - 一键将你本地的 Wallpaper Engine 仓库变成一个可通过浏览器访问的个人媒体库，支持多端访问和数据同步
-
-*   [yang478/ai-ui-html](https://github.com/yang478/ai-ui-html) - AI UI 提示词生成器
-
-*   [lfglfg11/openaimodels](https://github.com/lfglfg11/openaimodels) - openai API模型及余额查询、硅基流动模型及余额查询
-
-*   [fff122/PicSpider](https://github.com/fff122/PicSpider) - 批量爬取写真站,并展示
-
-*   [zhtyyx/ioe](https://github.com/zhtyyx/ioe) - One-Stop Retail Inventory Solution
-
-*   [Ac-Wiki/Ac-Wiki](https://github.com/Ac-Wiki/Ac-Wiki) - 高等教育学社基础知识开源建设工程｜青年大学习
-
-*   [ls1248659692/python\_guide](https://github.com/ls1248659692/python_guide) - python  backend learning map
-
-*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-
-*   [CyC2018/Markdown-Resume](https://github.com/CyC2018/Markdown-Resume) - ⭐️ Markdown 简历模版
-
-*   [duolabmeng6/ollama\_ui](https://github.com/duolabmeng6/ollama_ui) - This is a simple ollama admin panel that implements a list of models to download models and a dialog function.
-
-*   [qiye45/wechatDownload](https://github.com/qiye45/wechatDownload) - 微信公众号文章批量下载工具，支持评论、合集下载，支持保存html/mhtml/md/pdf/docx文件，保存文章内图片、视频、音频文件
-
-*   [worldwonderer/gpt\_algo](https://github.com/worldwonderer/gpt_algo) - 利用 GPT-4 的代码理解能力，为 LeetCode 算法题提供高质量的题解和解答说明
-
-*   [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
-
-*   [xy-sea/blog](https://github.com/xy-sea/blog) - 博客：前端知识体系、前端监控、性能优化、原理探索、面经等
-
-*   [Terminus2049/Not-exist-in-douban](https://github.com/Terminus2049/Not-exist-in-douban) - 豆瓣不存在的书影音
-
-*   [shengqiangzhang/examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) - 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、微信读书、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
-
-*   [Momo707577045/media-source-extract](https://github.com/Momo707577045/media-source-extract) - MediaSource 视频提取教程
-
-*   [abhivaikar/howtheytest](https://github.com/abhivaikar/howtheytest) - A collection of public resources about how software companies test their software
-
-*   [eveningwater/code-segment](https://github.com/eveningwater/code-segment) - 一个代码片段的集合
-
-*   [remram44/regex-cheatsheet](https://github.com/remram44/regex-cheatsheet) - Cheatsheet for different regex syntaxes
-
-*   [xxlllq/system\_architect](https://github.com/xxlllq/system_architect) - :100: 2025年系统架构设计师（软考高级）备考资料。
-
-*   [momo0853/kkndme](https://github.com/momo0853/kkndme) - kkndme聊房，数据整理自天涯。提供HTML、PDF和Markdown三种形式。
-
-*   [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
-
-*   [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
-
-*   [zhangkaitao/shiro-example](https://github.com/zhangkaitao/shiro-example) - 跟我学Shiro（我的公众号：kaitao-1234567，我的新书：《亿级流量网站架构核心技术》）
-
-*   [HZFE/awesome-interview](https://github.com/HZFE/awesome-interview) - 剑指前端 Offer
-
-*   [anbang/javascript-notes](https://github.com/anbang/javascript-notes) -  JavaScript 学习笔记；JavaScript学习总结；前端变化太快，只有把JS基础打扎实了，才能游刃有余；为了让我的JavaScript基础异常牢固，思路更加清晰，我会把以前总结过的知识和平时看到的资料放在这里，把以前零零散散的知识点全部串起来！这个项目也许写到最后会是一个非常不错的JavaScript教程，希望可以帮到更多的人；收藏请点star；如果发现我有写错误的，欢迎随时帮我改正，或者增加新的观点，谢谢！
-
-*   [PanDownloadServer/Server](https://github.com/PanDownloadServer/Server) - PanDownload的个人维护版本
-
-*   [SaltyLeo/i-book.in\_Archive](https://github.com/SaltyLeo/i-book.in_Archive) -
-
-*   [bajins/notes-docsify](https://github.com/bajins/notes-docsify) - 这是一个用docsify构建的文档
-
-*   [bajins/notes-vuepress](https://github.com/bajins/notes-vuepress) - 使用VuePress构建静态网站 https://github.com/bajins/bajins.github.io ，动态构建 https://github.com/bajins/notes-docsify
-
 ## CSS
 
 *   [KuekHaoYang/AI-Prompt-Protocols](https://github.com/KuekHaoYang/AI-Prompt-Protocols) - A universal system prompt designed to compel Large Language Models to engage in profound, exhaustive, and structured deep thinking.
@@ -1647,6 +1645,8 @@
 *   [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
 
 *   [mgilangjanuar/teledrive](https://github.com/mgilangjanuar/teledrive) - The Google Drive/OneDrive/etc alternative using Telegram API
+
+*   [ldqk/Masuit.MyBlogs](https://github.com/ldqk/Masuit.MyBlogs) - 基于C#/.NET8的 masuit.org个人博客站项目源码，https://masuit.org ，供参考、学习、引用、非商业性质的部署。
 
 *   [WebStackPage/WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) - ❤️静态响应式网址导航网站 - webstack.cc
 
