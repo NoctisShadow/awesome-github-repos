@@ -66,8 +66,6 @@
 
 *   [katelya77/KatelyaTV](https://github.com/katelya77/KatelyaTV) - 一个基于MoonTV(LunaTV)二次开发的项目。
 
-*   [LSTM-Kirigaya/slidev-ai](https://github.com/LSTM-Kirigaya/slidev-ai) - ai app for slidev
-
 *   [Amery2010/midjourney-prompt-generator](https://github.com/Amery2010/midjourney-prompt-generator) - Midjourney prompt generator
 
 *   [Stardm0/MoonTV](https://github.com/Stardm0/MoonTV) - 🎬 MoonTV 是一个开箱即用的、跨平台的影视聚合播放器。本项目现基于2.0.1开始自行维护更新(提醒： cloudflare部署有封pages的风险)
@@ -626,7 +624,7 @@
 
 *   [ashish0kumar/windots](https://github.com/ashish0kumar/windots) - 🌾 My Windows setup
 
-*   [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
+*   [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
 
 *   [bb-music/flutter-app](https://github.com/bb-music/flutter-app) - 使用 flutter 编写的哔哔音乐客户端，无需登录，没有信息收集，实现你的听歌自由。
 
@@ -961,6 +959,8 @@
 *   [LSTM-Kirigaya/slidev-theme-miracle](https://github.com/LSTM-Kirigaya/slidev-theme-miracle) - Academic slidev theme for USTC 🎓
 
 *   [Ryson-32/AI-Magnet-Assistant](https://github.com/Ryson-32/AI-Magnet-Assistant) - AI Magnet Assistant: Aggregates multi-engine magnet links with AI optimization for smart filtering and organization. AI磁力助手：聚合多引擎磁力链接，AI优化搜索结果，智能筛选和整理。
+
+*   [LSTM-Kirigaya/slidev-ai](https://github.com/LSTM-Kirigaya/slidev-ai) - ai app for slidev
 
 *   [zhaochengcube/augment-token-mng](https://github.com/zhaochengcube/augment-token-mng) - 一个基于 Tauri 构建的跨平台桌面应用程序，用于生成和管理 Augment Code 访问令牌。
 
