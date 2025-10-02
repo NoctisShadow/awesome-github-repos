@@ -432,7 +432,7 @@
 
 ## JavaScript
 
-*   [hafrey1/LunaTV-config](https://github.com/hafrey1/LunaTV-config) - 随缘更新自用LunaTV-config视频源，每日自动检测API状态，添加is\_adult参数： 标记成人内容源，KatelyaTV可用，自用版专业的JSON配置文件编辑器，专为Luna TV配置管理而设计。
+*   [hafrey1/LunaTV-config](https://github.com/hafrey1/LunaTV-config) - 随缘更新自用LunaTV-config源，每日自动检测API状态，添加is\_adult参数： 标记成人内容源，KatelyaTV可用。CORSAPI中转被墙源API，请勿滥用！！！自用JSON配置文件编辑器，Luna TV配置管理专用。
 
 *   [0-V-linuxdo/Chat\_Template\_Text\_Folders](https://github.com/0-V-linuxdo/Chat_Template_Text_Folders) - 在AI页面上添加预设文本文件夹和按钮，提升输入效率。
 
@@ -1404,6 +1404,8 @@
 
 *   [bajins/notes-docsify](https://github.com/bajins/notes-docsify) - 这是一个用docsify构建的文档
 
+*   [bajins/notes-vuepress](https://github.com/bajins/notes-vuepress) - 使用VuePress构建静态网站 https://github.com/bajins/bajins.github.io ，动态构建 https://github.com/bajins/notes-docsify
+
 ## Vue
 
 *   [LSTM-Kirigaya/slidev-theme-miracle](https://github.com/LSTM-Kirigaya/slidev-theme-miracle) - Academic slidev theme for USTC 🎓
@@ -1813,8 +1815,6 @@
 *   [CodePanda66/CSPostgraduate-408](https://github.com/CodePanda66/CSPostgraduate-408) - 💯  CSPostgraduate 计算机考研 408 专业课资料及真题资源
 
 *   [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
-
-*   [BlackINT3/OpenArk](https://github.com/BlackINT3/OpenArk) - The Next Generation of Anti-Rookit(ARK) tool for Windows.
 
 *   [rr-debugger/rr](https://github.com/rr-debugger/rr) - Record and Replay Framework
 
