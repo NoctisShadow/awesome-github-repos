@@ -432,7 +432,7 @@
 
 ## JavaScript
 
-*   [hafrey1/LunaTV-config](https://github.com/hafrey1/LunaTV-config) - 随缘更新自用LunaTV-config源，每日自动检测API状态，添加is\_adult参数： 标记成人内容源，KatelyaTV可用。CORSAPI中转被墙源API，请勿滥用！！！自用JSON配置文件编辑器，Luna TV配置管理专用。
+*   [hafrey1/LunaTV-config](https://github.com/hafrey1/LunaTV-config) - 随缘更新自用LunaTV-config源，每日自动检测API状态，添加is\_adult参数： 标记成人内容源，KatelyaTV可用。CORSAPI中转被墙API，请勿滥用！！！自用JSON配置文件编辑器，Luna TV配置管理专用。
 
 *   [0-V-linuxdo/Chat\_Template\_Text\_Folders](https://github.com/0-V-linuxdo/Chat_Template_Text_Folders) - 在AI页面上添加预设文本文件夹和按钮，提升输入效率。
 
@@ -724,7 +724,7 @@
 
 *   [numz/ComfyUI-SeedVR2\_VideoUpscaler](https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler) - Official SeedVR2 Video Upscaler for ComfyUI
 
-*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，趋势分析工具，一键监控抖音、知乎、哔哩哔哩、今日头条、百度热搜、贴吧、微博、华尔街见闻、财联社等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram、邮件推送，30秒网页部署，1分钟手机通知，无需编程基础。也支持docker私人部署⭐ 让算法为你服务，而非被算法绑架
+*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，趋势分析工具，一键监控抖音、知乎、哔哩哔哩、今日头条、百度热搜、贴吧、微博、华尔街见闻、财联社等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram、邮件、ntfy推送，30秒网页部署，1分钟手机通知，无需编程基础。也支持docker私人部署⭐ 让算法为你服务，而非被算法绑架
 
 *   [devgaganin/Save-Restricted-Content-Bot-v2](https://github.com/devgaganin/Save-Restricted-Content-Bot-v2) - A stable telegram bot to get restricted messages with custom thumbnail support , made by TEAM SPY This bot can upload files upto 4GB + YouTube/Insta/Facebook video downloading support  along with 100+ more sites
 
@@ -1056,7 +1056,7 @@
 
 *   [2234839/TsFullStack](https://github.com/2234839/TsFullStack) -
 
-*   [katelya77/KatelyaTV](https://github.com/katelya77/KatelyaTV) - 一个基于MoonTV(LunaTV)二次开发的项目。
+*   [katelya77/KatelyaTV](https://github.com/katelya77/KatelyaTV) - 一个基于MoonTV(LunaTV)二次开发的项目。新项目：https://github.com/Decohererk/DecoTV
 
 *   [Amery2010/midjourney-prompt-generator](https://github.com/Amery2010/midjourney-prompt-generator) - Midjourney prompt generator
 
