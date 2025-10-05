@@ -2,10 +2,10 @@
 
 ## Table of Contents
 
-*   [Java](#java)
-*   [miscellaneous](#miscellaneous)
-*   [JavaScript](#javascript)
 *   [Python](#python)
+*   [miscellaneous](#miscellaneous)
+*   [Java](#java)
+*   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [Go](#go)
 *   [HTML](#html)
@@ -48,165 +48,363 @@
 *   [Haskell](#haskell)
 *   [Swift](#swift)
 
-## Java
+## Python
 
-*   [houbb/sensitive-word](https://github.com/houbb/sensitive-word) -  👮‍♂️The sensitive word tool for java.(敏感词/违禁词/违法词/脏词。基于 DFA 算法实现的高性能 java 敏感词过滤工具框架。内置支持单词标签分类分级。请勿发布涉及政治、广告、营销、翻墙、违反国家法律法规等内容。高性能敏感词检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。)
+*   [hyb-oyqq/hajimi-king-pro](https://github.com/hyb-oyqq/hajimi-king-pro) - 人人都是【超级】哈基米大王
 
-*   [nagisa77/OpenIsle](https://github.com/nagisa77/OpenIsle) - 完全开源的社区平台
+*   [shiyi-0x7f/o-lib](https://github.com/shiyi-0x7f/o-lib) - O-lib is a free and open-source software application for PC
 
-*   [cyuanyuan520/sbbs-community](https://github.com/cyuanyuan520/sbbs-community) - springboot + nuxt3.0构建的现代化轻量级社区
+*   [danghb/moyu\_yolov8](https://github.com/danghb/moyu_yolov8) - AI编程的yolo摄像头摸鱼小工具，防止背后凉凉的，不知道有没有人。
 
-*   [Tosencen/XMBOX](https://github.com/Tosencen/XMBOX) - 一个看片儿的空盒子软件，需自行配置源
+*   [melosbot/telegram-chat-organizer](https://github.com/melosbot/telegram-chat-organizer) -
 
-*   [Idea-flow/novel-download](https://github.com/Idea-flow/novel-download) - 在线小说下载网站 | 小说下载工具 | 免费下载小说 |网络小说 | 免费下载
+*   [liangdabiao/resume-matcher-agent-cn](https://github.com/liangdabiao/resume-matcher-agent-cn) - "简历匹配智能体"是一个AI驱动的平台，旨在逆向工程招聘算法，向您展示如何精准定制简历。获取那些能让你通过初步筛选、进入人工审阅阶段的关键词、格式和洞察。resume-matcher-agent意思就是模拟HR怎样筛选你的简历，提前给你展示筛选的结论，方便你尽快修改好你的简历，以增加通过的可能性。
 
-*   [ccmjga/zhilu-admin](https://github.com/ccmjga/zhilu-admin) - 🔥 通过 AI 驱动的新一代后台管理系统（Java21+Vue3.5）
+*   [sylearn/AICode](https://github.com/sylearn/AICode) - A comprehensive collection of AI-related utility scripts designed to simplify AI development workflows and automate common tasks.
 
-*   [jarvis2f/telegram-files](https://github.com/jarvis2f/telegram-files) - A self-hosted Telegram file downloader for continuous, stable, and unattended downloads.
+*   [Seameee/override-hub](https://github.com/Seameee/override-hub) - Mihomo Party Override Scripts
 
-*   [yoyocraft/dev-template](https://github.com/yoyocraft/dev-template) - develop template
+*   [itandelin/qoder-free](https://github.com/itandelin/qoder-free) - 一个用于重置 Qoder 应用程序用户身份信息的现代化图形界面工具。
 
-*   [hzhilong/bilibili-backup](https://github.com/hzhilong/bilibili-backup) - 一键对B站账号进行数据备份和还原，方便账号数据迁移/快速转生(哔哩哔哩 bilibili)。One-click backup and restore of B station account data, convenient account data migration/quick reincarnation.
+*   [54yyyu/zotero-mcp](https://github.com/54yyyu/zotero-mcp) - Zotero MCP: Connects your Zotero research library with Claude and other AI assistants via the Model Context Protocol to discuss papers, get summaries, analyze citations, and more.
 
-*   [qaiu/netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download) - 各类网盘直链解析服务, 已支持蓝奏云/蓝奏优享/小飞机盘/123云盘/移动联通/天翼云等. 支持文件夹分享解析. 体验地址: https://lz.qaiu.top    http://www.722shop.top:6401
+*   [wzdnzd/harvester](https://github.com/wzdnzd/harvester) - Intelligent data acquisition framework for GitHub and web sources
 
-*   [freeok/so-novel](https://github.com/freeok/so-novel) - 小说下载｜网文下载 | 网络小说
+*   [SimonUTD/ai-cognitive-nexus-mcp](https://github.com/SimonUTD/ai-cognitive-nexus-mcp) - 一个专业的、可动态编组的 AI 团队协作与编排的MCP。允许您通过简单的指令创建、管理和指挥由多个 AI 智能体 (Agent) 组成的层级化团队，以解决复杂和多阶段的任务。
 
-*   [Elejiang/GraceGateway](https://github.com/Elejiang/GraceGateway) - 高吞吐网关
+*   [SimonUTD/AI-Diagram-Prototype-Generator-MCP-Server-](https://github.com/SimonUTD/AI-Diagram-Prototype-Generator-MCP-Server-) - AI Diagram & Prototype File Generator (MCP Server)
 
-*   [dromara/neutrino-proxy](https://github.com/dromara/neutrino-proxy) - 中微子代理（内网穿透）
+*   [zigu-git/ql\_scripts](https://github.com/zigu-git/ql_scripts) - 自写自用脚本
 
-*   [loks666/get\_jobs](https://github.com/loks666/get_jobs) - 💼【AI找工作助手】全平台自动投简历脚本：(boss、前程无忧、猎聘、拉勾、智联招聘)
+*   [fengyuanluo/firemail](https://github.com/fengyuanluo/firemail) - 一款通用邮箱收件工具，提供简单高效的邮件管理解决方案
 
-*   [ZCShou/GoGoGo](https://github.com/ZCShou/GoGoGo) - 一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆
+*   [wozhenbang2004/augetment-cursor-unlimited](https://github.com/wozhenbang2004/augetment-cursor-unlimited) - Augment一站式彻底重置方案汇总 高效|快速|彻底|无限白嫖续杯 包爽用
 
-*   [luban-uncle/jCat](https://github.com/luban-uncle/jCat) - java development Console
+*   [dulikaifazr/Free-Lite](https://github.com/dulikaifazr/Free-Lite) - 只需几步即可学习构建一款软件
 
-*   [sanyou3/spring-extension](https://github.com/sanyou3/spring-extension) -
+*   [coleam00/context-engineering-intro](https://github.com/coleam00/context-engineering-intro) - Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply this strategy with any AI coding assistant!
 
-*   [nICEnnnnnnnLee/BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown) - (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳
+*   [ddCat-main/ai-goofish](https://github.com/ddCat-main/ai-goofish) -  一个功能强大的闲鱼商品监控系统，能够根据用户设定的关键词自动爬取商品信息，使用AI进行智能分析和筛选，并通过邮件等方式实时通知用户感兴趣的商品。
 
-*   [uncle-novel/uncle-novel](https://github.com/uncle-novel/uncle-novel) - 📖 Uncle小说，PC版，一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说。
+*   [numz/ComfyUI-SeedVR2\_VideoUpscaler](https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler) - Official SeedVR2 Video Upscaler for ComfyUI
 
-*   [zfile-dev/zfile](https://github.com/zfile-dev/zfile) - 在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai、上传、下载
+*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，趋势分析工具，一键监控抖音、知乎、哔哩哔哩、今日头条、百度热搜、贴吧、微博、华尔街见闻、财联社等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram、邮件、ntfy推送，30秒网页部署，1分钟手机通知，无需编程基础。也支持docker私人部署⭐ 让算法为你服务，而非被算法绑架
 
-*   [BeardedManZhao/mathematical-expression](https://github.com/BeardedManZhao/mathematical-expression) - 本框架是一种针对数学公式解析的有效工具 支持 Java python C++  API ，能够解析包含嵌套函数，包含函数，数列步长累加等数学公式，返回值是一个数值的结果对象，同时也可以进行比较运算的操作，再进行比较的时候，返回值是一个布尔值结果对象。PS 请尽量使用 1.3.1 版本以及以上的版本，这将有助于您使用更加稳定的版本，修复了 1.2.x中所有已知的bugMaven依赖坐标您可以直接使用maven将本框架导入到项目中使用，能够高效的使用该功能‘；This framework is an effective tool for parsing mathematical formulas that supports the Java Python C++API.
+*   [devgaganin/Save-Restricted-Content-Bot-v2](https://github.com/devgaganin/Save-Restricted-Content-Bot-v2) - A stable telegram bot to get restricted messages with custom thumbnail support , made by TEAM SPY This bot can upload files upto 4GB + YouTube/Insta/Facebook video downloading support  along with 100+ more sites
 
-*   [sotasan/decompiler](https://github.com/sotasan/decompiler) - Java Decompiler GUI
+*   [anyspecs/anyspecs-cli](https://github.com/anyspecs/anyspecs-cli) - Code is cheap, Show me Any Specs.
 
-*   [zpj80231/idea-set](https://github.com/zpj80231/idea-set) - ✅ JetBrains IntelliJ IDEA 自用配置、常用插件、破解激活，打包整理。
+*   [GakkiNoOne/hajimi-king](https://github.com/GakkiNoOne/hajimi-king) - 人人都是哈基米大王
 
-*   [lsieun/learn-java-asm](https://github.com/lsieun/learn-java-asm) - :bug: Java ASM
+*   [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 
-*   [houqingying/ChatViewer](https://github.com/houqingying/ChatViewer) - 基于SpringBoot和Vue开发的能和ChatGPT对话的知识分享/面试辅助网站
+*   [AuroraPixel/ai-personal-daily-assistant](https://github.com/AuroraPixel/ai-personal-daily-assistant) -
 
-*   [jlegewie/zotfile](https://github.com/jlegewie/zotfile) - Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, Android tablet, etc.), and extract PDF annotations.
+*   [wangxin776/AI-IDE-Chat-Export-Tool](https://github.com/wangxin776/AI-IDE-Chat-Export-Tool) -
 
-*   [timeless157/timeless-order-pay-parent](https://github.com/timeless157/timeless-order-pay-parent) - 订单支付系统
+*   [DEKVIW/tgmonitor](https://github.com/DEKVIW/tgmonitor) - 聚合监控tg网盘影视资源
 
-*   [eritpchy/FingerprintPay](https://github.com/eritpchy/FingerprintPay) - 让微信、QQ、支付宝、淘宝、云闪付支持使用指纹支付
+*   [ihmily/DouyinLiveRecorder](https://github.com/ihmily/DouyinLiveRecorder) - 可循环值守和多人录制的直播录制软件，支持抖音、TikTok、Youtube、快手、虎牙、斗鱼、B站、小红书、pandatv、sooplive、flextv、popkontv、twitcasting、winktv、百度、微博、酷狗、17Live、Twitch、Acfun、CHZZK、shopee等40+平台直播录制
 
-*   [mblog-backend/backend](https://github.com/mblog-backend/backend) - 支持前后分离/不分离的个人/多人使用的微博平台
+*   [hubumulity/Sijishe](https://github.com/hubumulity/Sijishe) - 司机社签到
 
-*   [bigintpro/csdn\_downloader](https://github.com/bigintpro/csdn_downloader) - csdn下载，csdn免积分下载，csdn免会员下载，csdn付费内容下载 免费资源 体验地址:http://servicedev.tpddns.cn:8181/#/login?c=12
+*   [duolabmeng6/ai\_git\_commit\_gui](https://github.com/duolabmeng6/ai_git_commit_gui) -
 
-*   [Jackson0714/PassJava-Platform](https://github.com/Jackson0714/PassJava-Platform) - 一款面试刷题的 Spring Cloud 开源系统。零碎时间利用小程序查看常见面试题，夯实Java基础。 该项目可以教会你如何搭建SpringBoot项目，Spring Cloud项目。 采用流行的技术，如 SpringBoot、MyBatis、Redis、 MySql、 MongoDB、 RabbitMQ、Elasticsearch，采用Docker容器化部署。
+*   [WEIFENG2333/VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) - 🎬 卡卡字幕助手 | VideoCaptioner - 基于 LLM 的智能字幕助手 - 视频字幕生成、断句、校正、字幕翻译全流程处理！- A powered tool for easy and efficient video subtitling.
 
-*   [javagrowing/JGrowing](https://github.com/javagrowing/JGrowing) - Java is Growing up but not only Java。Java成长路线，但学到不仅仅是Java。
+*   [DR-lin-eng/download\_speed\_tester](https://github.com/DR-lin-eng/download_speed_tester) - 可以针对任意下载链接通过32线程的下载方式来测试下载链接的下载速度与稳定性。
 
-*   [mdsecresearch/BurpSuiteSharpener](https://github.com/mdsecresearch/BurpSuiteSharpener) -
+*   [POf-L/Fanqie-novel-Downloader](https://github.com/POf-L/Fanqie-novel-Downloader) -
 
-*   [deltazefiro/Amarok-Hider](https://github.com/deltazefiro/Amarok-Hider) - Hide your private files and apps with a single click.
+*   [y9nhjy/Proxifier-Keygen](https://github.com/y9nhjy/Proxifier-Keygen) - Proxifier注册机
 
-*   [apache/maven-mvnd](https://github.com/apache/maven-mvnd) - Apache Maven Daemon
+*   [JefferyHcool/BiliNote](https://github.com/JefferyHcool/BiliNote) - AI 视频笔记生成工具 让 AI 为你的视频做笔记
 
-*   [liuyueyi/quick-fix](https://github.com/liuyueyi/quick-fix) - 应用内存服务访问, 应用内数据访问订正工具
+*   [aipotheosis-labs/aci](https://github.com/aipotheosis-labs/aci) - ACI.dev is the open source tool-calling platform that hooks up 600+ tools into any agentic IDE or custom AI agent through direct function calling or a unified MCP server. The birthplace of VibeOps.
 
-*   [hollischuang/toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) - To Be Top Javaer - Java工程师成神之路
+*   [dong-dong6/DynaDNS-Router](https://github.com/dong-dong6/DynaDNS-Router) - 这个工具用于自动获取路由器的WAN口IP，并更新Cloudflare DNS记录。支持多种路由器类型，可以轻松扩展以适应不同的路由器固件。
 
-*   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version in translation
+*   [R-lz/mcp-video-digest](https://github.com/R-lz/mcp-video-digest) - MCP Server for transcribing videos via video links and summarizing video content
 
-*   [Dec12th/JrebelBrainsLicenseServerforJava](https://github.com/Dec12th/JrebelBrainsLicenseServerforJava) - 自建JRebel License Server 用到的源码
+*   [tibbar213/Manifest2Lua](https://github.com/tibbar213/Manifest2Lua) - 爬取清单生成steamtools解锁文件
 
-*   [langhsu/mblog](https://github.com/langhsu/mblog) - 开源免费的Java博客系统, 采用spring-boot、spring-data-jpa、shiro、freemarker、bootstrap等框架, 支持Docker
+*   [dbccccccc/ttsfm](https://github.com/dbccccccc/ttsfm) - TTSFM mirrors OpenAI's TTS service, providing a compatible interface for text-to-speech conversion with multiple voice options for free.
 
-*   [kunal-kushwaha/DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) - This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.
+*   [gua12345/grok2api\_python](https://github.com/gua12345/grok2api_python) -
 
-*   [Xunzhuo/Algorithm-Guide](https://github.com/Xunzhuo/Algorithm-Guide) - Xunzhuo\`s Tutorials of Algorithm and Data Structure  🚀🚀🚀
+*   [zetaloop/cursor-shadow-patch](https://github.com/zetaloop/cursor-shadow-patch) - An experimental patch for Cursor to force different machine ids.
 
-*   [ZHENFENG13/My-Blog](https://github.com/ZHENFENG13/My-Blog) - :palm\_tree::octocat:A simple & beautiful blogging system implemented with spring-boot & thymeleaf & mybatis My Blog 是由 SpringBoot + Mybatis + Thymeleaf 等技术实现的 Java 博客系统，页面美观、功能齐全、部署简单及完善的代码，一定会给使用者无与伦比的体验
+*   [andrewyng/translation-agent](https://github.com/andrewyng/translation-agent) -
 
-*   [ZHENFENG13/spring-boot-projects](https://github.com/ZHENFENG13/spring-boot-projects) - :fire: 该仓库中主要是 Spring Boot 的入门学习教程以及一些常用的 Spring Boot 实战项目教程，包括 Spring Boot 使用的各种示例代码，同时也包括一些实战项目的项目源码和效果展示，实战项目包括基本的 web 开发以及目前大家普遍使用的线上博客项目/企业大型商城系统/前后端分离实践项目等，摆脱各种 hello world 入门案例的束缚，真正的掌握 Spring Boot 开发。
+*   [zetaloop/BetterWX](https://github.com/zetaloop/BetterWX) - 微信 PC 4.0 防撤回/多开补丁工具
 
-*   [baichengzhou/SpringMVC-Mybatis-Shiro-redis-0.2](https://github.com/baichengzhou/SpringMVC-Mybatis-Shiro-redis-0.2) - 基于SpringMVC、Mybatis、Redis、Freemarker的Shiro管理Demo源码的升级版。
+*   [snailyp/gemini-balance](https://github.com/snailyp/gemini-balance) - Gemini polling proxy service （gemini轮询代理服务）
 
-*   [javastacks/spring-boot-best-practice](https://github.com/javastacks/spring-boot-best-practice) - Spring Boot 最佳实践，包括自动配置、核心原理、源码分析、国际化支持、调试、日志集成、热部署等。
+*   [Suxiaoqinx/Netease\_url](https://github.com/Suxiaoqinx/Netease_url) - 网易云无损解析
 
-*   [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
+*   [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) - \[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
 
-*   [cuzz1/springboot-learning](https://github.com/cuzz1/springboot-learning) - SpringBoot 常用技术整合
+*   [sheldon123z/Zotero-Notion-Paper-Flow](https://github.com/sheldon123z/Zotero-Notion-Paper-Flow) - 通过扫描huggingface和arxiv直接添加最新文献到Notion、Wolai、以及论文阅读神器Zotero！同时，可以通过大模型api直接越过Notion AI，使用大模型总结文献主要内容传递到Notion页面的关键字中，建议使用deepseek，按需使用，妈妈再也不用担心涨价的Notion AI了！
 
-*   [yuanguangxin/LeetCode](https://github.com/yuanguangxin/LeetCode) - LeetCode刷题记录与面试整理
+*   [JackyLee3362/wemo](https://github.com/JackyLee3362/wemo) - 微信朋友圈备份工具
 
-*   [SaminZou/study-prj](https://github.com/SaminZou/study-prj) - Learn how to learn 💪💪💪
+*   [HisAtri/LrcApi](https://github.com/HisAtri/LrcApi) - A Flask API For StreamMusic.
 
-*   [doocs/leetcode](https://github.com/doocs/leetcode) - 🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
+*   [InputShare/InputShare](https://github.com/InputShare/InputShare) - InputShare enables you to share the keyboard and mouse of your computer with an Android device via ADB in wired / wireless way.
 
-*   [ifnoelse/pdf-bookmark](https://github.com/ifnoelse/pdf-bookmark) - pdf bookmark generator 目录 书签 大纲
+*   [VeejaLiu/ScienceFictionCollection](https://github.com/VeejaLiu/ScienceFictionCollection) - 科幻小说作品集
 
-*   [IaHehe/classchecks](https://github.com/IaHehe/classchecks) - 基于openCV人脸识别的课堂考勤系统服务端
+*   [DeppWang/youdaonote-pull](https://github.com/DeppWang/youdaonote-pull) - 📝 一个一键导出 / 备份「有道云笔记」所有笔记的 Python 脚本。 A Python script to export/backup all the notes of the "Youdao Note".
 
-*   [hiparker/proxy-pool](https://github.com/hiparker/proxy-pool) - java代理IP池  Proxy Pool，提供可用率达到95%以上的代理IP。
+*   [Yuukiy/JavSP](https://github.com/Yuukiy/JavSP) - 汇总多站点数据的AV元数据刮削器
 
-*   [mapstruct/mapstruct](https://github.com/mapstruct/mapstruct) - An annotation processor for generating type-safe bean mappers
+*   [jiongjiongJOJO/telegram\_info\_export](https://github.com/jiongjiongJOJO/telegram_info_export) - 导出telegram信息到本地
 
-*   [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) - Spring Framework
+*   [yeahhe365/OnlineGPT](https://github.com/yeahhe365/OnlineGPT) - OnlineGPT 是一个基于 Python 和 PyQt5 的桌面应用程序，为用户提供了一个功能强大的图形用户界面，支持使用多个搜索引擎（Google、Bing、百度）进行网络搜索。它的主要目的是让语言模型能够连接到互联网，获取实时的网络信息，以提供更准确和丰富的回答。
 
-*   [Qbian61/forum-java](https://github.com/Qbian61/forum-java) - 一款用 Java（spring boot） 实现的现代化社区（论坛/问答/BBS/社交网络/博客）系统平台。A modern community (forum/Q\&A/BBS/SNS/blog) system platform implemented in Java（spring boot）.
+*   [hmhm2022/ChatFree](https://github.com/hmhm2022/ChatFree) - 让你的AI摆脱浏览器的束缚
 
-*   [abel533/ECharts](https://github.com/abel533/ECharts) - 这是一个针对ECharts2.x版本的Java类库，实现了所有ECharts中的Json结构对应的Java对象，并且可以很方便的创建Option,Series等
+*   [kfcx/biaomiao](https://github.com/kfcx/biaomiao) - 白描2API
 
-*   [wkeyuan/DWSurvey](https://github.com/wkeyuan/DWSurvey) - Survey System. 最好用的开源问卷调查系统、表单系统。
+*   [NJUNLP/MORE](https://github.com/NJUNLP/MORE) - Code and data for ACM MM '23 paper “MORE: A Multimodal Object-Entity Relation Extraction Dataset with a Benchmark Evaluation”
 
-*   [macrozheng/mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
+*   [marlkiller/t66y\_auto\_register](https://github.com/marlkiller/t66y_auto_register) - 草榴社区邀请码扫码自动注册脚本
 
-*   [jwtk/jjwt](https://github.com/jwtk/jjwt) - Java JWT: JSON Web Token for Java and Android
+*   [KunpengLi1994/VSRN](https://github.com/KunpengLi1994/VSRN) - PyTorch code for ICCV'19 paper "Visual Semantic Reasoning for Image-Text Matching"
 
-*   [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 🚀一个用来深入学习并实战 Spring Boot 的项目。
+*   [ai-dawang/PlugNPlay-Modules](https://github.com/ai-dawang/PlugNPlay-Modules) -
 
-*   [ronmamo/reflections](https://github.com/ronmamo/reflections) - Java runtime metadata analysis
+*   [ls1248659692/leetcode](https://github.com/ls1248659692/leetcode) - python  数据结构与算法   leetcode 算法题与书籍 刷算法全靠套路与总结！Crack LeetCode, not only how, but also why.
 
-*   [alibaba/arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
+*   [optuna/optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework
 
-*   [brucevsked/vskeddemolist](https://github.com/brucevsked/vskeddemolist) - javascript html css java springboot maven gradle alot of demo in here,本项目包括本人多年积累包括领域驱动设计,前端，后台，部署，操作系统等，欢迎star\&fork
+*   [marimo-team/marimo](https://github.com/marimo-team/marimo) - Transform data, train models, and run SQL with marimo — feels like a next-gen reactive notebook, stored as Git-friendly reproducible Python. Deploy as scripts, pipelines, endpoints, and apps. All from an AI-native editor (or your own).
 
-*   [doocs/advanced-java](https://github.com/doocs/advanced-java) - 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
+*   [zjunlp/MKGformer](https://github.com/zjunlp/MKGformer) - \[SIGIR 2022] Hybrid Transformer with Multi-level Fusion for Multimodal Knowledge Graph Completion
 
-*   [201206030/novel-plus](https://github.com/201206030/novel-plus) - novel-plus 是一个多端（PC、WAP）阅读 、功能完善的小说 CMS 系统。包括小说推荐、小说检索、小说排行、小说阅读、小说书架、小说评论、小说爬虫、会员中心、作家专区、充值订阅、新闻发布等功能。
+*   [zjunlp/HVPNeT](https://github.com/zjunlp/HVPNeT) - \[NAACL 2022 Findings] Good Visual Guidance Makes A Better Extractor: Hierarchical Visual Prefix for Multimodal Entity and Relation Extraction
 
-*   [Tencent/APIJSON](https://github.com/Tencent/APIJSON) - 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构 🏆 Real-Time coding-free, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and the returned JSON of API can be customized by Frontend(Client) users
+*   [zjunlp/ContinueMKGC](https://github.com/zjunlp/ContinueMKGC) - \[IJCAI 2024] Continual Multimodal Knowledge Graph Construction
 
-*   [eugenp/tutorials](https://github.com/eugenp/tutorials) - Getting Started with Spring Boot 3:
+*   [THU-BPM/PROMU](https://github.com/THU-BPM/PROMU) - Source code of paper:"Prompt Me Up: Unleashing the Power of Alignments for Multimodal Entity and Relation Extraction".
 
-*   [doocs/jvm](https://github.com/doocs/jvm) - 🤗 JVM 底层原理最全知识总结
+*   [thecharm/Mega](https://github.com/thecharm/Mega) - Code for ACM MM 2021 Paper "Multimodal Relation Extraction with Efficient Graph Alignment".
 
-*   [fuzhengwei/small-spring](https://github.com/fuzhengwei/small-spring) - 🌱《 Spring 手撸专栏》，本专栏以 Spring 源码学习为目的，通过手写简化版 Spring 框架，了解 Spring 核心原理。在手写的过程中会简化 Spring 源码，摘取整体框架中的核心逻辑，简化代码实现过程，保留核心功能，例如：IOC、AOP、Bean生命周期、上下文、作用域、资源处理等内容实现。
+*   [ls2023wsw/clash-to-v2ray](https://github.com/ls2023wsw/clash-to-v2ray) -
 
-*   [doocs/source-code-hunter](https://github.com/doocs/source-code-hunter) - 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等
+*   [facebookresearch/fvcore](https://github.com/facebookresearch/fvcore) - Collection of common code that's shared among different research projects in FAIR computer vision team.
 
-*   [hellokaton/30-seconds-of-java8](https://github.com/hellokaton/30-seconds-of-java8) - ☕ 30 seconds to collect useful Java 8 snippet.
+*   [TylerYep/torchinfo](https://github.com/TylerYep/torchinfo) - View model summaries in PyTorch!
 
-*   [guxingke/mini-jvm](https://github.com/guxingke/mini-jvm) - 使用 JDK8 实现 JVM(Java Virtual Machine)
+*   [infrost/pdf2docxserver](https://github.com/infrost/pdf2docxserver) - A server app to convert pdf to docx based on pdf2docx/ 基于 pdf2docx 将 pdf 转换为 docx 的服务程序
 
-*   [kevin-wayne/algs4](https://github.com/kevin-wayne/algs4) - Algorithms, 4th edition textbook code and libraries
+*   [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 
-*   [alibaba/easyexcel](https://github.com/alibaba/easyexcel) - 快速、简洁、解决大文件内存溢出的java处理Excel工具
+*   [infrost/DeeplxFile](https://github.com/infrost/DeeplxFile) - 基于Deeplx和Playwright提供的简单易用，快速，免费，不限制文件大小，支持超长文本翻译，跨平台的文件翻译工具 / Easy-to-use, fast, free, unlimited file size and cross platform file translation tool based on Deeplx & Playwright that supports long text translations.
 
-*   [373675032/moti-blog](https://github.com/373675032/moti-blog) - 🔥🔥🔥 莫提博客（moti-blog）是一个基于 SpringBoot 开发的标准 Java Web 项目。项目中应用了 SpringBoot、MyBatis、Redis、RabbitMq、ElasticSearch、BootStrap、Thymeleaf 等技术。项目页面美观大气，完成度较高，前后端不分离的单体架构，非常适合刚刚接触学习 SpringBoot 的技术小白学习，也非常适合学校中的项目答辩或者毕业设计。喜欢的话记得帮忙点亮 Star，不求打赏，免费分享，只求你一个免费的👍，你的支持是我做下去的动力。
+*   [Rain-kl/glider\_guid](https://github.com/Rain-kl/glider_guid) - 使用Glider将节点转换成爬虫代理池，每秒切换IP，本项目包含使用教程，并提供将clash订阅转换为glider所支持的格式
 
-*   [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍 针对小白的算法训练 | 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）推荐免费ChatGPT使用网站
+*   [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
+
+*   [ying-ck/fanqienovel-downloader](https://github.com/ying-ck/fanqienovel-downloader) - 下载番茄小说
+
+*   [pelme/htpy](https://github.com/pelme/htpy) - Generate HTML in Python
+
+*   [AowerDmax/Simple-Interview-Audio-Processing](https://github.com/AowerDmax/Simple-Interview-Audio-Processing) -
+
+*   [jonssonyan/3.jetbra.in](https://github.com/jonssonyan/3.jetbra.in) - 3.jetbra.in 存档
+
+*   [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr) - 带带弟弟 通用验证码识别OCR pypi版
+
+*   [wzdnzd/aggregator](https://github.com/wzdnzd/aggregator) - One-stop Proxies Crawling and Aggregation Platform
+
+*   [moran69/yanxuan](https://github.com/moran69/yanxuan) -
+
+*   [onewhitethreee/zhihu\_tools](https://github.com/onewhitethreee/zhihu_tools) - 知乎盐选会员文章下载 zhihu vip
+
+*   [igrek51/wat](https://github.com/igrek51/wat) - Deep inspection of Python objects
+
+*   [harry0703/AudioNotes](https://github.com/harry0703/AudioNotes) - 快速提取音视频内容，整理成一份结构化的markdown笔记
+
+*   [jiji262/douyin-downloader](https://github.com/jiji262/douyin-downloader) - 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。免费！免费！免费！
+
+*   [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) - Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks.This framework enables Claude to generate and manage its own tools, continuously expanding its capabilities through conversation. Available both as a CLI and a modern web interface
+
+*   [amchii/ZhiArchive](https://github.com/amchii/ZhiArchive) - 监测知乎用户的个人动态并保存内容以防丢失，保存知乎内容。Collecting and storing dynamic content from your Zhihu account for never lose.
+
+*   [careywyr/paper-agent](https://github.com/careywyr/paper-agent) - 论文辅助工具
+
+*   [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload) - 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
+
+*   [lanqian528/chat2api](https://github.com/lanqian528/chat2api) - A service that can convert ChatGPT on the web to OpenAI API format.
+
+*   [heshengtao/comfyui\_LLM\_party](https://github.com/heshengtao/comfyui_LLM_party) - LLM Agent Framework in ComfyUI includes MCP sever, Omost,GPT-sovits, ChatTTS,GOT-OCR2.0, and FLUX prompt nodes,access to Feishu,discord,and adapts to all llms with similar openai / aisuite interfaces, such as o1,ollama, gemini, grok, qwen, GLM, deepseek, kimi,doubao. Adapted to local llms, vlm, gguf such as llama-3.3 Janus-Pro, Linkage graphRAG
+
+*   [TecReaGroup/cs-subtitle](https://github.com/TecReaGroup/cs-subtitle) - Tanlate the videos of  computer science and share them
+
+*   [LeslieLeung/opensource-lighthouse](https://github.com/LeslieLeung/opensource-lighthouse) - 汇总统计各「大厂」的开源团队和项目。
+
+*   [CosmosShadow/gptpdf](https://github.com/CosmosShadow/gptpdf) - Using GPT to parse PDF
+
+*   [jhao104/proxy\_pool](https://github.com/jhao104/proxy_pool) - Python ProxyPool for web spider
+
+*   [snailyp/ip-checker](https://github.com/snailyp/ip-checker) - 一个基于clash api调用ip-api,scamalytics,ping0等网站获取ip纯净度的项目
+
+*   [602387193c/ComfyUI-wiki](https://github.com/602387193c/ComfyUI-wiki) - Everything about ComfyUI, including workflow sharing, resource sharing, knowledge sharing, tutorial sharing, and more.关于ComfyUI的一切，工作流分享、资源分享、知识分享、教程分享等
+
+*   [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫
+
+*   [ZhugeKongan/torch-template-for-deep-learning](https://github.com/ZhugeKongan/torch-template-for-deep-learning) - Pytorch Implementations of large number  classical backbone CNNs, data enhancement, torch loss, attention, visualization and  some common algorithms.
+
+*   [fastnlp/fitlog](https://github.com/fastnlp/fitlog) - fitlog是一款在深度学习训练中用于辅助用户记录日志和管理代码的工具
+
+*   [yym68686/ChatGPT-Telegram-Bot](https://github.com/yym68686/ChatGPT-Telegram-Bot) - TeleChat: 🤖️ an AI chat Telegram bot can Web Search Powered by GPT-5, DALL·E , Groq, Gemini 2.5 Pro/Flash and the official Claude4.1 API using Python on Zeabur, fly.io and Replit.
+
+*   [chenyme/Chenyme-AAVT](https://github.com/chenyme/Chenyme-AAVT) - 这是一个全自动（音频）视频翻译项目。利用Whisper识别声音，AI大模型翻译字幕，最后合并字幕视频，生成翻译后的视频。
+
+*   [Cl0udG0d/Fofa-hack](https://github.com/Cl0udG0d/Fofa-hack) - 非付费会员，fofa数据采集工具
+
+*   [liuzijian-cs/AcademicCodeAnnotator](https://github.com/liuzijian-cs/AcademicCodeAnnotator) - Academic Code Annotator 基于LLAMA3的学术代码解读器。上传pdf格式的论文和python文件，根据论文的内容自动注释代码并导出。欢迎大家继续优化~
+
+*   [tech-shrimp/WechatMoments](https://github.com/tech-shrimp/WechatMoments) - 微信朋友圈导出工具-技术爬爬虾
+
+*   [nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet) - FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will  make a multi engine search and combine the search result to LLM and generate the answer based on search results. It's all FREE to use.
+
+*   [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+
+*   [TheR1D/shell\_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
+
+*   [Meekdai/Gmeek](https://github.com/Meekdai/Gmeek) - Gmeek is a Blog All in Github
+
+*   [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) - TikTok 发布/喜欢/合辑/直播/视频/图集/音乐；抖音发布/喜欢/收藏/收藏夹/视频/图集/实况/直播/音乐/合集/评论/账号/搜索/热榜数据采集工具/下载工具
+
+*   [qy527145/gitlabee\_crack](https://github.com/qy527145/gitlabee_crack) - 基于最新的gitlabee docker镜像，自动生成认证文件并部署
+
+*   [qy527145/crack](https://github.com/qy527145/crack) -
+
+*   [imelnyk/ArxivPapers](https://github.com/imelnyk/ArxivPapers) - Code behind Arxiv Papers
+
+*   [lining808/CS-Ebook](https://github.com/lining808/CS-Ebook) - 一个高质量、经典计算机书籍推荐清单，特点为：只收集高质量，各方向经典书籍，不求书多，只求书精。
+
+*   [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) - 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.
+
+*   [arXiv/zzzArchived\_arxiv-readability](https://github.com/arXiv/zzzArchived_arxiv-readability) - Pilot project to render HTML5 from arXiv LaTeX sources
+
+*   [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
+
+*   [imvanda/Tree\_This\_Folder](https://github.com/imvanda/Tree_This_Folder) - 为你的右键添加tree命令功能，快速生成文件夹结构，使用windows批处理脚本实现。"Add the 'tree' command functionality to your right-click menu for quick generation of folder structures, implemented using a Windows batch script."
+
+*   [shidahuilang/shuyuan](https://github.com/shidahuilang/shuyuan) - 阅读书源-香色闺阁+用心读书+源阅+阅读3.0书源+源阅读+爱阅书香+千阅+花火阅读+读不舍手+番茄+喜马拉雅+漫画+听书+书源+IPTV源+IPA巨魔应用=自动更新
+
+*   [VikParuchuri/texify](https://github.com/VikParuchuri/texify) - Math OCR model that outputs LaTeX and markdown
+
+*   [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
+
+*   [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
+
+*   [google/latexify\_py](https://github.com/google/latexify_py) - A library to generate LaTeX expression from Python code.
+
+*   [cs230-stanford/cs230-code-examples](https://github.com/cs230-stanford/cs230-code-examples) - Code examples in pyTorch and Tensorflow for CS230
+
+*   [chatanywhere/GPT\_API\_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT\&DeepSeek API Key，免费ChatGPT\&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
+
+*   [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
+
+*   [zuole/MachineLearning-DeepLearning-NLP-LeetCode-StatisticalLearningMethod-TensorFlow](https://github.com/zuole/MachineLearning-DeepLearning-NLP-LeetCode-StatisticalLearningMethod-TensorFlow) - 最近在学习机器学习，深度学习，自然语言处理，统计学习方法等知识，所以决定自己将学习的相关算法用Python实现一遍，并结合GitHub上相关大牛的代码进行改进，本项目会不断的更新相关算法，欢迎star，fork和关注。   主要包括：   1.吴恩达Andrew Ng老师的机器学习课程个人笔记 Python实现，   2.deeplearning.ai（吴恩达老师的深度学习课程笔记及资源） Python实现，   3.李航《统计学习方法》 Python代码实现，   4.自然语言处理NLP 牛津大学xDeepMind Python代码实现，   5.LeetCode刷题，题析，分析心得笔记 Java和Python代码实现， 6.TensorFlow人工智能实践代码笔记 北京大学曹健老师课程和TensorFlow：实战Google深度学习框架（第二版） Python代码实现，  附带一些个人心得和笔记。GitHub上有很多机器学习课程的代码资源，我也准备自己实现一下，后续会更新笔记，代码和百度云网盘链接。         这个项目主要是学习算法的，并且会不断更新相关资源和代码，欢迎关注，star，fork！   Min's blog 欢迎访问我的博客主页！  (Welcome to my blog website !)https://liweimin1996.github.io/
+
+*   [Dod-o/Statistical-Learning-Method\_Code](https://github.com/Dod-o/Statistical-Learning-Method_Code) - 手写实现李航《统计学习方法》书中全部算法
+
+*   [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
+
+*   [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
+
+*   [labmlai/annotated\_deep\_learning\_paper\_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
+
+*   [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper) - Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文全文总结+专业翻译+润色+审稿+审稿回复
+
+*   [binary-husky/gpt\_academic](https://github.com/binary-husky/gpt_academic) - 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。
+
+*   [ssborbis/ContextSearch-Native-App](https://github.com/ssborbis/ContextSearch-Native-App) - Native App for use with Context Search
+
+*   [koi778/sspanel-mining](https://github.com/koi778/sspanel-mining) - 🥤 采集、清洗、分类、存储暴露在公网上的 sspanel-uim 站点
+
+*   [Johnserf-Seed/TikTokDownload](https://github.com/Johnserf-Seed/TikTokDownload) - 抖音去水印批量下载用户主页作品、喜欢、收藏、图文、音频
+
+*   [s282730788/RealTool](https://github.com/s282730788/RealTool) - RealTool直播源获取工具
+
+*   [zhangyile/telegram-wechat](https://github.com/zhangyile/telegram-wechat) - 使用 telegram 收发微信
+
+*   [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
+
+*   [starkblaze01/Algorithms-Cheatsheet-Resources](https://github.com/starkblaze01/Algorithms-Cheatsheet-Resources) - 🤓All the geeky stuffs you need to know at one place!
+
+*   [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
+
+*   [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
+
+*   [wzk0/quick-hexo](https://github.com/wzk0/quick-hexo) - 一个方便中文Hexo用户使用的工具.
+
+*   [EugeneLiu/translationCSAPP](https://github.com/EugeneLiu/translationCSAPP) - 为 CSAPP 视频课程提供字幕，翻译 PPT，Lab。
+
+*   [CollegesChat/university-information](https://github.com/CollegesChat/university-information) - 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
+
+*   [liuzhijie443/ZhiMiao\_JiuJia](https://github.com/liuzhijie443/ZhiMiao_JiuJia) - 知苗易约九价抢购
+
+*   [thecodacus/Face-Recognition](https://github.com/thecodacus/Face-Recognition) - Face Recognition tutorial code
+
+*   [ageitgey/face\_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
+
+*   [66pig/face\_recognition](https://github.com/66pig/face_recognition) - 人脸识别考勤系统
+
+*   [inspurer/WorkAttendanceSystem](https://github.com/inspurer/WorkAttendanceSystem) - 一个基于opencv、dilb的员工人脸识别考勤系统
+
+*   [netCompanyInfo/net.company.info](https://github.com/netCompanyInfo/net.company.info) - 互联网公司情况简表
+
+*   [fuergaosi233/gitbook2pdf](https://github.com/fuergaosi233/gitbook2pdf) - Grab the contents of the gitbook document and convert it to pdf
+
+*   [fossasia/visdom](https://github.com/fossasia/visdom) - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy.
+
+*   [Abeautifulsnow/navicat-premium-crack](https://github.com/Abeautifulsnow/navicat-premium-crack) - This script is used to crack navicat premium application for another 14 days trial.(14天再次重置)
+
+*   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+
+*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+
+*   [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
+
+*   [kangvcar/InfoSpider](https://github.com/kangvcar/InfoSpider) - INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。
+
+*   [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
+
+*   [QBobWatson/ila](https://github.com/QBobWatson/ila) - Interactive Linear Algebra
+
+*   [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
+
+*   [BDisp/unlocker](https://github.com/BDisp/unlocker) - VMware Workstation macOS
+
+*   [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
+
+*   [matplotlib/cheatsheets](https://github.com/matplotlib/cheatsheets) - Official Matplotlib cheat sheets
+
+*   [tgbot-collection/YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) - 🎬 人人影视 机器人和网站，包含人人影视全部资源以及众多网友的网盘分享
+
+*   [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、fanqiang、油管youtube/视频下载、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载、youtube油管镜像/免翻墙网站、美区apple id共享账号、翻墙-科学上网-梯子
+
+*   [Cimbali/pympress](https://github.com/Cimbali/pympress) - Pympress is a simple yet powerful PDF reader designed for dual-screen presentations
+
+*   [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing\_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
+
+*   [taojy123/KeymouseGo](https://github.com/taojy123/KeymouseGo) - 类似按键精灵的鼠标键盘录制和自动化操作 模拟点击和键入 | automate mouse clicks and keyboard input
+
+*   [iswbm/magic-python](https://github.com/iswbm/magic-python) - Python 黑魔法手册
+
+*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+
+*   [wangzheng0822/algo](https://github.com/wangzheng0822/algo) - 数据结构和算法必知必会的50个代码实现
 
 ## miscellaneous
+
+*   [lzA6/free-VPN](https://github.com/lzA6/free-VPN) - 更新的都是高质量高速度的VPN，通常用IDM等等下载工具下载huggingface的大模型速度都能跑到100MB+，但是可能仅限于下载。对于访问google相关服务不太理想
 
 *   [adminlove520/Source-Collector](https://github.com/adminlove520/Source-Collector) -
 
@@ -586,7 +784,163 @@
 
 *   [midou-tech/articles](https://github.com/midou-tech/articles) - 我是龙叔，一个分享互联网技术和成长历程的大叔。希望在授人以鱼的同时也能授人以渔，欢迎大家踊跃star 和 issues 。
 
-*   [fex-team/interview-questions](https://github.com/fex-team/interview-questions) - FEX 面试问题
+## Java
+
+*   [houbb/sensitive-word](https://github.com/houbb/sensitive-word) -  👮‍♂️The sensitive word tool for java.(敏感词/违禁词/违法词/脏词。基于 DFA 算法实现的高性能 java 敏感词过滤工具框架。内置支持单词标签分类分级。请勿发布涉及政治、广告、营销、翻墙、违反国家法律法规等内容。高性能敏感词检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。)
+
+*   [nagisa77/OpenIsle](https://github.com/nagisa77/OpenIsle) - 完全开源的社区平台
+
+*   [cyuanyuan520/sbbs-community](https://github.com/cyuanyuan520/sbbs-community) - springboot + nuxt3.0构建的现代化轻量级社区
+
+*   [Tosencen/XMBOX](https://github.com/Tosencen/XMBOX) - 一个看片儿的空盒子软件，需自行配置源
+
+*   [Idea-flow/novel-download](https://github.com/Idea-flow/novel-download) - 在线小说下载网站 | 小说下载工具 | 免费下载小说 |网络小说 | 免费下载
+
+*   [ccmjga/zhilu-admin](https://github.com/ccmjga/zhilu-admin) - 🔥 通过 AI 驱动的新一代后台管理系统（Java21+Vue3.5）
+
+*   [jarvis2f/telegram-files](https://github.com/jarvis2f/telegram-files) - A self-hosted Telegram file downloader for continuous, stable, and unattended downloads.
+
+*   [yoyocraft/dev-template](https://github.com/yoyocraft/dev-template) - develop template
+
+*   [hzhilong/bilibili-backup](https://github.com/hzhilong/bilibili-backup) - 一键对B站账号进行数据备份和还原，方便账号数据迁移/快速转生(哔哩哔哩 bilibili)。One-click backup and restore of B station account data, convenient account data migration/quick reincarnation.
+
+*   [qaiu/netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download) - 各类网盘直链解析服务, 已支持蓝奏云/蓝奏优享/小飞机盘/123云盘/移动联通/天翼云等. 支持文件夹分享解析. 体验地址: https://lz.qaiu.top    http://www.722shop.top:6401
+
+*   [freeok/so-novel](https://github.com/freeok/so-novel) - 小说下载｜网文下载 | 网络小说
+
+*   [Elejiang/GraceGateway](https://github.com/Elejiang/GraceGateway) - 高吞吐网关
+
+*   [dromara/neutrino-proxy](https://github.com/dromara/neutrino-proxy) - 中微子代理（内网穿透）
+
+*   [loks666/get\_jobs](https://github.com/loks666/get_jobs) - 💼【AI找工作助手】全平台自动投简历脚本：(boss、前程无忧、猎聘、拉勾、智联招聘)
+
+*   [ZCShou/GoGoGo](https://github.com/ZCShou/GoGoGo) - 一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆
+
+*   [luban-uncle/jCat](https://github.com/luban-uncle/jCat) - java development Console
+
+*   [sanyou3/spring-extension](https://github.com/sanyou3/spring-extension) -
+
+*   [nICEnnnnnnnLee/BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown) - (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳
+
+*   [uncle-novel/uncle-novel](https://github.com/uncle-novel/uncle-novel) - 📖 Uncle小说，PC版，一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说。
+
+*   [zfile-dev/zfile](https://github.com/zfile-dev/zfile) - 在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai、上传、下载
+
+*   [BeardedManZhao/mathematical-expression](https://github.com/BeardedManZhao/mathematical-expression) - 本框架是一种针对数学公式解析的有效工具 支持 Java python C++  API ，能够解析包含嵌套函数，包含函数，数列步长累加等数学公式，返回值是一个数值的结果对象，同时也可以进行比较运算的操作，再进行比较的时候，返回值是一个布尔值结果对象。PS 请尽量使用 1.3.1 版本以及以上的版本，这将有助于您使用更加稳定的版本，修复了 1.2.x中所有已知的bugMaven依赖坐标您可以直接使用maven将本框架导入到项目中使用，能够高效的使用该功能‘；This framework is an effective tool for parsing mathematical formulas that supports the Java Python C++API.
+
+*   [sotasan/decompiler](https://github.com/sotasan/decompiler) - Java Decompiler GUI
+
+*   [zpj80231/idea-set](https://github.com/zpj80231/idea-set) - ✅ JetBrains IntelliJ IDEA 自用配置、常用插件、破解激活，打包整理。
+
+*   [lsieun/learn-java-asm](https://github.com/lsieun/learn-java-asm) - :bug: Java ASM
+
+*   [houqingying/ChatViewer](https://github.com/houqingying/ChatViewer) - 基于SpringBoot和Vue开发的能和ChatGPT对话的知识分享/面试辅助网站
+
+*   [jlegewie/zotfile](https://github.com/jlegewie/zotfile) - Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, Android tablet, etc.), and extract PDF annotations.
+
+*   [timeless157/timeless-order-pay-parent](https://github.com/timeless157/timeless-order-pay-parent) - 订单支付系统
+
+*   [eritpchy/FingerprintPay](https://github.com/eritpchy/FingerprintPay) - 让微信、QQ、支付宝、淘宝、云闪付支持使用指纹支付
+
+*   [mblog-backend/backend](https://github.com/mblog-backend/backend) - 支持前后分离/不分离的个人/多人使用的微博平台
+
+*   [bigintpro/csdn\_downloader](https://github.com/bigintpro/csdn_downloader) - csdn下载，csdn免积分下载，csdn免会员下载，csdn付费内容下载 免费资源 体验地址:http://servicedev.tpddns.cn:8181/#/login?c=12
+
+*   [Jackson0714/PassJava-Platform](https://github.com/Jackson0714/PassJava-Platform) - 一款面试刷题的 Spring Cloud 开源系统。零碎时间利用小程序查看常见面试题，夯实Java基础。 该项目可以教会你如何搭建SpringBoot项目，Spring Cloud项目。 采用流行的技术，如 SpringBoot、MyBatis、Redis、 MySql、 MongoDB、 RabbitMQ、Elasticsearch，采用Docker容器化部署。
+
+*   [javagrowing/JGrowing](https://github.com/javagrowing/JGrowing) - Java is Growing up but not only Java。Java成长路线，但学到不仅仅是Java。
+
+*   [mdsecresearch/BurpSuiteSharpener](https://github.com/mdsecresearch/BurpSuiteSharpener) -
+
+*   [deltazefiro/Amarok-Hider](https://github.com/deltazefiro/Amarok-Hider) - Hide your private files and apps with a single click.
+
+*   [apache/maven-mvnd](https://github.com/apache/maven-mvnd) - Apache Maven Daemon
+
+*   [liuyueyi/quick-fix](https://github.com/liuyueyi/quick-fix) - 应用内存服务访问, 应用内数据访问订正工具
+
+*   [hollischuang/toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) - To Be Top Javaer - Java工程师成神之路
+
+*   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version in translation
+
+*   [Dec12th/JrebelBrainsLicenseServerforJava](https://github.com/Dec12th/JrebelBrainsLicenseServerforJava) - 自建JRebel License Server 用到的源码
+
+*   [langhsu/mblog](https://github.com/langhsu/mblog) - 开源免费的Java博客系统, 采用spring-boot、spring-data-jpa、shiro、freemarker、bootstrap等框架, 支持Docker
+
+*   [kunal-kushwaha/DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) - This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.
+
+*   [Xunzhuo/Algorithm-Guide](https://github.com/Xunzhuo/Algorithm-Guide) - Xunzhuo\`s Tutorials of Algorithm and Data Structure  🚀🚀🚀
+
+*   [ZHENFENG13/My-Blog](https://github.com/ZHENFENG13/My-Blog) - :palm\_tree::octocat:A simple & beautiful blogging system implemented with spring-boot & thymeleaf & mybatis My Blog 是由 SpringBoot + Mybatis + Thymeleaf 等技术实现的 Java 博客系统，页面美观、功能齐全、部署简单及完善的代码，一定会给使用者无与伦比的体验
+
+*   [ZHENFENG13/spring-boot-projects](https://github.com/ZHENFENG13/spring-boot-projects) - :fire: 该仓库中主要是 Spring Boot 的入门学习教程以及一些常用的 Spring Boot 实战项目教程，包括 Spring Boot 使用的各种示例代码，同时也包括一些实战项目的项目源码和效果展示，实战项目包括基本的 web 开发以及目前大家普遍使用的线上博客项目/企业大型商城系统/前后端分离实践项目等，摆脱各种 hello world 入门案例的束缚，真正的掌握 Spring Boot 开发。
+
+*   [baichengzhou/SpringMVC-Mybatis-Shiro-redis-0.2](https://github.com/baichengzhou/SpringMVC-Mybatis-Shiro-redis-0.2) - 基于SpringMVC、Mybatis、Redis、Freemarker的Shiro管理Demo源码的升级版。
+
+*   [javastacks/spring-boot-best-practice](https://github.com/javastacks/spring-boot-best-practice) - Spring Boot 最佳实践，包括自动配置、核心原理、源码分析、国际化支持、调试、日志集成、热部署等。
+
+*   [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
+
+*   [cuzz1/springboot-learning](https://github.com/cuzz1/springboot-learning) - SpringBoot 常用技术整合
+
+*   [yuanguangxin/LeetCode](https://github.com/yuanguangxin/LeetCode) - LeetCode刷题记录与面试整理
+
+*   [SaminZou/study-prj](https://github.com/SaminZou/study-prj) - Learn how to learn 💪💪💪
+
+*   [doocs/leetcode](https://github.com/doocs/leetcode) - 🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
+
+*   [ifnoelse/pdf-bookmark](https://github.com/ifnoelse/pdf-bookmark) - pdf bookmark generator 目录 书签 大纲
+
+*   [IaHehe/classchecks](https://github.com/IaHehe/classchecks) - 基于openCV人脸识别的课堂考勤系统服务端
+
+*   [hiparker/proxy-pool](https://github.com/hiparker/proxy-pool) - java代理IP池  Proxy Pool，提供可用率达到95%以上的代理IP。
+
+*   [mapstruct/mapstruct](https://github.com/mapstruct/mapstruct) - An annotation processor for generating type-safe bean mappers
+
+*   [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) - Spring Framework
+
+*   [Qbian61/forum-java](https://github.com/Qbian61/forum-java) - 一款用 Java（spring boot） 实现的现代化社区（论坛/问答/BBS/社交网络/博客）系统平台。A modern community (forum/Q\&A/BBS/SNS/blog) system platform implemented in Java（spring boot）.
+
+*   [abel533/ECharts](https://github.com/abel533/ECharts) - 这是一个针对ECharts2.x版本的Java类库，实现了所有ECharts中的Json结构对应的Java对象，并且可以很方便的创建Option,Series等
+
+*   [wkeyuan/DWSurvey](https://github.com/wkeyuan/DWSurvey) - Survey System. 最好用的开源问卷调查系统、表单系统。
+
+*   [macrozheng/mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
+
+*   [jwtk/jjwt](https://github.com/jwtk/jjwt) - Java JWT: JSON Web Token for Java and Android
+
+*   [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 🚀一个用来深入学习并实战 Spring Boot 的项目。
+
+*   [ronmamo/reflections](https://github.com/ronmamo/reflections) - Java runtime metadata analysis
+
+*   [alibaba/arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
+
+*   [brucevsked/vskeddemolist](https://github.com/brucevsked/vskeddemolist) - javascript html css java springboot maven gradle alot of demo in here,本项目包括本人多年积累包括领域驱动设计,前端，后台，部署，操作系统等，欢迎star\&fork
+
+*   [doocs/advanced-java](https://github.com/doocs/advanced-java) - 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
+
+*   [201206030/novel-plus](https://github.com/201206030/novel-plus) - novel-plus 是一个多端（PC、WAP）阅读 、功能完善的小说 CMS 系统。包括小说推荐、小说检索、小说排行、小说阅读、小说书架、小说评论、小说爬虫、会员中心、作家专区、充值订阅、新闻发布等功能。
+
+*   [Tencent/APIJSON](https://github.com/Tencent/APIJSON) - 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构 🏆 Real-Time coding-free, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and the returned JSON of API can be customized by Frontend(Client) users
+
+*   [eugenp/tutorials](https://github.com/eugenp/tutorials) - Getting Started with Spring Boot 3:
+
+*   [doocs/jvm](https://github.com/doocs/jvm) - 🤗 JVM 底层原理最全知识总结
+
+*   [fuzhengwei/small-spring](https://github.com/fuzhengwei/small-spring) - 🌱《 Spring 手撸专栏》，本专栏以 Spring 源码学习为目的，通过手写简化版 Spring 框架，了解 Spring 核心原理。在手写的过程中会简化 Spring 源码，摘取整体框架中的核心逻辑，简化代码实现过程，保留核心功能，例如：IOC、AOP、Bean生命周期、上下文、作用域、资源处理等内容实现。
+
+*   [doocs/source-code-hunter](https://github.com/doocs/source-code-hunter) - 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等
+
+*   [hellokaton/30-seconds-of-java8](https://github.com/hellokaton/30-seconds-of-java8) - ☕ 30 seconds to collect useful Java 8 snippet.
+
+*   [guxingke/mini-jvm](https://github.com/guxingke/mini-jvm) - 使用 JDK8 实现 JVM(Java Virtual Machine)
+
+*   [kevin-wayne/algs4](https://github.com/kevin-wayne/algs4) - Algorithms, 4th edition textbook code and libraries
+
+*   [alibaba/easyexcel](https://github.com/alibaba/easyexcel) - 快速、简洁、解决大文件内存溢出的java处理Excel工具
+
+*   [373675032/moti-blog](https://github.com/373675032/moti-blog) - 🔥🔥🔥 莫提博客（moti-blog）是一个基于 SpringBoot 开发的标准 Java Web 项目。项目中应用了 SpringBoot、MyBatis、Redis、RabbitMq、ElasticSearch、BootStrap、Thymeleaf 等技术。项目页面美观大气，完成度较高，前后端不分离的单体架构，非常适合刚刚接触学习 SpringBoot 的技术小白学习，也非常适合学校中的项目答辩或者毕业设计。喜欢的话记得帮忙点亮 Star，不求打赏，免费分享，只求你一个免费的👍，你的支持是我做下去的动力。
+
+*   [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍 针对小白的算法训练 | 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）推荐免费ChatGPT使用网站
 
 ## JavaScript
 
@@ -843,358 +1197,6 @@
 *   [XiumingLee/MingTools](https://github.com/XiumingLee/MingTools) -
 
 *   [Ovilia/lipstick](https://github.com/Ovilia/lipstick) - 口红颜色可视化 - 为什么你的女神总缺一支口红
-
-## Python
-
-*   [shiyi-0x7f/o-lib](https://github.com/shiyi-0x7f/o-lib) - O-lib is a free and open-source software application for PC
-
-*   [danghb/moyu\_yolov8](https://github.com/danghb/moyu_yolov8) - AI编程的yolo摄像头摸鱼小工具，防止背后凉凉的，不知道有没有人。
-
-*   [melosbot/telegram-chat-organizer](https://github.com/melosbot/telegram-chat-organizer) -
-
-*   [liangdabiao/resume-matcher-agent-cn](https://github.com/liangdabiao/resume-matcher-agent-cn) - "简历匹配智能体"是一个AI驱动的平台，旨在逆向工程招聘算法，向您展示如何精准定制简历。获取那些能让你通过初步筛选、进入人工审阅阶段的关键词、格式和洞察。resume-matcher-agent意思就是模拟HR怎样筛选你的简历，提前给你展示筛选的结论，方便你尽快修改好你的简历，以增加通过的可能性。
-
-*   [sylearn/AICode](https://github.com/sylearn/AICode) - A comprehensive collection of AI-related utility scripts designed to simplify AI development workflows and automate common tasks.
-
-*   [Seameee/override-hub](https://github.com/Seameee/override-hub) - Mihomo Party Override Scripts
-
-*   [itandelin/qoder-free](https://github.com/itandelin/qoder-free) - 一个用于重置 Qoder 应用程序用户身份信息的现代化图形界面工具。
-
-*   [54yyyu/zotero-mcp](https://github.com/54yyyu/zotero-mcp) - Zotero MCP: Connects your Zotero research library with Claude and other AI assistants via the Model Context Protocol to discuss papers, get summaries, analyze citations, and more.
-
-*   [wzdnzd/harvester](https://github.com/wzdnzd/harvester) - Intelligent data acquisition framework for GitHub and web sources
-
-*   [SimonUTD/ai-cognitive-nexus-mcp](https://github.com/SimonUTD/ai-cognitive-nexus-mcp) - 一个专业的、可动态编组的 AI 团队协作与编排的MCP。允许您通过简单的指令创建、管理和指挥由多个 AI 智能体 (Agent) 组成的层级化团队，以解决复杂和多阶段的任务。
-
-*   [SimonUTD/AI-Diagram-Prototype-Generator-MCP-Server-](https://github.com/SimonUTD/AI-Diagram-Prototype-Generator-MCP-Server-) - AI Diagram & Prototype File Generator (MCP Server)
-
-*   [zigu-git/ql\_scripts](https://github.com/zigu-git/ql_scripts) - 自写自用脚本
-
-*   [fengyuanluo/firemail](https://github.com/fengyuanluo/firemail) - 一款通用邮箱收件工具，提供简单高效的邮件管理解决方案
-
-*   [wozhenbang2004/augetment-cursor-unlimited](https://github.com/wozhenbang2004/augetment-cursor-unlimited) - Augment一站式彻底重置方案汇总 高效|快速|彻底|无限白嫖续杯 包爽用
-
-*   [dulikaifazr/Free-Lite](https://github.com/dulikaifazr/Free-Lite) - 只需几步即可学习构建一款软件
-
-*   [coleam00/context-engineering-intro](https://github.com/coleam00/context-engineering-intro) - Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply this strategy with any AI coding assistant!
-
-*   [ddCat-main/ai-goofish](https://github.com/ddCat-main/ai-goofish) -  一个功能强大的闲鱼商品监控系统，能够根据用户设定的关键词自动爬取商品信息，使用AI进行智能分析和筛选，并通过邮件等方式实时通知用户感兴趣的商品。
-
-*   [numz/ComfyUI-SeedVR2\_VideoUpscaler](https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler) - Official SeedVR2 Video Upscaler for ComfyUI
-
-*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，趋势分析工具，一键监控抖音、知乎、哔哩哔哩、今日头条、百度热搜、贴吧、微博、华尔街见闻、财联社等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram、邮件、ntfy推送，30秒网页部署，1分钟手机通知，无需编程基础。也支持docker私人部署⭐ 让算法为你服务，而非被算法绑架
-
-*   [devgaganin/Save-Restricted-Content-Bot-v2](https://github.com/devgaganin/Save-Restricted-Content-Bot-v2) - A stable telegram bot to get restricted messages with custom thumbnail support , made by TEAM SPY This bot can upload files upto 4GB + YouTube/Insta/Facebook video downloading support  along with 100+ more sites
-
-*   [anyspecs/anyspecs-cli](https://github.com/anyspecs/anyspecs-cli) - Code is cheap, Show me Any Specs.
-
-*   [GakkiNoOne/hajimi-king](https://github.com/GakkiNoOne/hajimi-king) - 人人都是哈基米大王
-
-*   [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
-
-*   [AuroraPixel/ai-personal-daily-assistant](https://github.com/AuroraPixel/ai-personal-daily-assistant) -
-
-*   [wangxin776/AI-IDE-Chat-Export-Tool](https://github.com/wangxin776/AI-IDE-Chat-Export-Tool) -
-
-*   [DEKVIW/tgmonitor](https://github.com/DEKVIW/tgmonitor) - 聚合监控tg网盘影视资源
-
-*   [ihmily/DouyinLiveRecorder](https://github.com/ihmily/DouyinLiveRecorder) - 可循环值守和多人录制的直播录制软件，支持抖音、TikTok、Youtube、快手、虎牙、斗鱼、B站、小红书、pandatv、sooplive、flextv、popkontv、twitcasting、winktv、百度、微博、酷狗、17Live、Twitch、Acfun、CHZZK、shopee等40+平台直播录制
-
-*   [hubumulity/Sijishe](https://github.com/hubumulity/Sijishe) - 司机社签到
-
-*   [duolabmeng6/ai\_git\_commit\_gui](https://github.com/duolabmeng6/ai_git_commit_gui) -
-
-*   [WEIFENG2333/VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) - 🎬 卡卡字幕助手 | VideoCaptioner - 基于 LLM 的智能字幕助手 - 视频字幕生成、断句、校正、字幕翻译全流程处理！- A powered tool for easy and efficient video subtitling.
-
-*   [DR-lin-eng/download\_speed\_tester](https://github.com/DR-lin-eng/download_speed_tester) - 可以针对任意下载链接通过32线程的下载方式来测试下载链接的下载速度与稳定性。
-
-*   [POf-L/Fanqie-novel-Downloader](https://github.com/POf-L/Fanqie-novel-Downloader) -
-
-*   [y9nhjy/Proxifier-Keygen](https://github.com/y9nhjy/Proxifier-Keygen) - Proxifier注册机
-
-*   [JefferyHcool/BiliNote](https://github.com/JefferyHcool/BiliNote) - AI 视频笔记生成工具 让 AI 为你的视频做笔记
-
-*   [aipotheosis-labs/aci](https://github.com/aipotheosis-labs/aci) - ACI.dev is the open source tool-calling platform that hooks up 600+ tools into any agentic IDE or custom AI agent through direct function calling or a unified MCP server. The birthplace of VibeOps.
-
-*   [dong-dong6/DynaDNS-Router](https://github.com/dong-dong6/DynaDNS-Router) - 这个工具用于自动获取路由器的WAN口IP，并更新Cloudflare DNS记录。支持多种路由器类型，可以轻松扩展以适应不同的路由器固件。
-
-*   [R-lz/mcp-video-digest](https://github.com/R-lz/mcp-video-digest) - MCP Server for transcribing videos via video links and summarizing video content
-
-*   [tibbar213/Manifest2Lua](https://github.com/tibbar213/Manifest2Lua) - 爬取清单生成steamtools解锁文件
-
-*   [dbccccccc/ttsfm](https://github.com/dbccccccc/ttsfm) - TTSFM mirrors OpenAI's TTS service, providing a compatible interface for text-to-speech conversion with multiple voice options for free.
-
-*   [gua12345/grok2api\_python](https://github.com/gua12345/grok2api_python) -
-
-*   [zetaloop/cursor-shadow-patch](https://github.com/zetaloop/cursor-shadow-patch) - An experimental patch for Cursor to force different machine ids.
-
-*   [andrewyng/translation-agent](https://github.com/andrewyng/translation-agent) -
-
-*   [zetaloop/BetterWX](https://github.com/zetaloop/BetterWX) - 微信 PC 4.0 防撤回/多开补丁工具
-
-*   [snailyp/gemini-balance](https://github.com/snailyp/gemini-balance) - Gemini polling proxy service （gemini轮询代理服务）
-
-*   [Suxiaoqinx/Netease\_url](https://github.com/Suxiaoqinx/Netease_url) - 网易云无损解析
-
-*   [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) - \[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
-
-*   [sheldon123z/Zotero-Notion-Paper-Flow](https://github.com/sheldon123z/Zotero-Notion-Paper-Flow) - 通过扫描huggingface和arxiv直接添加最新文献到Notion、Wolai、以及论文阅读神器Zotero！同时，可以通过大模型api直接越过Notion AI，使用大模型总结文献主要内容传递到Notion页面的关键字中，建议使用deepseek，按需使用，妈妈再也不用担心涨价的Notion AI了！
-
-*   [JackyLee3362/wemo](https://github.com/JackyLee3362/wemo) - 微信朋友圈备份工具
-
-*   [HisAtri/LrcApi](https://github.com/HisAtri/LrcApi) - A Flask API For StreamMusic.
-
-*   [InputShare/InputShare](https://github.com/InputShare/InputShare) - InputShare enables you to share the keyboard and mouse of your computer with an Android device via ADB in wired / wireless way.
-
-*   [VeejaLiu/ScienceFictionCollection](https://github.com/VeejaLiu/ScienceFictionCollection) - 科幻小说作品集
-
-*   [DeppWang/youdaonote-pull](https://github.com/DeppWang/youdaonote-pull) - 📝 一个一键导出 / 备份「有道云笔记」所有笔记的 Python 脚本。 A Python script to export/backup all the notes of the "Youdao Note".
-
-*   [Yuukiy/JavSP](https://github.com/Yuukiy/JavSP) - 汇总多站点数据的AV元数据刮削器
-
-*   [jiongjiongJOJO/telegram\_info\_export](https://github.com/jiongjiongJOJO/telegram_info_export) - 导出telegram信息到本地
-
-*   [yeahhe365/OnlineGPT](https://github.com/yeahhe365/OnlineGPT) - OnlineGPT 是一个基于 Python 和 PyQt5 的桌面应用程序，为用户提供了一个功能强大的图形用户界面，支持使用多个搜索引擎（Google、Bing、百度）进行网络搜索。它的主要目的是让语言模型能够连接到互联网，获取实时的网络信息，以提供更准确和丰富的回答。
-
-*   [hmhm2022/ChatFree](https://github.com/hmhm2022/ChatFree) - 让你的AI摆脱浏览器的束缚
-
-*   [kfcx/biaomiao](https://github.com/kfcx/biaomiao) - 白描2API
-
-*   [NJUNLP/MORE](https://github.com/NJUNLP/MORE) - Code and data for ACM MM '23 paper “MORE: A Multimodal Object-Entity Relation Extraction Dataset with a Benchmark Evaluation”
-
-*   [marlkiller/t66y\_auto\_register](https://github.com/marlkiller/t66y_auto_register) - 草榴社区邀请码扫码自动注册脚本
-
-*   [KunpengLi1994/VSRN](https://github.com/KunpengLi1994/VSRN) - PyTorch code for ICCV'19 paper "Visual Semantic Reasoning for Image-Text Matching"
-
-*   [ai-dawang/PlugNPlay-Modules](https://github.com/ai-dawang/PlugNPlay-Modules) -
-
-*   [ls1248659692/leetcode](https://github.com/ls1248659692/leetcode) - python  数据结构与算法   leetcode 算法题与书籍 刷算法全靠套路与总结！Crack LeetCode, not only how, but also why.
-
-*   [optuna/optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework
-
-*   [marimo-team/marimo](https://github.com/marimo-team/marimo) - Transform data, train models, and run SQL with marimo — feels like a next-gen reactive notebook, stored as Git-friendly reproducible Python. Deploy as scripts, pipelines, endpoints, and apps. All from an AI-native editor (or your own).
-
-*   [zjunlp/MKGformer](https://github.com/zjunlp/MKGformer) - \[SIGIR 2022] Hybrid Transformer with Multi-level Fusion for Multimodal Knowledge Graph Completion
-
-*   [zjunlp/HVPNeT](https://github.com/zjunlp/HVPNeT) - \[NAACL 2022 Findings] Good Visual Guidance Makes A Better Extractor: Hierarchical Visual Prefix for Multimodal Entity and Relation Extraction
-
-*   [zjunlp/ContinueMKGC](https://github.com/zjunlp/ContinueMKGC) - \[IJCAI 2024] Continual Multimodal Knowledge Graph Construction
-
-*   [THU-BPM/PROMU](https://github.com/THU-BPM/PROMU) - Source code of paper:"Prompt Me Up: Unleashing the Power of Alignments for Multimodal Entity and Relation Extraction".
-
-*   [thecharm/Mega](https://github.com/thecharm/Mega) - Code for ACM MM 2021 Paper "Multimodal Relation Extraction with Efficient Graph Alignment".
-
-*   [ls2023wsw/clash-to-v2ray](https://github.com/ls2023wsw/clash-to-v2ray) -
-
-*   [facebookresearch/fvcore](https://github.com/facebookresearch/fvcore) - Collection of common code that's shared among different research projects in FAIR computer vision team.
-
-*   [TylerYep/torchinfo](https://github.com/TylerYep/torchinfo) - View model summaries in PyTorch!
-
-*   [infrost/pdf2docxserver](https://github.com/infrost/pdf2docxserver) - A server app to convert pdf to docx based on pdf2docx/ 基于 pdf2docx 将 pdf 转换为 docx 的服务程序
-
-*   [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
-
-*   [infrost/DeeplxFile](https://github.com/infrost/DeeplxFile) - 基于Deeplx和Playwright提供的简单易用，快速，免费，不限制文件大小，支持超长文本翻译，跨平台的文件翻译工具 / Easy-to-use, fast, free, unlimited file size and cross platform file translation tool based on Deeplx & Playwright that supports long text translations.
-
-*   [Rain-kl/glider\_guid](https://github.com/Rain-kl/glider_guid) - 使用Glider将节点转换成爬虫代理池，每秒切换IP，本项目包含使用教程，并提供将clash订阅转换为glider所支持的格式
-
-*   [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
-
-*   [ying-ck/fanqienovel-downloader](https://github.com/ying-ck/fanqienovel-downloader) - 下载番茄小说
-
-*   [pelme/htpy](https://github.com/pelme/htpy) - Generate HTML in Python
-
-*   [AowerDmax/Simple-Interview-Audio-Processing](https://github.com/AowerDmax/Simple-Interview-Audio-Processing) -
-
-*   [jonssonyan/3.jetbra.in](https://github.com/jonssonyan/3.jetbra.in) - 3.jetbra.in 存档
-
-*   [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr) - 带带弟弟 通用验证码识别OCR pypi版
-
-*   [wzdnzd/aggregator](https://github.com/wzdnzd/aggregator) - One-stop Proxies Crawling and Aggregation Platform
-
-*   [moran69/yanxuan](https://github.com/moran69/yanxuan) -
-
-*   [onewhitethreee/zhihu\_tools](https://github.com/onewhitethreee/zhihu_tools) - 知乎盐选会员文章下载 zhihu vip
-
-*   [igrek51/wat](https://github.com/igrek51/wat) - Deep inspection of Python objects
-
-*   [harry0703/AudioNotes](https://github.com/harry0703/AudioNotes) - 快速提取音视频内容，整理成一份结构化的markdown笔记
-
-*   [jiji262/douyin-downloader](https://github.com/jiji262/douyin-downloader) - 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。免费！免费！免费！
-
-*   [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) - Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks.This framework enables Claude to generate and manage its own tools, continuously expanding its capabilities through conversation. Available both as a CLI and a modern web interface
-
-*   [amchii/ZhiArchive](https://github.com/amchii/ZhiArchive) - 监测知乎用户的个人动态并保存内容以防丢失，保存知乎内容。Collecting and storing dynamic content from your Zhihu account for never lose.
-
-*   [careywyr/paper-agent](https://github.com/careywyr/paper-agent) - 论文辅助工具
-
-*   [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload) - 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
-
-*   [lanqian528/chat2api](https://github.com/lanqian528/chat2api) - A service that can convert ChatGPT on the web to OpenAI API format.
-
-*   [heshengtao/comfyui\_LLM\_party](https://github.com/heshengtao/comfyui_LLM_party) - LLM Agent Framework in ComfyUI includes MCP sever, Omost,GPT-sovits, ChatTTS,GOT-OCR2.0, and FLUX prompt nodes,access to Feishu,discord,and adapts to all llms with similar openai / aisuite interfaces, such as o1,ollama, gemini, grok, qwen, GLM, deepseek, kimi,doubao. Adapted to local llms, vlm, gguf such as llama-3.3 Janus-Pro, Linkage graphRAG
-
-*   [TecReaGroup/cs-subtitle](https://github.com/TecReaGroup/cs-subtitle) - Tanlate the videos of  computer science and share them
-
-*   [LeslieLeung/opensource-lighthouse](https://github.com/LeslieLeung/opensource-lighthouse) - 汇总统计各「大厂」的开源团队和项目。
-
-*   [CosmosShadow/gptpdf](https://github.com/CosmosShadow/gptpdf) - Using GPT to parse PDF
-
-*   [jhao104/proxy\_pool](https://github.com/jhao104/proxy_pool) - Python ProxyPool for web spider
-
-*   [snailyp/ip-checker](https://github.com/snailyp/ip-checker) - 一个基于clash api调用ip-api,scamalytics,ping0等网站获取ip纯净度的项目
-
-*   [602387193c/ComfyUI-wiki](https://github.com/602387193c/ComfyUI-wiki) - Everything about ComfyUI, including workflow sharing, resource sharing, knowledge sharing, tutorial sharing, and more.关于ComfyUI的一切，工作流分享、资源分享、知识分享、教程分享等
-
-*   [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫
-
-*   [ZhugeKongan/torch-template-for-deep-learning](https://github.com/ZhugeKongan/torch-template-for-deep-learning) - Pytorch Implementations of large number  classical backbone CNNs, data enhancement, torch loss, attention, visualization and  some common algorithms.
-
-*   [fastnlp/fitlog](https://github.com/fastnlp/fitlog) - fitlog是一款在深度学习训练中用于辅助用户记录日志和管理代码的工具
-
-*   [yym68686/ChatGPT-Telegram-Bot](https://github.com/yym68686/ChatGPT-Telegram-Bot) - TeleChat: 🤖️ an AI chat Telegram bot can Web Search Powered by GPT-5, DALL·E , Groq, Gemini 2.5 Pro/Flash and the official Claude4.1 API using Python on Zeabur, fly.io and Replit.
-
-*   [chenyme/Chenyme-AAVT](https://github.com/chenyme/Chenyme-AAVT) - 这是一个全自动（音频）视频翻译项目。利用Whisper识别声音，AI大模型翻译字幕，最后合并字幕视频，生成翻译后的视频。
-
-*   [Cl0udG0d/Fofa-hack](https://github.com/Cl0udG0d/Fofa-hack) - 非付费会员，fofa数据采集工具
-
-*   [liuzijian-cs/AcademicCodeAnnotator](https://github.com/liuzijian-cs/AcademicCodeAnnotator) - Academic Code Annotator 基于LLAMA3的学术代码解读器。上传pdf格式的论文和python文件，根据论文的内容自动注释代码并导出。欢迎大家继续优化~
-
-*   [tech-shrimp/WechatMoments](https://github.com/tech-shrimp/WechatMoments) - 微信朋友圈导出工具-技术爬爬虾
-
-*   [nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet) - FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will  make a multi engine search and combine the search result to LLM and generate the answer based on search results. It's all FREE to use.
-
-*   [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
-
-*   [TheR1D/shell\_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
-
-*   [Meekdai/Gmeek](https://github.com/Meekdai/Gmeek) - Gmeek is a Blog All in Github
-
-*   [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) - TikTok 发布/喜欢/合辑/直播/视频/图集/音乐；抖音发布/喜欢/收藏/收藏夹/视频/图集/实况/直播/音乐/合集/评论/账号/搜索/热榜数据采集工具/下载工具
-
-*   [qy527145/gitlabee\_crack](https://github.com/qy527145/gitlabee_crack) - 基于最新的gitlabee docker镜像，自动生成认证文件并部署
-
-*   [qy527145/crack](https://github.com/qy527145/crack) -
-
-*   [imelnyk/ArxivPapers](https://github.com/imelnyk/ArxivPapers) - Code behind Arxiv Papers
-
-*   [lining808/CS-Ebook](https://github.com/lining808/CS-Ebook) - 一个高质量、经典计算机书籍推荐清单，特点为：只收集高质量，各方向经典书籍，不求书多，只求书精。
-
-*   [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) - 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.
-
-*   [arXiv/zzzArchived\_arxiv-readability](https://github.com/arXiv/zzzArchived_arxiv-readability) - Pilot project to render HTML5 from arXiv LaTeX sources
-
-*   [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
-
-*   [imvanda/Tree\_This\_Folder](https://github.com/imvanda/Tree_This_Folder) - 为你的右键添加tree命令功能，快速生成文件夹结构，使用windows批处理脚本实现。"Add the 'tree' command functionality to your right-click menu for quick generation of folder structures, implemented using a Windows batch script."
-
-*   [shidahuilang/shuyuan](https://github.com/shidahuilang/shuyuan) - 阅读书源-香色闺阁+用心读书+源阅+阅读3.0书源+源阅读+爱阅书香+千阅+花火阅读+读不舍手+番茄+喜马拉雅+漫画+听书+书源+IPTV源+IPA巨魔应用=自动更新
-
-*   [VikParuchuri/texify](https://github.com/VikParuchuri/texify) - Math OCR model that outputs LaTeX and markdown
-
-*   [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
-
-*   [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
-
-*   [google/latexify\_py](https://github.com/google/latexify_py) - A library to generate LaTeX expression from Python code.
-
-*   [cs230-stanford/cs230-code-examples](https://github.com/cs230-stanford/cs230-code-examples) - Code examples in pyTorch and Tensorflow for CS230
-
-*   [chatanywhere/GPT\_API\_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT\&DeepSeek API Key，免费ChatGPT\&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
-
-*   [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
-
-*   [zuole/MachineLearning-DeepLearning-NLP-LeetCode-StatisticalLearningMethod-TensorFlow](https://github.com/zuole/MachineLearning-DeepLearning-NLP-LeetCode-StatisticalLearningMethod-TensorFlow) - 最近在学习机器学习，深度学习，自然语言处理，统计学习方法等知识，所以决定自己将学习的相关算法用Python实现一遍，并结合GitHub上相关大牛的代码进行改进，本项目会不断的更新相关算法，欢迎star，fork和关注。   主要包括：   1.吴恩达Andrew Ng老师的机器学习课程个人笔记 Python实现，   2.deeplearning.ai（吴恩达老师的深度学习课程笔记及资源） Python实现，   3.李航《统计学习方法》 Python代码实现，   4.自然语言处理NLP 牛津大学xDeepMind Python代码实现，   5.LeetCode刷题，题析，分析心得笔记 Java和Python代码实现， 6.TensorFlow人工智能实践代码笔记 北京大学曹健老师课程和TensorFlow：实战Google深度学习框架（第二版） Python代码实现，  附带一些个人心得和笔记。GitHub上有很多机器学习课程的代码资源，我也准备自己实现一下，后续会更新笔记，代码和百度云网盘链接。         这个项目主要是学习算法的，并且会不断更新相关资源和代码，欢迎关注，star，fork！   Min's blog 欢迎访问我的博客主页！  (Welcome to my blog website !)https://liweimin1996.github.io/
-
-*   [Dod-o/Statistical-Learning-Method\_Code](https://github.com/Dod-o/Statistical-Learning-Method_Code) - 手写实现李航《统计学习方法》书中全部算法
-
-*   [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
-
-*   [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
-
-*   [labmlai/annotated\_deep\_learning\_paper\_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
-
-*   [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper) - Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文全文总结+专业翻译+润色+审稿+审稿回复
-
-*   [binary-husky/gpt\_academic](https://github.com/binary-husky/gpt_academic) - 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。
-
-*   [ssborbis/ContextSearch-Native-App](https://github.com/ssborbis/ContextSearch-Native-App) - Native App for use with Context Search
-
-*   [koi778/sspanel-mining](https://github.com/koi778/sspanel-mining) - 🥤 采集、清洗、分类、存储暴露在公网上的 sspanel-uim 站点
-
-*   [Johnserf-Seed/TikTokDownload](https://github.com/Johnserf-Seed/TikTokDownload) - 抖音去水印批量下载用户主页作品、喜欢、收藏、图文、音频
-
-*   [s282730788/RealTool](https://github.com/s282730788/RealTool) - RealTool直播源获取工具
-
-*   [zhangyile/telegram-wechat](https://github.com/zhangyile/telegram-wechat) - 使用 telegram 收发微信
-
-*   [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
-
-*   [starkblaze01/Algorithms-Cheatsheet-Resources](https://github.com/starkblaze01/Algorithms-Cheatsheet-Resources) - 🤓All the geeky stuffs you need to know at one place!
-
-*   [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
-
-*   [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
-
-*   [wzk0/quick-hexo](https://github.com/wzk0/quick-hexo) - 一个方便中文Hexo用户使用的工具.
-
-*   [EugeneLiu/translationCSAPP](https://github.com/EugeneLiu/translationCSAPP) - 为 CSAPP 视频课程提供字幕，翻译 PPT，Lab。
-
-*   [CollegesChat/university-information](https://github.com/CollegesChat/university-information) - 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
-
-*   [liuzhijie443/ZhiMiao\_JiuJia](https://github.com/liuzhijie443/ZhiMiao_JiuJia) - 知苗易约九价抢购
-
-*   [thecodacus/Face-Recognition](https://github.com/thecodacus/Face-Recognition) - Face Recognition tutorial code
-
-*   [ageitgey/face\_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
-
-*   [66pig/face\_recognition](https://github.com/66pig/face_recognition) - 人脸识别考勤系统
-
-*   [inspurer/WorkAttendanceSystem](https://github.com/inspurer/WorkAttendanceSystem) - 一个基于opencv、dilb的员工人脸识别考勤系统
-
-*   [netCompanyInfo/net.company.info](https://github.com/netCompanyInfo/net.company.info) - 互联网公司情况简表
-
-*   [fuergaosi233/gitbook2pdf](https://github.com/fuergaosi233/gitbook2pdf) - Grab the contents of the gitbook document and convert it to pdf
-
-*   [fossasia/visdom](https://github.com/fossasia/visdom) - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy.
-
-*   [Abeautifulsnow/navicat-premium-crack](https://github.com/Abeautifulsnow/navicat-premium-crack) - This script is used to crack navicat premium application for another 14 days trial.(14天再次重置)
-
-*   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-
-*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-
-*   [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
-
-*   [kangvcar/InfoSpider](https://github.com/kangvcar/InfoSpider) - INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。
-
-*   [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
-
-*   [QBobWatson/ila](https://github.com/QBobWatson/ila) - Interactive Linear Algebra
-
-*   [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
-
-*   [BDisp/unlocker](https://github.com/BDisp/unlocker) - VMware Workstation macOS
-
-*   [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
-
-*   [matplotlib/cheatsheets](https://github.com/matplotlib/cheatsheets) - Official Matplotlib cheat sheets
-
-*   [tgbot-collection/YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) - 🎬 人人影视 机器人和网站，包含人人影视全部资源以及众多网友的网盘分享
-
-*   [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、fanqiang、油管youtube/视频下载、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载、youtube油管镜像/免翻墙网站、美区apple id共享账号、翻墙-科学上网-梯子
-
-*   [Cimbali/pympress](https://github.com/Cimbali/pympress) - Pympress is a simple yet powerful PDF reader designed for dual-screen presentations
-
-*   [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing\_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
-
-*   [taojy123/KeymouseGo](https://github.com/taojy123/KeymouseGo) - 类似按键精灵的鼠标键盘录制和自动化操作 模拟点击和键入 | automate mouse clicks and keyboard input
-
-*   [iswbm/magic-python](https://github.com/iswbm/magic-python) - Python 黑魔法手册
-
-*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-
-*   [wangzheng0822/algo](https://github.com/wangzheng0822/algo) - 数据结构和算法必知必会的50个代码实现
 
 ## TypeScript
 
@@ -1709,8 +1711,6 @@
 *   [MoocDownloader/MoocDownloader](https://github.com/MoocDownloader/MoocDownloader) - An MOOC downloader implemented by .NET. 一枚由 .NET 实现的 MOOC 下载器.
 
 *   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
-
-*   [nilaoda/N\_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) - \[.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.
 
 ## Shell
 
