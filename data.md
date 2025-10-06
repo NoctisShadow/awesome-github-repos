@@ -50,6 +50,8 @@
 
 ## Python
 
+*   [1e0n/LLM\_Checker](https://github.com/1e0n/LLM_Checker) - 一个用于测试大模型提供商的命令行检测工具，支持所有使用 OpenAI Compatible 协议的提供商。
+
 *   [hyb-oyqq/hajimi-king-pro](https://github.com/hyb-oyqq/hajimi-king-pro) - 人人都是【超级】哈基米大王
 
 *   [shiyi-0x7f/o-lib](https://github.com/shiyi-0x7f/o-lib) - O-lib is a free and open-source software application for PC
@@ -782,8 +784,6 @@
 
 *   [awesome-vpn/awesome-vpn](https://github.com/awesome-vpn/awesome-vpn) - Free proxy,VPN,免费代理,网络加速,科学上网,机场订阅,翻墙,梯子 無料プロキシ 무료 프록시 Gratis gratuit Бесплатный прокси gratuito Gratis  Darmowe  Ücretsiz  بروكسي مجاني मुफ्त प्रॉक्सी พร็อกซีฟรี miễn phí
 
-*   [midou-tech/articles](https://github.com/midou-tech/articles) - 我是龙叔，一个分享互联网技术和成长历程的大叔。希望在授人以鱼的同时也能授人以渔，欢迎大家踊跃star 和 issues 。
-
 ## Java
 
 *   [houbb/sensitive-word](https://github.com/houbb/sensitive-word) -  👮‍♂️The sensitive word tool for java.(敏感词/违禁词/违法词/脏词。基于 DFA 算法实现的高性能 java 敏感词过滤工具框架。内置支持单词标签分类分级。请勿发布涉及政治、广告、营销、翻墙、违反国家法律法规等内容。高性能敏感词检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。)
@@ -944,7 +944,7 @@
 
 ## JavaScript
 
-*   [hafrey1/LunaTV-config](https://github.com/hafrey1/LunaTV-config) - 随缘更新自用LunaTV-config源，每日自动检测API状态，添加is\_adult参数： 标记成人内容源，KatelyaTV可用。CORSAPI中转被墙API，请勿滥用！！！自用JSON配置文件编辑器，Luna TV配置管理专用。
+*   [hafrey1/LunaTV-config](https://github.com/hafrey1/LunaTV-config) - 随缘更新自用LunaTV-config源，每日自动检测API状态，可在自己的CF部署CORSAPI中转被墙API，本人提供的CORSAPI仅为测试使用，请勿滥用！！！自用JSON配置文件编辑器，Luna TV配置管理专用。
 
 *   [0-V-linuxdo/Chat\_Template\_Text\_Folders](https://github.com/0-V-linuxdo/Chat_Template_Text_Folders) - 在AI页面上添加预设文本文件夹和按钮，提升输入效率。
 
@@ -1922,7 +1922,7 @@
 
 *   [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 🤱🏻 一键打包网页生成轻量桌面应用。
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
 
 *   [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 
