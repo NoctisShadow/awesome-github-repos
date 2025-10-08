@@ -10,13 +10,13 @@
 *   [Go](#go)
 *   [HTML](#html)
 *   [Vue](#vue)
-*   [Dart](#dart)
 *   [C#](#c)
 *   [Shell](#shell)
 *   [Kotlin](#kotlin)
 *   [C++](#c-1)
 *   [CSS](#css)
 *   [Svelte](#svelte)
+*   [Dart](#dart)
 *   [PHP](#php)
 *   [Rust](#rust)
 *   [PowerShell](#powershell)
@@ -1210,6 +1210,8 @@
 
 *   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - 一个用于管理和切换 Claude Code 和 Codex 不同供应商配置的桌面应用
 
+*   [waifu-project/movie](https://github.com/waifu-project/movie) - 小猫影视是一款全平台的影视播放器, 支持 VOD/JS 扩展源
+
 *   [clljf/smart-image-processor-mcp](https://github.com/clljf/smart-image-processor-mcp) - 智能图片处理MCP服务器 - 基于MCP协议的AI图片处理工具
 
 *   [mcp-router/mcp-router](https://github.com/mcp-router/mcp-router) - A Unified MCP Server Management App
@@ -1626,26 +1628,6 @@
 
 *   [yiqia/activity](https://github.com/yiqia/activity) - 基于vue+element-ui的SSM校园活动信息平台
 
-## Dart
-
-*   [waifu-project/movie](https://github.com/waifu-project/movie) - 小猫影视 🐈
-
-*   [Predidit/Kazumi](https://github.com/Predidit/Kazumi) - 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。
-
-*   [kangpeiqin/bilivideo\_down](https://github.com/kangpeiqin/bilivideo_down) - A cross-platform（Win / MacOS） BiliBili Video downloader | 一款基于 Flutter 开发的桌面端 B 站视频下载器
-
-*   [3003h/Eros-FE](https://github.com/3003h/Eros-FE) - An e-hentai/exhentai app make on flutter
-
-*   [xiaoyaocz/dart\_simple\_live](https://github.com/xiaoyaocz/dart_simple_live) - 简简单单的看直播
-
-*   [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
-
-*   [ComicSparks/pikapika](https://github.com/ComicSparks/pikapika) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
-
-*   [user1121114685/Wallpaper\_Engine](https://github.com/user1121114685/Wallpaper_Engine) - 一个便捷的创意工坊下载器
-
-*   [xausky/DockerRegisterCloud](https://github.com/xausky/DockerRegisterCloud) - 基于 Docker 仓库协议的网盘客户端，可以将目前众多的免费容器仓库服务用于网盘。
-
 ## C\#
 
 *   [4evergaeul/JAV\_MovieManager](https://github.com/4evergaeul/JAV_MovieManager) - JAV影片管理器(Jav Manager)。支持通过MDXC刮削后构建你的专属影片库。
@@ -1871,6 +1853,24 @@
 *   [Ryson-32/AI-Formula-Scanner](https://github.com/Ryson-32/AI-Formula-Scanner) - AI-based Formula OCR Recognition, Analysis, and Management Software. 基于 AI 的公式 OCR 识别、分析和管理软件
 
 *   [cmudig/AutoProfiler](https://github.com/cmudig/AutoProfiler) - Automatically profile dataframes in the Jupyter sidebar
+
+## Dart
+
+*   [Predidit/Kazumi](https://github.com/Predidit/Kazumi) - 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。
+
+*   [kangpeiqin/bilivideo\_down](https://github.com/kangpeiqin/bilivideo_down) - A cross-platform（Win / MacOS） BiliBili Video downloader | 一款基于 Flutter 开发的桌面端 B 站视频下载器
+
+*   [3003h/Eros-FE](https://github.com/3003h/Eros-FE) - An e-hentai/exhentai app make on flutter
+
+*   [xiaoyaocz/dart\_simple\_live](https://github.com/xiaoyaocz/dart_simple_live) - 简简单单的看直播
+
+*   [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
+
+*   [ComicSparks/pikapika](https://github.com/ComicSparks/pikapika) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
+
+*   [user1121114685/Wallpaper\_Engine](https://github.com/user1121114685/Wallpaper_Engine) - 一个便捷的创意工坊下载器
+
+*   [xausky/DockerRegisterCloud](https://github.com/xausky/DockerRegisterCloud) - 基于 Docker 仓库协议的网盘客户端，可以将目前众多的免费容器仓库服务用于网盘。
 
 ## PHP
 
