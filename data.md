@@ -49,7 +49,7 @@
 
 ## Python
 
-*   [hmjz100/Z.ai2api](https://github.com/hmjz100/Z.ai2api) - 将 Z.ai 代理为 OpenAI/Anthropic Compatible 格式，支持多模型列表映射、免令牌、智能处理思考链、图片上传等功能；Z.ai ZtoApi ZaitoApi zai X-Signature 签名 GLM 4.5 v 4.6
+*   [hmjz100/Z.ai2api](https://github.com/hmjz100/Z.ai2api) - 将 Z.ai Chat 代理为 OpenAI/Anthropic Compatible 格式，支持多模型列表映射、免令牌、智能处理思考链、图片上传等功能；Z.ai ZtoApi z2api ZaitoApi zai X-Signature 签名 GLM 4.5 v 4.6
 
 *   [1e0n/LLM\_Checker](https://github.com/1e0n/LLM_Checker) - 一个用于测试大模型提供商的命令行检测工具，支持所有使用 OpenAI Compatible 协议的提供商。
 
