@@ -119,7 +119,7 @@
 
 ## Python
 
-*   [sfz009900/fuckfanyipublic](https://github.com/sfz009900/fuckfanyipublic) - OCR截图AI翻译,AI学习英语
+*   [sfz009900/fuckfanyipublic](https://github.com/sfz009900/fuckfanyipublic) - OCR截图AI翻译,AI学习英语,OCR screenshot AI translation, AI learning English
 
 *   [hmjz100/Z.ai2api](https://github.com/hmjz100/Z.ai2api) - 将 Z.ai Chat 代理为 OpenAI/Anthropic Compatible 格式，支持多模型列表映射、免令牌、智能处理思考链、图片上传等功能；Z.ai ZtoApi z2api ZaitoApi zai X-Signature 签名 GLM 4.5 v 4.6
 
@@ -163,7 +163,7 @@
 
 *   [numz/ComfyUI-SeedVR2\_VideoUpscaler](https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler) - Official SeedVR2 Video Upscaler for ComfyUI
 
-*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，趋势分析工具，一键监控抖音、知乎、哔哩哔哩、今日头条、百度热搜、贴吧、微博、华尔街见闻、财联社等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram、邮件、ntfy推送，30秒网页部署，1分钟手机通知，无需编程基础。也支持docker私人部署⭐ 让算法为你服务，而非被算法绑架
+*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，AI 助你看懂热点 - 多平台热点聚合+AI智能分析工具。监控35个平台（抖音、知乎、B站、微博等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/飞书/钉钉/Telegram/邮件/ntfy推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点
 
 *   [devgaganin/Save-Restricted-Content-Bot-v2](https://github.com/devgaganin/Save-Restricted-Content-Bot-v2) - A stable telegram bot to get restricted messages with custom thumbnail support , made by TEAM SPY This bot can upload files upto 4GB + YouTube/Insta/Facebook video downloading support  along with 100+ more sites
 
@@ -675,7 +675,7 @@
 
 *   [zkqiang/hangzhou-house-guide](https://github.com/zkqiang/hangzhou-house-guide) - 杭州购房指南，根据个人购房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料。
 
-*   [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
+*   [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
 
 *   [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind MIT licensed (free) components, sections and templates 😎
 
