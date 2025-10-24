@@ -119,7 +119,7 @@
 
 ## TypeScript
 
-*   [jeffernn/joyflix](https://github.com/jeffernn/joyflix) - 可使用免费服务部署的影视网站（内置食用教程）
+*   [jeffernn/joyflix](https://github.com/jeffernn/joyflix) - 基于MoonTV(LunaTV)二次开发开箱即用的、跨平台的影视站（内置食用教程）
 
 *   [TokenRollAI/fast-mvp](https://github.com/TokenRollAI/fast-mvp) - AI MVP应用的通用template
 
@@ -1047,7 +1047,7 @@
 
 *   [obgnail/typora\_plugin](https://github.com/obgnail/typora_plugin) - Typora plugin. Feature enhancement tool | Typora 插件，功能增强工具
 
-*   [blueagler/DeepL-Helper](https://github.com/blueagler/DeepL-Helper) - Bypass 5,000 characters, Remove edit restriction, Use DeepL Pro Account Cookies/DeepL Api Free Token to translate, Unlock Formal/informal tone, Randomize fingerprint
+*   [blueagler/DeepL-Helper](https://github.com/blueagler/DeepL-Helper) - Extend character support to 5,000+, lift editing limits, integrate with DeepL (Pro or API), enable formal/informal tone selection, and provide privacy‑friendly device fingerprint rotation.
 
 *   [Xatta-Trone/medium-parser-extension](https://github.com/Xatta-Trone/medium-parser-extension) - Read medium.com and medium based articles using google web cache.
 
