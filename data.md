@@ -659,8 +659,6 @@
 
 *   [cblueo/augment-assistant](https://github.com/cblueo/augment-assistant) - JetBrains Augment无限续杯
 
-*   [xn030523/augment-token-idea-free](https://github.com/xn030523/augment-token-idea-free) - 官网
-
 *   [J3n5en/bye](https://github.com/J3n5en/bye) -
 
 *   [PhantasmAI/PromptMicroTune-Revolution](https://github.com/PhantasmAI/PromptMicroTune-Revolution) - 把一段提示词变成“软微调”——重塑大模型定制成本与想象力的边界
@@ -1248,6 +1246,8 @@
 *   [hzdu/setprograms](https://github.com/hzdu/setprograms) - NodeJS、JDK、Python开发环境设置工具
 
 *   [lanzhsh/react-vue-koa](https://github.com/lanzhsh/react-vue-koa) - Vue，React，微信小程序，快应用，TS , Koa, JS一把梭
+
+*   [up209d/ResourcesSaverExt](https://github.com/up209d/ResourcesSaverExt) - Chrome Extension for one click downloading all resources files and keeping folder structures.
 
 ## C\#
 
