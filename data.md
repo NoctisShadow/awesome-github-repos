@@ -1464,7 +1464,7 @@
 
 *   [dromara/neutrino-proxy](https://github.com/dromara/neutrino-proxy) - 中微子代理（内网穿透）
 
-*   [loks666/get\_jobs](https://github.com/loks666/get_jobs) - 💼【AI找工作助手】全平台自动投简历脚本：(boss、前程无忧、猎聘、拉勾、智联招聘)
+*   [loks666/get\_jobs](https://github.com/loks666/get_jobs) - 💼【AI找工作助手】全平台自动投简历脚本：(boss、前程无忧、猎聘、智联招聘)
 
 *   [ZCShou/GoGoGo](https://github.com/ZCShou/GoGoGo) - 一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆
 
