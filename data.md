@@ -1616,7 +1616,7 @@
 
 *   [bestruirui/BestSub](https://github.com/bestruirui/BestSub) - Best Sub, Best for Your Net
 
-*   [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) - End to end, Offline, high speed, and privately self-host free version of Google Translate - 低占用速度快可私有部署的离线版 Google 翻译
+*   [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) - Offline translation server with low resource consumption, fast speed, and private deployment capability. 低资源占用速度快可私有部署的离线翻译服务器
 
 *   [chengazhen/gitlens-pro](https://github.com/chengazhen/gitlens-pro) - 一个用于激活 GitLens Pro 的工具。
 
