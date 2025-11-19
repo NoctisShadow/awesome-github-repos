@@ -72,15 +72,15 @@
 
 ## miscellaneous
 
-*   [lzA6/CF-work-to-TG](https://github.com/lzA6/CF-work-to-TG) - Cloudflare Workers 部署 ✧ Serverless 架构 ✧ Webhook 实时响应 ✧ Telegram Bot API 交互 ✧ Cloudflare KV 持久化存储 ✧ 链式与一对多分发模型 ✧ 自动化订阅/退订流程 ✧ Promise 并行处理 ✧ 错误隔离与自动容错
+*   [lza6/CF-work-to-TG](https://github.com/lza6/CF-work-to-TG) - Cloudflare Workers 部署 ✧ Serverless 架构 ✧ Webhook 实时响应 ✧ Telegram Bot API 交互 ✧ Cloudflare KV 持久化存储 ✧ 链式与一对多分发模型 ✧ 自动化订阅/退订流程 ✧ Promise 并行处理 ✧ 错误隔离与自动容错
 
 *   [mir-xiong/xiaomusic](https://github.com/mir-xiong/xiaomusic) - 使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。
 
 *   [zavierd/WarpInjectorGo-Download](https://github.com/zavierd/WarpInjectorGo-Download) - Warp Token Injector 官方下载页面
 
-*   [lzA6/Prompt-APP-optimization](https://github.com/lzA6/Prompt-APP-optimization) - 面向全语言编程零基础大架构等等所有通用项目审查优化的提示词优化（中文友好，随缘更新）
+*   [lza6/Prompt-APP-optimization](https://github.com/lza6/Prompt-APP-optimization) - 面向全语言编程零基础大架构等等所有通用项目审查优化的提示词优化（中文友好，随缘更新）
 
-*   [lzA6/free-VPN](https://github.com/lzA6/free-VPN) - 更新的都是高质量高速度的VPN，通常用IDM等等下载工具下载huggingface的大模型速度都能跑到100MB+，但是可能仅限于下载。对于访问google相关服务不太理想
+*   [lza6/free-VPN](https://github.com/lza6/free-VPN) - 更新的都是高质量高速度的VPN，通常用IDM等等下载工具下载huggingface的大模型速度都能跑到100MB+，但是可能仅限于下载。对于访问google相关服务不太理想
 
 *   [adminlove520/Source-Collector](https://github.com/adminlove520/Source-Collector) -
 
@@ -1118,7 +1118,7 @@
 
 ## JavaScript
 
-*   [lzA6/SVD-Phoenix](https://github.com/lzA6/SVD-Phoenix) - 摸鱼小窗看你想要的短视频平台等等来上班摸鱼
+*   [lza6/SVD-Phoenix](https://github.com/lza6/SVD-Phoenix) - 摸鱼小窗看你想要的短视频平台等等来上班摸鱼
 
 *   [Lianues/AIStudioBridge](https://github.com/Lianues/AIStudioBridge) - 将ai studio的对话页面转发为api接口，供其他软件使用。您可以在releases中使用稳定版本和开发测试版
 
