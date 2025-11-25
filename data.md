@@ -3,8 +3,8 @@
 ## Table of Contents
 
 *   [JavaScript](#javascript)
-*   [PHP](#php)
 *   [TypeScript](#typescript)
+*   [PHP](#php)
 *   [miscellaneous](#miscellaneous)
 *   [Python](#python)
 *   [Vue](#vue)
@@ -47,6 +47,8 @@
 *   [Perl](#perl)
 
 ## JavaScript
+
+*   [timerring/BiliSpeedUp](https://github.com/timerring/BiliSpeedUp) - 提供B站倍速播放功能，支持鼠标滚轮调节、触控板调节、自定义记忆播放速度。Provides customize playback speed options for Bilibili.
 
 *   [glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker) - 🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly
 
@@ -302,31 +304,9 @@
 
 *   [hzdu/setprograms](https://github.com/hzdu/setprograms) - NodeJS、JDK、Python开发环境设置工具
 
-## PHP
-
-*   [hmjz100/Stellar](https://github.com/hmjz100/Stellar) - GitHub Stellar - 星标数据分析工具
-
-*   [qq254950134/my\_tvbox](https://github.com/qq254950134/my_tvbox) - 用于整合影视仓/tvbox本地包，提高访问速度
-
-*   [DR-lin-eng/sharesubweb](https://github.com/DR-lin-eng/sharesubweb) - 订阅分享平台全部代码
-
-*   [purainity/proxy\_share](https://github.com/purainity/proxy_share) - 🚀代理分享 自动爬取一些普通的爬虫难以爬取的公共代理节点并整合
-
-*   [ellermister/mybili](https://github.com/ellermister/mybili) - 哔哩哔哩收藏夹备份程序 ~ アレ 视频不见了哟！
-
-*   [okxlin/appstore](https://github.com/okxlin/appstore) - 1Panel 应用商店的非官方应用适配库  1Panel Store Unofficial App Adaptation Repository (https://t.me/dockerapps)
-
-*   [LyLme/lylme\_spage](https://github.com/LyLme/lylme_spage) - 六零导航页
-
-*   [mike126126/bing](https://github.com/mike126126/bing) - Bing首页每日更新一张来自世界各地的精美图片。通过imgRun提供的API链接可以简单、快速地获取栩栩如生的每日壁纸，每日自动更新，作为网站背景和电脑壁纸都非常不错…… https://bing.img.run/
-
-*   [easychen/stack-roadmap](https://github.com/easychen/stack-roadmap) - 方糖全栈路线图2023，为「从螺丝钉到一人企业」补全技能栈
-
-*   [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service.
-
-*   [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
-
 ## TypeScript
+
+*   [yeahhe365/All-Model-Chat](https://github.com/yeahhe365/All-Model-Chat) - 一个全能的 AI 聊天助手，深度集成 Gemini 生态。支持多模态交互（文本/语音/图片/视频）、实时联网搜索、代码执行、长文档分析及高级推理功能。内置丰富的预设场景与个性化配置，助您探索 AI 的无限可能。
 
 *   [talex-touch/tuff](https://github.com/talex-touch/tuff) - The command bar, reimagined for those who build. Tuff is an open-source core for your OS, built on a sandboxed architecture with a local-first AI and a powerful TypeScript SDK.
 
@@ -543,6 +523,30 @@
 *   [liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan) - 阿里云盘小白羊版  阿里云盘PC版 aliyundriver
 
 *   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+
+## PHP
+
+*   [hmjz100/Stellar](https://github.com/hmjz100/Stellar) - GitHub Stellar - 星标数据分析工具
+
+*   [qq254950134/my\_tvbox](https://github.com/qq254950134/my_tvbox) - 用于整合影视仓/tvbox本地包，提高访问速度
+
+*   [DR-lin-eng/sharesubweb](https://github.com/DR-lin-eng/sharesubweb) - 订阅分享平台全部代码
+
+*   [purainity/proxy\_share](https://github.com/purainity/proxy_share) - 🚀代理分享 自动爬取一些普通的爬虫难以爬取的公共代理节点并整合
+
+*   [ellermister/mybili](https://github.com/ellermister/mybili) - 哔哩哔哩收藏夹备份程序 ~ アレ 视频不见了哟！
+
+*   [okxlin/appstore](https://github.com/okxlin/appstore) - 1Panel 应用商店的非官方应用适配库  1Panel Store Unofficial App Adaptation Repository (https://t.me/dockerapps)
+
+*   [LyLme/lylme\_spage](https://github.com/LyLme/lylme_spage) - 六零导航页
+
+*   [mike126126/bing](https://github.com/mike126126/bing) - Bing首页每日更新一张来自世界各地的精美图片。通过imgRun提供的API链接可以简单、快速地获取栩栩如生的每日壁纸，每日自动更新，作为网站背景和电脑壁纸都非常不错…… https://bing.img.run/
+
+*   [easychen/stack-roadmap](https://github.com/easychen/stack-roadmap) - 方糖全栈路线图2023，为「从螺丝钉到一人企业」补全技能栈
+
+*   [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service.
+
+*   [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
 
 ## miscellaneous
 
@@ -924,8 +928,6 @@
 
 *   [wsdjeg/Learn-Vim\_zh\_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn) - 聪明地学习Vim
 
-*   [AobingJava/JavaFamily](https://github.com/AobingJava/JavaFamily) - 【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
-
 ## Python
 
 *   [hanxi/xiaomusic](https://github.com/hanxi/xiaomusic) - 使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。
@@ -1284,8 +1286,6 @@
 
 *   [Cimbali/pympress](https://github.com/Cimbali/pympress) - Pympress is a simple yet powerful PDF reader designed for dual-screen presentations
 
-*   [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing\_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
-
 ## Vue
 
 *   [Zheng-up/zAugment](https://github.com/Zheng-up/zAugment) - zaugment
@@ -1438,7 +1438,7 @@
 
 *   [mblog-backend/backend](https://github.com/mblog-backend/backend) - 支持前后分离/不分离的个人/多人使用的微博平台
 
-*   [bigintpro/csdn\_downloader](https://github.com/bigintpro/csdn_downloader) - csdn下载，csdn免积分下载，csdn免会员下载，csdn付费内容下载 免费资源 体验地址:http://servicedev.tpddns.cn:8181/#/login?c=12
+*   [bigintpro/csdn\_downloader](https://github.com/bigintpro/csdn_downloader) - csdn下载，csdn免积分下载，csdn免会员下载，csdn付费内容下载 免费资源 体验地址:http://toolman.ddnsfree.com:9192/#/login?c=12
 
 *   [Jackson0714/PassJava-Platform](https://github.com/Jackson0714/PassJava-Platform) - 一款面试刷题的 Spring Cloud 开源系统。零碎时间利用小程序查看常见面试题，夯实Java基础。 该项目可以教会你如何搭建SpringBoot项目，Spring Cloud项目。 采用流行的技术，如 SpringBoot、MyBatis、Redis、 MySql、 MongoDB、 RabbitMQ、Elasticsearch，采用Docker容器化部署。
 
