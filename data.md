@@ -578,6 +578,8 @@
 
 *   [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers) - Easily deploy your Telegram ChatGPT bot on Cloudflare Workers (or Vercel, Docker...).
 
+*   [abhivaikar/howtheytest](https://github.com/abhivaikar/howtheytest) - A collection of public resources about how software companies test their software
+
 *   [shengxinjing/email-helper](https://github.com/shengxinjing/email-helper) - Generate your business emails in seconds (by OpenAI)
 
 *   [markmap/markmap](https://github.com/markmap/markmap) - Build mindmaps with plain text
@@ -1392,7 +1394,7 @@
 
 *   [cyuanyuan520/sbbs-community](https://github.com/cyuanyuan520/sbbs-community) - springboot + nuxt3.0构建的现代化轻量级社区
 
-*   [Tosencen/XMBOX](https://github.com/Tosencen/XMBOX) - 一个看片儿的空盒子软件，需自行配置源
+*   [Tosencen/XMBOX](https://github.com/Tosencen/XMBOX) - 空盒子软件，最近忙着生存，有没愿意维护的朋友
 
 *   [Idea-flow/novel-download](https://github.com/Idea-flow/novel-download) - 在线小说下载网站 | 小说下载工具 | 免费下载小说 |网络小说 | 免费下载
 
@@ -1735,8 +1737,6 @@
 *   [shengqiangzhang/examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) - 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、微信读书、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
 
 *   [Momo707577045/media-source-extract](https://github.com/Momo707577045/media-source-extract) - MediaSource 视频提取教程
-
-*   [abhivaikar/howtheytest](https://github.com/abhivaikar/howtheytest) - A collection of public resources about how software companies test their software
 
 *   [eveningwater/code-segment](https://github.com/eveningwater/code-segment) - 一个代码片段的集合
 
