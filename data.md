@@ -334,7 +334,7 @@
 
 *   [numz/ComfyUI-SeedVR2\_VideoUpscaler](https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler) - Official SeedVR2 Video Upscaler for ComfyUI
 
-*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点【 当前仅推荐Docker部署，Fork/Actions方式暂停（正在与GitHub官方沟通中）】
+*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点
 
 *   [devgaganin/Save-Restricted-Content-Bot-v2](https://github.com/devgaganin/Save-Restricted-Content-Bot-v2) - A stable telegram bot to get restricted messages with custom thumbnail support , made by TEAM SPY This bot can upload files upto 4GB + YouTube/Insta/Facebook video downloading support  along with 100+ more sites
 
@@ -710,6 +710,8 @@
 
 *   [Angels-Ray/fake-cursor](https://github.com/Angels-Ray/fake-cursor) - 一个用于重新生成 Cursor 设备 ID 和设置 Access Token 的 Cursor 扩展
 
+*   [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Discover best root apps, Magisk & LSPosed(xposed) modules with step-by-step rooting guides
+
 *   [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
 
 *   [17fun/17fei](https://github.com/17fun/17fei) - 情侣飞行棋 - 姿势卡 游戏
@@ -1031,6 +1033,8 @@
 *   [Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers) - 🚀 免费订阅地址，🚀 免费节点，🚀 6小时更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙、免费科学上网、免费梯子、免费ss/v2ray/trojan节点、谷歌商店、翻墙梯子。🚀 Free subscription address, 🚀 Free node, 🚀 Updated every 6 hours, shared node, high-quality node availability, completely free. Free clash subscription address, free ss/v2ray/trojan node.
 
 *   [deezertidal/freevpn](https://github.com/deezertidal/freevpn) - 免费公益机场节点分享
+
+*   [zpj80231/idea-set](https://github.com/zpj80231/idea-set) - ✅ JetBrains IntelliJ IDEA 自用配置、常用插件、破解激活，打包整理。
 
 *   [elicit/machine-learning-list](https://github.com/elicit/machine-learning-list) - A curriculum for learning about foundation models, from scratch to the frontier
 
@@ -1438,8 +1442,6 @@
 
 *   [sotasan/decompiler](https://github.com/sotasan/decompiler) - Java Decompiler GUI
 
-*   [zpj80231/idea-set](https://github.com/zpj80231/idea-set) - ✅ JetBrains IntelliJ IDEA 自用配置、常用插件、破解激活，打包整理。
-
 *   [lsieun/learn-java-asm](https://github.com/lsieun/learn-java-asm) - :bug: Java ASM
 
 *   [houqingying/ChatViewer](https://github.com/houqingying/ChatViewer) - 基于SpringBoot和Vue开发的能和ChatGPT对话的知识分享/面试辅助网站
@@ -1769,8 +1771,6 @@
 *   [BevalZ/awesome-prompt-for-academic](https://github.com/BevalZ/awesome-prompt-for-academic) - awesome-prompt-for-academic, welcome to contribute
 
 *   [hamflx/cursor-reset](https://github.com/hamflx/cursor-reset) - Cursor Machine ID / Device ID Reset (Supports ≥ 0.45.0; Windows/macOS/Linux)
-
-*   [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Discover best root apps, Magisk & LSPosed(xposed) modules with step-by-step rooting guides
 
 *   [justonemorenight/Fix-Cursor-Too-many-free-trial-accounts-used-on-this-machine](https://github.com/justonemorenight/Fix-Cursor-Too-many-free-trial-accounts-used-on-this-machine) - Reset Trial Cursor
 
