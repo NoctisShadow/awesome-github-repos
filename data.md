@@ -740,7 +740,7 @@
 
 *   [shengplus-2024/wechat-video-collect](https://github.com/shengplus-2024/wechat-video-collect) - 微信视频号采集
 
-*   [DowneyRem/PixivSource](https://github.com/DowneyRem/PixivSource) - 阅读 3.0 的 Pixiv 书源
+*   [DowneyRem/PixivSource](https://github.com/DowneyRem/PixivSource) - 最好的 Pixiv 小说阅读器——开源阅读 + Pixiv 书源 / Legado with Pixiv BookSource, A Best Novel Reader for Pixiv
 
 *   [guobao2333/DeepLX-Serverless](https://github.com/guobao2333/DeepLX-Serverless) - DeepL Free API for Serverless
 
