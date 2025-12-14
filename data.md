@@ -360,7 +360,7 @@
 
 *   [DR-lin-eng/download\_speed\_tester](https://github.com/DR-lin-eng/download_speed_tester) - 可以针对任意下载链接通过32线程的下载方式来测试下载链接的下载速度与稳定性。
 
-*   [POf-L/Fanqie-novel-Downloader](https://github.com/POf-L/Fanqie-novel-Downloader) -
+*   [POf-L/Fanqie-novel-Downloader](https://github.com/POf-L/Fanqie-novel-Downloader) - 番茄小说下载器，周更中~
 
 *   [y9nhjy/Proxifier-Keygen](https://github.com/y9nhjy/Proxifier-Keygen) - Proxifier注册机
 
@@ -646,7 +646,7 @@
 
 *   [timerring/BiliSpeedUp](https://github.com/timerring/BiliSpeedUp) - 提供B站倍速播放功能，支持鼠标滚轮调节、触控板调节、自定义记忆播放速度。Provides customize playback speed options for Bilibili.
 
-*   [glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker) - 🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly\[建议统一走商店安装，本地安装后续不好同步更新]
+*   [glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker) - 🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly\[正在开发 Sidebar 高级功能，敬请期待]
 
 *   [huppugo1/WindsurfRegistration-Tool](https://github.com/huppugo1/WindsurfRegistration-Tool) - 一个功能强大的 Chrome 浏览器扩展，用于自动注册和管理 Windsurf (Codeium) 账号。
 
@@ -1762,8 +1762,6 @@
 
 *   [HZFE/awesome-interview](https://github.com/HZFE/awesome-interview) - 剑指前端 Offer
 
-*   [anbang/javascript-notes](https://github.com/anbang/javascript-notes) -  JavaScript 学习笔记；JavaScript学习总结；前端变化太快，只有把JS基础打扎实了，才能游刃有余；为了让我的JavaScript基础异常牢固，思路更加清晰，我会把以前总结过的知识和平时看到的资料放在这里，把以前零零散散的知识点全部串起来！这个项目也许写到最后会是一个非常不错的JavaScript教程，希望可以帮到更多的人；收藏请点star；如果发现我有写错误的，欢迎随时帮我改正，或者增加新的观点，谢谢！
-
 ## Shell
 
 *   [wisdgod/cursor-rp](https://github.com/wisdgod/cursor-rp) - Feel free.
@@ -1929,6 +1927,8 @@
 *   [meetrevision/playbook](https://github.com/meetrevision/playbook) - A lightweight, stable, and performance-focused customized version of Windows that enhances privacy and compatibility
 
 *   [Qetesh/logi-options-plus-mini](https://github.com/Qetesh/logi-options-plus-mini) - Let logi options plus do the job of keyboard and mouse only!disable logivoice、analytics、flow、sso、update、dfu、aipromptbuilder、device-recommendation
+
+*   [abbodi1406/WHD](https://github.com/abbodi1406/WHD) - WHDownloader backup repo
 
 *   [Lin-jun-xiang/awesome-vscode-extensions](https://github.com/Lin-jun-xiang/awesome-vscode-extensions) - :gem:Tops of VSCode Extensions
 
