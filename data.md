@@ -1446,7 +1446,7 @@
 
 *   [cyuanyuan520/sbbs-community](https://github.com/cyuanyuan520/sbbs-community) - springboot + nuxt3.0构建的现代化轻量级社区
 
-*   [Tosencen/XMBOX](https://github.com/Tosencen/XMBOX) - 空盒子软件，最近忙着生存，有没愿意维护的朋友
+*   [Tosencen/XMBOX](https://github.com/Tosencen/XMBOX) - 空盒子应用
 
 *   [Idea-flow/novel-download](https://github.com/Idea-flow/novel-download) - 在线小说下载网站 | 小说下载工具 | 免费下载小说 |网络小说 | 免费下载
 
@@ -1653,6 +1653,8 @@
 *   [Richasy/BiliBili-UWP](https://github.com/Richasy/BiliBili-UWP) - BiliBili的UWP客户端，当然，是第三方的了
 
 *   [MoocDownloader/MoocDownloader](https://github.com/MoocDownloader/MoocDownloader) - An MOOC downloader implemented by .NET. 一枚由 .NET 实现的 MOOC 下载器.
+
+*   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 
 ## Go
 
@@ -1927,8 +1929,6 @@
 *   [meetrevision/playbook](https://github.com/meetrevision/playbook) - A lightweight, stable, and performance-focused customized version of Windows that enhances privacy and compatibility
 
 *   [Qetesh/logi-options-plus-mini](https://github.com/Qetesh/logi-options-plus-mini) - Let logi options plus do the job of keyboard and mouse only!disable logivoice、analytics、flow、sso、update、dfu、aipromptbuilder、device-recommendation
-
-*   [abbodi1406/WHD](https://github.com/abbodi1406/WHD) - WHDownloader backup repo
 
 *   [Lin-jun-xiang/awesome-vscode-extensions](https://github.com/Lin-jun-xiang/awesome-vscode-extensions) - :gem:Tops of VSCode Extensions
 
