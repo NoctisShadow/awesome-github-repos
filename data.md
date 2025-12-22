@@ -932,8 +932,6 @@
 
 *   [orion-lib/OrionTV](https://github.com/orion-lib/OrionTV) - 一个基于 React Native TVOS 和 Expo 构建的播放器，旨在提供流畅的视频观看体验。
 
-*   [KuekHaoYang/KResearch](https://github.com/KuekHaoYang/KResearch) - An advanced AI-powered deep research application that synthesizes information from numerous sources to generate comprehensive, well-documented reports on complex topics.
-
 *   [Lampon/MorphoTV](https://github.com/Lampon/MorphoTV) - 在线免费观影，支持采集站，网盘等多种资源形式
 
 *   [mettamatt/code-reasoning](https://github.com/mettamatt/code-reasoning) - A code reasoning MCP server, a fork of sequential-thinking
@@ -1293,6 +1291,8 @@
 *   [yang478/ai-ui-html](https://github.com/yang478/ai-ui-html) - AI UI 提示词生成器
 
 *   [vancur2021/ProxyFilter](https://github.com/vancur2021/ProxyFilter) - 节点过滤器
+
+*   [KuekHaoYang/KResearch](https://github.com/KuekHaoYang/KResearch) - An advanced AI-powered deep research application that synthesizes information from numerous sources to generate comprehensive, well-documented reports on complex topics.
 
 *   [Yorkian/clasher](https://github.com/Yorkian/clasher) - A tool for managing network routing rules
 
