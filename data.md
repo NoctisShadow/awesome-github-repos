@@ -50,6 +50,8 @@
 
 ## TypeScript
 
+*   [xiaoye6688/nanoBan](https://github.com/xiaoye6688/nanoBan) -
+
 *   [caigq99/bookmark-sync-extension](https://github.com/caigq99/bookmark-sync-extension) - Bookmark syncing tool, cross-browser bookmark syncing, supports WebDAV cloud storage
 
 *   [yeahhe365/LongImg-Splitter](https://github.com/yeahhe365/LongImg-Splitter) - 长图转多页 PDF 文件
@@ -395,8 +397,6 @@
 *   [xiongbao/we.dog](https://github.com/xiongbao/we.dog) - 我们是狗，舔狗。心酸的舔狗日记。
 
 *   [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
-
-*   [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
 
 ## JavaScript
 
