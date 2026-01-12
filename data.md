@@ -514,8 +514,6 @@
 
 *   [yeahhe365/LongImg-Splitter](https://github.com/yeahhe365/LongImg-Splitter) - 长图转多页 PDF 文件
 
-*   [Claudate/project-multilevel-index](https://github.com/Claudate/project-multilevel-index) - 🎼 Fractal self-referential documentation system inspired by GEB. Auto-maintains code indexes, file headers & dependency graphs. Supports Claude Code (full auto) + VSCode/Cursor/Windsurf/Kiro (extension in dev).claude skill
-
 *   [ZToolsCenter/ZTools](https://github.com/ZToolsCenter/ZTools) - 一个高性能、可扩展的应用启动器和插件平台  uTools 的开源实现 | 支持 macOS 和 Windows
 
 *   [ai-tmarks/tmarks](https://github.com/ai-tmarks/tmarks) -
@@ -785,6 +783,8 @@
 ## JavaScript
 
 *   [urzeye/tampermonkey-scripts](https://github.com/urzeye/tampermonkey-scripts) - 效率倍增的油猴脚本
+
+*   [Claudate/project-multilevel-index](https://github.com/Claudate/project-multilevel-index) - 🎼 Fractal self-referential documentation system inspired by GEB. Auto-maintains code indexes, file headers & dependency graphs. Supports Claude Code (full auto) + VSCode/Cursor/Windsurf/Kiro (extension in dev).claude skill
 
 *   [88899/gitmen-obsidian](https://github.com/88899/gitmen-obsidian) -
 
@@ -1116,7 +1116,7 @@
 
 *   [sligter/GoVideo](https://github.com/sligter/GoVideo) - Windows聚合采集站视频播放器
 
-*   [fish2018/YPrompt](https://github.com/fish2018/YPrompt) - 通过对话挖掘用户需求，并自动生成专业的提示词，支持系统/用户提示词优化、效果对比，版本管理和支持即时渲染的操练场，新增通过多轮对话绘图改图，图片逆推提示词、绘图提示词优化，https://yprompt.252035.xyz
+*   [fish2018/YPrompt](https://github.com/fish2018/YPrompt) - 通过对话挖掘用户需求，并自动生成专业的提示词，支持系统/用户提示词优化、效果对比，版本管理和支持即时渲染的操练场，新增通过多轮对话绘图改图，图片逆推提示词、绘图提示词优化，https://yprompt.252035.xyz   公共账号：demo / demo
 
 *   [lza6/CF-work-to-TG](https://github.com/lza6/CF-work-to-TG) - Cloudflare Workers 部署 ✧ Serverless 架构 ✧ Webhook 实时响应 ✧ Telegram Bot API 交互 ✧ Cloudflare KV 持久化存储 ✧ 链式与一对多分发模型 ✧ 自动化订阅/退订流程 ✧ Promise 并行处理 ✧ 错误隔离与自动容错
 
@@ -1126,7 +1126,7 @@
 
 *   [lza6/Prompt-APP-optimization](https://github.com/lza6/Prompt-APP-optimization) - 面向全语言编程零基础大架构等等所有通用项目审查优化的提示词优化（中文友好，随缘更新）
 
-*   [lza6/free-VPN](https://github.com/lza6/free-VPN) - 更新的都是高质量高速度的VPN，通常用IDM等等下载工具下载huggingface的大模型速度都能跑到100MB+，但是可能仅限于下载。对于访问google相关服务不太理想
+*   [lza6/free-VPN](https://github.com/lza6/free-VPN) - 通过AI对话实现的自动抓取代理节点，目前均可用
 
 *   [adminlove520/Source-Collector](https://github.com/adminlove520/Source-Collector) -
 
