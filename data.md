@@ -1212,7 +1212,7 @@
 
 *   [521xueweihan/git-tips](https://github.com/521xueweihan/git-tips) - :trollface:Git的奇技淫巧
 
-*   [mmmlllnnn/ResumeCollection](https://github.com/mmmlllnnn/ResumeCollection) - 求职/升学/找工作简历模板大全，全网最全的简历模板收集 | Free collection of resume templates for job/education |中文简历|英文简历|程序员简历模板|简历大全|简历模板|工作简历|简历封面
+*   [mmmlllnnn/ResumeCollection](https://github.com/mmmlllnnn/ResumeCollection) - 求职/升学/程序员找工作简历模板大全，全网最全的简历模板收集 | Free collection of resume templates for job/education |中文简历|英文简历|程序员简历模板|简历大全|简历模板|工作简历|简历封面
 
 *   [datawhalechina/so-large-lm](https://github.com/datawhalechina/so-large-lm) - 大模型基础: 一文了解大模型基础知识
 
