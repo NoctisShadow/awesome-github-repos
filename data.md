@@ -310,7 +310,7 @@
 
 *   [timerring/BiliSpeedUp](https://github.com/timerring/BiliSpeedUp) - 提供B站倍速播放功能，支持鼠标滚轮调节、触控板调节、自定义记忆播放速度。Provides customize playback speed options for Bilibili.
 
-*   [glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker) - 🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly\[正在开发 Sidebar 高级功能，敬请期待]
+*   [glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker) - 🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly \[拯救你的颈椎 - 数字健康工具：https://forcebreak.zenfeed.xyz]
 
 *   [huppugo1/WindsurfRegistration-Tool](https://github.com/huppugo1/WindsurfRegistration-Tool) - 一个功能强大的 Chrome 浏览器扩展，用于自动注册和管理 Windsurf (Codeium) 账号。
 
@@ -1946,7 +1946,7 @@
 
 *   [stackJx/databaseDoc](https://github.com/stackJx/databaseDoc) -
 
-*   [glidea/zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!!
+*   [glidea/zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!! \[拯救你的颈椎 - 数字健康工具：https://forcebreak.zenfeed.xyz]
 
 *   [lovebai/plist](https://github.com/lovebai/plist) - Http图片列表程序
 
@@ -2032,7 +2032,7 @@
 
 ## Shell
 
-*   [kingkongshot/Pensieve](https://github.com/kingkongshot/Pensieve) - AI 相关的笔记
+*   [kingkongshot/Pensieve](https://github.com/kingkongshot/Pensieve) - tore your decisions and principles. Claude reads them to make better choices.
 
 *   [wisdgod/cursor-rp](https://github.com/wisdgod/cursor-rp) - Feel free.
 
@@ -2044,7 +2044,7 @@
 
 *   [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine.
 
-*   [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - x-cmd: Bootstrap 1000+ command line tools in seconds.
+*   [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Best Buddy for AI Agents like Clawdbot, Claude Code. Bootstrap 1000+ command line tools in seconds.
 
 *   [mjjonone/mjj](https://github.com/mjjonone/mjj) - 该仓库提供了一键部署mjj试用项目的镜像和脚本,支持多种容器平台。包含科学上网功能,可以查看节点信息和订阅链接。同时包含Minecraft服务器搭建方案。
 
