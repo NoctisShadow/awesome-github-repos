@@ -186,7 +186,7 @@
 
 *   [mckaywrigley/ai-code-translator](https://github.com/mckaywrigley/ai-code-translator) - Use AI to translate code from one language to another.
 
-*   [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎉 一个简约的音乐播放器，支持逐字歌词，评论区，音乐云盘及本地音乐管理，流媒体 Jellyfin / Navidrome / Emby 播放，音乐频谱，移动端适配 | A minimalist music player featuring word-by-word lyrics, comments, music cloud storage, and local library management, streaming, audio spectrum visualization, and more
+*   [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎉 一个简约的音乐播放器，支持逐字歌词，音乐云盘及本地音乐管理，流媒体 Jellyfin / Navidrome / Emby 播放，音乐频谱，移动端适配 | A minimalist music player featuring word-by-word lyrics, comments, music cloud storage, and local library management, streaming, audio spectrum visualization, and more
 
 *   [wechat-article/wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter) - 一款在线的 微信公众号文章批量下载 工具，支持导出阅读量与评论数据，无需搭建任何环境，可通过 在线网站 使用，支持 docker 私有化部署和 Cloudflare 部署。  支持下载各种文件格式，其中 HTML 格式可100%还原文章排版与样式。
 
@@ -232,7 +232,7 @@
 
 *   [FreeIess/TOMATOX](https://github.com/FreeIess/TOMATOX) - 基于Electron、React开发的全网在线免费VIP视频解析播放器，美剧、韩剧、日剧全资源，全平台（Windows、Linux、MacOS）可用
 
-*   [Hiram-Wong/ZyPlayer](https://github.com/Hiram-Wong/ZyPlayer) - 跨平台桌面端视频资源播放器,免费高颜值.
+*   [Hiram-Wong/zyfun](https://github.com/Hiram-Wong/zyfun) - 跨平台桌面端视频资源播放器,免费高颜值.
 
 *   [gnehs/subtitle-translator-electron](https://github.com/gnehs/subtitle-translator-electron) - ↔️ Translate subtitle using LLM
 
