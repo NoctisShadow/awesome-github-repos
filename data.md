@@ -454,6 +454,8 @@
 
 *   [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - 一款提示词优化器，助力于编写高质量的提示词
 
+*   [bestruirui/BestSub](https://github.com/bestruirui/BestSub) - Best Sub, Best for Your Net
+
 *   [sunls24/divination](https://github.com/sunls24/divination) - AI 算卦 - 随机六次硬币结果，生成卦象，并使用 AI 解读
 
 *   [Ocyss/boos-helper](https://github.com/Ocyss/boos-helper) - Boss直聘助手-优化UI去除广告,批量投递简历,高级筛选,GPT自动打招呼,多账号管理...
@@ -1210,7 +1212,7 @@
 
 *   [lza6/Prompt-APP-optimization](https://github.com/lza6/Prompt-APP-optimization) - 面向全语言编程零基础大架构等等所有通用项目审查优化的提示词优化（中文友好，随缘更新）
 
-*   [lza6/free-VPN](https://github.com/lza6/free-VPN) - 通过AI对话实现的自动抓取代理节点，目前均可用
+*   [lza6/free-VPN](https://github.com/lza6/free-VPN) - 目前2026年2月4日 23:04:01采集到的互联网上的订阅链接
 
 *   [adminlove520/Source-Collector](https://github.com/adminlove520/Source-Collector) -
 
@@ -1951,8 +1953,6 @@
 *   [lovebai/plist](https://github.com/lovebai/plist) - Http图片列表程序
 
 *   [beck-8/subs-check](https://github.com/beck-8/subs-check) - 订阅转换、测速、测活、流媒体检测、重命名、导出为任意格式的工具
-
-*   [bestruirui/BestSub](https://github.com/bestruirui/BestSub) - Best Sub, Best for Your Net
 
 *   [chengazhen/gitlens-pro](https://github.com/chengazhen/gitlens-pro) - 一个用于激活 GitLens Pro 的工具。
 
