@@ -338,7 +338,7 @@
 
 ## TypeScript
 
-*   [vanloctech/youwee](https://github.com/vanloctech/youwee) - A beautiful YouTube, TikTok, Instagram and 1800+ sites downloader (yt-dlp GUI), AI summary video content, post-processing with AI for cross-platform
+*   [vanloctech/youwee](https://github.com/vanloctech/youwee) - A beautiful, cross-platform downloader for YouTube, TikTok, Instagram, and 1800+ sites (yt-dlp GUI) with AI video summaries and post-processing
 
 *   [Castor6/tactus](https://github.com/Castor6/tactus) - The first browser AI Agent extension to support Agent Skills, enabling AI to perform complex tasks through an expandable skill system. 🌟 Star if you like it! | 首个支持 Agent Skills 的浏览器 AI Agent 扩展，让 AI 通过可扩展技能系统执行复杂任务 🌟 如果喜欢请点个 Star！
 
@@ -1692,7 +1692,7 @@
 
 *   [zhaochengcube/augment-token-mng](https://github.com/zhaochengcube/augment-token-mng) - 一个基于 Tauri 构建的跨平台桌面应用程序，用于生成和管理 Augment Code 访问令牌。
 
-*   [imzyb/MiSub](https://github.com/imzyb/MiSub) - 测试站，密码admin
+*   [imzyb/MiSub](https://github.com/imzyb/MiSub) - 测试站，密码admin123
 
 *   [devSlow/aigc](https://github.com/devSlow/aigc) -
 
