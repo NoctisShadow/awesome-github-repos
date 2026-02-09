@@ -448,7 +448,7 @@
 
 *   [Stardm0/MoonTV](https://github.com/Stardm0/MoonTV) - 🎬 MoonTV 是一个开箱即用的、跨平台的影视聚合播放器。本项目现基于2.0.1开始自行维护更新(提醒： cloudflare部署有封pages的风险)
 
-*   [YoungLee-coder/SubMix](https://github.com/YoungLee-coder/SubMix) - 代理订阅链接转换器，将单独的代理订阅链接转换为 Mihomo 内核 YAML 配置文件
+*   [YoungLee-coder/SubMix](https://github.com/YoungLee-coder/SubMix) - 企业网络协议转换器，将单独的协议订阅链接转换为 Mihomo 内核 YAML 配置文件
 
 *   [nanbingxyz/daily-commit-summarizer](https://github.com/nanbingxyz/daily-commit-summarizer) - A GitHub Action that summarizes daily commits with AI and sends the report to your team via configurable webhooks.
 
@@ -802,7 +802,7 @@
 
 *   [PastKing/tgbot-verify](https://github.com/PastKing/tgbot-verify) - 一个基于 Python Telegram Bot 的自动化认证工具，能够自动完成 SheerID 平台的学生/教师身份验证流程。
 
-*   [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 小红书（XiaoHongShu、RedNote）链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件
+*   [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 小红书（XiaoHongShu、RedNote）链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书作品文件
 
 *   [hanxi/xiaomusic](https://github.com/hanxi/xiaomusic) - 使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。
 
@@ -1738,7 +1738,7 @@
 
 *   [LSTM-Kirigaya/slidev-ai](https://github.com/LSTM-Kirigaya/slidev-ai) - ai app for slidev
 
-*   [zhaochengcube/augment-token-mng](https://github.com/zhaochengcube/augment-token-mng) - 一个基于 Tauri 构建的跨平台桌面应用程序，用于生成和管理 Augment Code 访问令牌。
+*   [cubezhao/augment-token-mng](https://github.com/cubezhao/augment-token-mng) - 一个基于 Tauri 构建的跨平台桌面应用程序，用于生成和管理 Augment Code 访问令牌。
 
 *   [imzyb/MiSub](https://github.com/imzyb/MiSub) - 测试站，密码admin123
 
