@@ -206,8 +206,6 @@
 
 *   [vancur2021/ProxyFilter](https://github.com/vancur2021/ProxyFilter) - 节点过滤器
 
-*   [KuekHaoYang/KResearch](https://github.com/KuekHaoYang/KResearch) - An advanced AI-powered deep research application that synthesizes information from numerous sources to generate comprehensive, well-documented reports on complex topics.
-
 *   [Yorkian/clasher](https://github.com/Yorkian/clasher) - A tool for managing network routing rules
 
 *   [eraycc/M3U8Download](https://github.com/eraycc/M3U8Download) - 基于开源项目修改后的在线m3u8下载网页，主要修改了传参方式以适配SuperTV，新增支持多清晰度、部分加密M3U8下载
@@ -976,6 +974,8 @@
 
 *   [hubumulity/Sijishe](https://github.com/hubumulity/Sijishe) - 司机社签到
 
+*   [KuekHaoYang/KResearch](https://github.com/KuekHaoYang/KResearch) - An advanced AI-powered deep research application that synthesizes information from numerous sources to generate comprehensive, well-documented reports on complex topics.
+
 *   [duolabmeng6/ai\_git\_commit\_gui](https://github.com/duolabmeng6/ai_git_commit_gui) -
 
 *   [WEIFENG2333/VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) - 🎬 卡卡字幕助手 | VideoCaptioner - 基于 LLM 的智能字幕助手 - 视频字幕生成、断句、校正、字幕翻译全流程处理！- A powered tool for easy and efficient video subtitling.
@@ -1230,7 +1230,7 @@
 
 *   [fuergaosi233/gitbook2pdf](https://github.com/fuergaosi233/gitbook2pdf) - Grab the contents of the gitbook document and convert it to pdf
 
-*   [fossasia/visdom](https://github.com/fossasia/visdom) - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy.
+*   [fossasia/visdom](https://github.com/fossasia/visdom) - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy
 
 *   [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2024 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers
 
