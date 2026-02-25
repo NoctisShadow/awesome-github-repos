@@ -338,7 +338,7 @@
 
 *   [Codennnn/prefer-code-style](https://github.com/Codennnn/prefer-code-style) - 💫 🌟 ESLint + Stylelint + Prettier 的代码风格配置集合，为多个项目提供统一的格式化配置，让你远离枯燥的配置步骤，极速完成复杂易错的配置工作。
 
-*   [SimonAKing/scrcpy-gui](https://github.com/SimonAKing/scrcpy-gui) - 👻 A simple & beautiful GUI application for scrcpy. QQ群:734330215
+*   [SimonAKing/scrcpy-gui](https://github.com/SimonAKing/scrcpy-gui) - 👻 A simple & beautiful GUI application for scrcpy.
 
 *   [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 
