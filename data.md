@@ -362,6 +362,8 @@
 
 *   [PhantasmAI/PromptMicroTune-Revolution](https://github.com/PhantasmAI/PromptMicroTune-Revolution) - 把一段提示词变成“软微调”——重塑大模型定制成本与想象力的边界
 
+*   [POf-L/Fanqie-novel-Downloader](https://github.com/POf-L/Fanqie-novel-Downloader) - 番茄小说下载器 - 支持多平台的番茄小说下载工具，提供TXT/EPUB格式转换，GUI界面及GitHub Actions在线下载功能
+
 *   [Leon406/BurpSuiteCN-Release](https://github.com/Leon406/BurpSuiteCN-Release) -  BurpSuite汉化发布
 
 *   [superzhang21/ghostwriter](https://github.com/superzhang21/ghostwriter) - 影子作家（ghostwriter），一些人的写作或语言特征。
@@ -1398,8 +1400,6 @@
 
 *   [DR-lin-eng/download\_speed\_tester](https://github.com/DR-lin-eng/download_speed_tester) - 可以针对任意下载链接通过32线程的下载方式来测试下载链接的下载速度与稳定性。
 
-*   [POf-L/Fanqie-novel-Downloader](https://github.com/POf-L/Fanqie-novel-Downloader) - 番茄小说下载器 - 支持多平台的番茄小说下载工具，提供TXT/EPUB格式转换，GUI界面及GitHub Actions在线下载功能
-
 *   [y9nhjy/Proxifier-Keygen](https://github.com/y9nhjy/Proxifier-Keygen) - Proxifier注册机
 
 *   [JefferyHcool/BiliNote](https://github.com/JefferyHcool/BiliNote) - AI 视频笔记生成工具 让 AI 为你的视频做笔记
@@ -1760,7 +1760,7 @@
 
 *   [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 
-*   [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines) - ⏰ Collaboratively track worldwide conference deadlines (Website, Python Cli, Wechat Applet) / If you find it useful, please star this project, thanks~
+*   [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines) - ⏰ Agenticly track worldwide conference deadlines (Website, Python Cli, Wechat Applet) / If you find it useful, please star this project, thanks~
 
 *   [cangzhang/champ-r](https://github.com/cangzhang/champ-r) - 🐶 Yet another League of Legends helper
 
