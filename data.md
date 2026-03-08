@@ -50,7 +50,7 @@
 
 ## TypeScript
 
-*   [waoowaooAI/waoowaoo](https://github.com/waoowaooAI/waoowaoo) - 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.
+*   [saturndec/waoowaoo](https://github.com/saturndec/waoowaoo) - 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.
 
 *   [Adsryen/JavdBviewed](https://github.com/Adsryen/JavdBviewed) - Jav 助手是一个功能强大的浏览器扩展，专为 JavDB 等Jav视频网站设计。它能够在列表页和详情页标记视频的"已浏览"或"我看过"状态，并提供丰富的数据管理功能，包括 WebDAV 同步、数据导入导出、115网盘推送等高级特性。
 
@@ -362,7 +362,7 @@
 
 *   [PhantasmAI/PromptMicroTune-Revolution](https://github.com/PhantasmAI/PromptMicroTune-Revolution) - 把一段提示词变成“软微调”——重塑大模型定制成本与想象力的边界
 
-*   [POf-L/Fanqie-novel-Downloader](https://github.com/POf-L/Fanqie-novel-Downloader) - 番茄小说下载器 - 支持多平台的番茄小说下载工具，提供TXT/EPUB格式转换，GUI界面及GitHub Actions在线下载功能
+*   [POf-L/Fanqie-novel-Downloader](https://github.com/POf-L/Fanqie-novel-Downloader) - 番茄小说下载器 - 支持多平台的番茄小说下载工具，提供TXT/EPUB格式转换，GUI界面下载功能
 
 *   [Leon406/BurpSuiteCN-Release](https://github.com/Leon406/BurpSuiteCN-Release) -  BurpSuite汉化发布
 
@@ -902,7 +902,7 @@
 
 *   [Angels-Ray/fake-cursor](https://github.com/Angels-Ray/fake-cursor) - 一个用于重新生成 Cursor 设备 ID 和设置 Access Token 的 Cursor 扩展
 
-*   [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Discover best root apps, Magisk & LSPosed(xposed) modules with step-by-step rooting guides
+*   [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Discover best root apps, Magisk/ KernelSu & LSPosed(xposed) modules & rooting guides
 
 *   [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
 
@@ -920,7 +920,7 @@
 
 *   [nekohy/Cursor](https://github.com/nekohy/Cursor) - What can I say
 
-*   [ling-drag0n/CloudPaste-old](https://github.com/ling-drag0n/CloudPaste-old) - 新版已重构！详细查看README。基于 Cloudflare Workers 的在线剪贴板和文件分享服务，支持 Markdown、阅后即焚、文本/文件分享、密码保护等功能
+*   [ling-drag0n/CloudPaste-old](https://github.com/ling-drag0n/CloudPaste-old) - An online clipboard and file sharing service based on Cloudflare Workers, supporting Markdown, burn-after-reading, text/file sharing, password protection, and more.
 
 *   [knowing-top/ChannelsDownloader](https://github.com/knowing-top/ChannelsDownloader) - 微信视频号下载器，能够实时捕获视频号的视频地址，捕获后可进行预览和下载，支持 Win/Mac。Supports real-time video URL capture for WeChat Video Channels, allowing for preview and download after capture. Compatible with Win/Mac.
 
