@@ -1108,6 +1108,8 @@
 
 *   [unbug/codelf](https://github.com/unbug/codelf) - A search tool helps dev to solve the naming things problem.
 
+*   [be5invis/Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) - Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
+
 ## Shell
 
 *   [appsail/Gemini-in-Chrome](https://github.com/appsail/Gemini-in-Chrome) -
@@ -1256,7 +1258,7 @@
 
 *   [YSGStudyHards/DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide) - 🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。
 
-*   [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+*   [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 
 *   [OdysseusYuan/LKY\_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) - 一键自动化 下载、安装、激活 Office 的利器。
 
@@ -1432,7 +1434,7 @@
 
 *   [InputShare/InputShare](https://github.com/InputShare/InputShare) - InputShare enables you to share the keyboard and mouse of your computer with an Android device via ADB in wired / wireless way.
 
-*   [VeejaLiu/ScienceFictionCollection](https://github.com/VeejaLiu/ScienceFictionCollection) - 科幻小说作品集
+*   [VeejaLiu/ScienceFictionCollection](https://github.com/VeejaLiu/ScienceFictionCollection) - 科幻小说作品集，在线地址：https://github-novel-read.vercel.app
 
 *   [DeppWang/youdaonote-pull](https://github.com/DeppWang/youdaonote-pull) - 📝 一个一键导出 / 备份「有道云笔记」所有笔记的 Python 脚本。 A Python script to export/backup all the notes of the "Youdao Note".
 
@@ -1575,8 +1577,6 @@
 *   [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
 
 *   [imvanda/Tree\_This\_Folder](https://github.com/imvanda/Tree_This_Folder) - 为你的右键添加tree命令功能，快速生成文件夹结构，使用windows批处理脚本实现。"Add the 'tree' command functionality to your right-click menu for quick generation of folder structures, implemented using a Windows batch script."
-
-*   [shidahuilang/shuyuan](https://github.com/shidahuilang/shuyuan) - 阅读书源-香色闺阁+用心读书+源阅+阅读3.0书源+源阅读+爱阅书香+千阅+花火阅读+读不舍手+番茄+喜马拉雅+漫画+听书+书源+IPTV源+IPA巨魔应用=自动更新
 
 *   [VikParuchuri/texify](https://github.com/VikParuchuri/texify) - Math OCR model that outputs LaTeX and markdown
 
