@@ -277,7 +277,7 @@
 
 *   [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 
-*   [liyupi/codefather](https://github.com/liyupi/codefather) - 程序员鱼皮的编程宝典 ⭐️ 2026年最全编程学习路线图！包含Java学习路线、前端学习路线、Python学习路线、C++学习路线、算法学习路线、计算机基础学习路线等。提供编程入门教程、技术知识分享、学习资源推荐、项目实战教程、热门面试题、求职经验、简历优化、编程自学指南等内容，适用于所有零基础学编程、转行程序员、计算机专业学生、求职找工作的同学 💎 编程学习，就来编程导航！
+*   [liyupi/codefather](https://github.com/liyupi/codefather) - 程序员鱼皮的编程宝典 ⭐️ 2026年最全编程学习路线图！包含Java学习路线、前端学习路线、Python学习路线、C++学习路线、算法学习路线、计算机基础学习路线、AI应用开发学习路线、AI Agent开发学习路线等。提供编程入门教程、AI大模型应用开发教程、RAG开发实战、MCP开发教程、Prompt工程指南、LLM应用开发、技术知识分享、学习资源推荐、项目实战教程、热门面试题、求职经验、简历优化、编程自学指南等内容，适用于所有零基础学编程、学习AI开发、转行程序员、计算机专业学生、求职找工作的同学 💎 编程学习，就来编程导航！
 
 *   [CJex/regulex](https://github.com/CJex/regulex) - :construction: Regular Expression Excited!
 
@@ -696,8 +696,6 @@
 *   [AobingJava/JavaFamily](https://github.com/AobingJava/JavaFamily) - 【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
 
 *   [iamshuaidi/CS-Book](https://github.com/iamshuaidi/CS-Book) - 计算机类常用电子书整理，并且附带下载链接，包括Java，Python，Linux，Go，C，C++，数据结构与算法，人工智能，计算机基础，面试，设计模式，数据库，前端等书籍
-
-*   [awesome-vpn/awesome-vpn](https://github.com/awesome-vpn/awesome-vpn) - Free proxy,VPN,免费代理,网络加速,科学上网,机场订阅,翻墙,梯子 無料プロキシ 무료 프록시 Gratis gratuit Бесплатный прокси gratuito Gratis  Darmowe  Ücretsiz  بروكسي مجاني मुफ्त प्रॉक्सी พร็อกซีฟรี miễn phí
 
 *   [midou-tech/articles](https://github.com/midou-tech/articles) - 我是龙叔，一个分享互联网技术和成长历程的大叔。希望在授人以鱼的同时也能授人以渔，欢迎大家踊跃star 和 issues 。
 
@@ -1175,8 +1173,6 @@
 
 *   [MindMobius/WallpaperEngineMediaLibrary](https://github.com/MindMobius/WallpaperEngineMediaLibrary) - 一键将你本地的 Wallpaper Engine 仓库变成一个可通过浏览器访问的个人媒体库，支持多端访问和数据同步
 
-*   [JefferyHcool/BiliNote](https://github.com/JefferyHcool/BiliNote) - AI 视频笔记生成工具 让 AI 为你的视频做笔记
-
 *   [lfglfg11/openaimodels](https://github.com/lfglfg11/openaimodels) - openai API模型及余额查询、硅基流动模型及余额查询
 
 *   [fff122/PicSpider](https://github.com/fff122/PicSpider) - 批量爬取写真站,并展示
@@ -1404,6 +1400,8 @@
 *   [DR-lin-eng/download\_speed\_tester](https://github.com/DR-lin-eng/download_speed_tester) - 可以针对任意下载链接通过32线程的下载方式来测试下载链接的下载速度与稳定性。
 
 *   [y9nhjy/Proxifier-Keygen](https://github.com/y9nhjy/Proxifier-Keygen) - Proxifier注册机
+
+*   [JefferyHcool/BiliNote](https://github.com/JefferyHcool/BiliNote) - AI 视频笔记生成工具 让 AI 为你的视频做笔记
 
 *   [aipotheosis-labs/aci](https://github.com/aipotheosis-labs/aci) - ACI.dev is the open source tool-calling platform that hooks up 600+ tools into any agentic IDE or custom AI agent through direct function calling or a unified MCP server. The birthplace of VibeOps.
 
@@ -1684,6 +1682,8 @@
 *   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
 *   [wangzheng0822/algo](https://github.com/wangzheng0822/algo) - 数据结构和算法必知必会的50个代码实现
+
+*   [awesome-vpn/awesome-vpn](https://github.com/awesome-vpn/awesome-vpn) - Free proxy node aggregator. Daily updated vmess/vless/trojan/ss. 免费 代理节点 翻墙 梯子 科学上网 机场订阅 网络加速 VPN 免翻墙每日更新 一键导入
 
 *   [soimort/you-get](https://github.com/soimort/you-get) - :arrow\_double\_down: Dumb downloader that scrapes the web
 
