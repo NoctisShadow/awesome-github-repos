@@ -341,7 +341,7 @@
 
 ## TypeScript
 
-*   [Lianues/Iris](https://github.com/Lianues/Iris) -
+*   [Lianues/Iris](https://github.com/Lianues/Iris) - 一个面向多平台的智能代理程序。支持 Console、Web、Discord、Telegram、微信、企业微信、飞书、QQ 等平台，支持工具调用、会话存储、图片输入、OCR 回退、Computer Use、MCP 和记忆能力。
 
 *   [saturndec/waoowaoo](https://github.com/saturndec/waoowaoo) - 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.
 
@@ -689,7 +689,7 @@
 
 *   [clb-DouSir/jcb](https://github.com/clb-DouSir/jcb) -
 
-*   [XIU2/Yuedu](https://github.com/XIU2/Yuedu) - 📚「阅读」APP 自用书源（网络小说）
+*   [XIU2/Yuedu](https://github.com/XIU2/Yuedu) - 📚「阅读」自用书源分享
 
 *   [Ruk1ng001/freeSub](https://github.com/Ruk1ng001/freeSub) - free clash sub. Update at anytime. 不要fork !!! 不要fork !!! 不要fork !!!
 
@@ -2029,7 +2029,7 @@
 
 *   [PastKing/MarkMap-OpenAi-ChatGpt](https://github.com/PastKing/MarkMap-OpenAi-ChatGpt) - 本项目是一个结合了Vue、Markmap和OpenAI ChatGPT的思维导图生成工具。用户可以输入标题和内容，通过调用ChatGPT生成思维导图，并支持放大、缩小、适应屏幕和下载功能。
 
-*   [Edge-coordinates/WViewer](https://github.com/Edge-coordinates/WViewer) - 瀑布流图片查看器
+*   [Edge-coordinates/wviewer](https://github.com/Edge-coordinates/wviewer) - 瀑布流图片查看器
 
 *   [zhiyiYo/KilaKila-Blog](https://github.com/zhiyiYo/KilaKila-Blog) - 一个基于 SpringBoot 和 Vue3 的博客系统
 
