@@ -1465,7 +1465,7 @@
 
 *   [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
 
-*   [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发与系统设计。准备后端技术面试，首选 JavaGuide！
+*   [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发
 
 ## Python
 
@@ -1887,7 +1887,7 @@
 
 *   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
 
-*   [lixiaojie001/byetype](https://github.com/lixiaojie001/byetype) - ByeType 是一个轻量级桌面应用，通过全局快捷键触发录音，利用 AI 将语音实时转录为文本，并支持 Markdown 格式优化。适合需要大量文字输入的写作、笔记、编程等场景。
+*   [lixiaojie001/byetype](https://github.com/lixiaojie001/byetype) - ByeType 是一个 Markdown 驱动的 AI 语音输入工具，用多模态大模型直接处理原始音频。编辑 Markdown 文件即可自定义专有词汇、转录规则和格式化策略，人名、术语、口水词、数字格式一次转录到位，减少二次修改。支持 macOS、Windows 和 iOS。
 
 *   [lanyeeee/bilibili-video-downloader](https://github.com/lanyeeee/bilibili-video-downloader) - 哔哩哔哩 bilibili B站 视频 下载器，图形界面 + nfo刮削 + 广告标记 + 字幕下载 + 弹幕下载，轻松将视频加入emby等媒体库
 
@@ -2029,7 +2029,7 @@
 
 *   [PastKing/MarkMap-OpenAi-ChatGpt](https://github.com/PastKing/MarkMap-OpenAi-ChatGpt) - 本项目是一个结合了Vue、Markmap和OpenAI ChatGPT的思维导图生成工具。用户可以输入标题和内容，通过调用ChatGPT生成思维导图，并支持放大、缩小、适应屏幕和下载功能。
 
-*   [Edge-coordinates/wviewer](https://github.com/Edge-coordinates/wviewer) - 瀑布流图片查看器
+*   [Edge-coordinates/mason-gallery](https://github.com/Edge-coordinates/mason-gallery) - Masonry layouts Picture Viewer
 
 *   [zhiyiYo/KilaKila-Blog](https://github.com/zhiyiYo/KilaKila-Blog) - 一个基于 SpringBoot 和 Vue3 的博客系统
 
