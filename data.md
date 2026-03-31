@@ -67,7 +67,7 @@
 
 *   [timerring/BiliSpeedUp](https://github.com/timerring/BiliSpeedUp) - 提供B站倍速播放功能，支持鼠标滚轮调节、触控板调节、自定义记忆播放速度。Provides customize playback speed options for Bilibili.
 
-*   [glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker) - 🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly  \[网页监控工具-预定送会员：https://waitlist.dingding.glidea.app]
+*   [glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker) - 🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly  【29元500次sonnet，下方wx扫码联系】
 
 *   [huppugo1/WindsurfRegistration-Tool](https://github.com/huppugo1/WindsurfRegistration-Tool) - 一个功能强大的 Chrome 浏览器扩展，用于自动注册和管理 Windsurf (Codeium) 账号。
 
@@ -339,6 +339,8 @@
 
 *   [unbug/codelf](https://github.com/unbug/codelf) - A search tool helps dev to solve the naming things problem.
 
+*   [be5invis/Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) - Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
+
 ## TypeScript
 
 *   [Lianues/Iris](https://github.com/Lianues/Iris) - 一个面向多平台的智能代理程序。支持 Console、Web、Discord、Telegram、微信、企业微信、飞书、QQ 等平台，支持工具调用、会话存储、图片输入、OCR 回退、Computer Use、MCP 和记忆能力。
@@ -379,7 +381,7 @@
 
 *   [ChinaSiro/open-prompt-manager-for-prompub](https://github.com/ChinaSiro/open-prompt-manager-for-prompub) -
 
-*   [ahpxex/Aictionary](https://github.com/ahpxex/Aictionary) - 一个桌面词典：快速、简洁，并且真的让你学会英语
+*   [ahpxex/Aictionary](https://github.com/ahpxex/Aictionary) - Another desktop dictionary, but way more faster and definition-rich, which makes you truly understand language.
 
 *   [jeffernn/joyflix](https://github.com/jeffernn/joyflix) - 基于MoonTV(LunaTV)二次开发开箱即用的、跨平台的影视站（内置食用教程）
 
@@ -1011,6 +1013,8 @@
 
 *   [wuxingsanren/wildcat-vip-account](https://github.com/wuxingsanren/wildcat-vip-account) - 野猫 - 每天分享最新的百度网盘SVIP、迅雷超级会员、手机话费折扣充值、霸王餐免费吃VIP（美团、饿了么、大众点评、肯德基、麦当劳、星巴克）、饿了么超级会员、美团外卖会员&红包券、爱奇艺VIP会员、腾讯视频VIP、优酷VIP会员、哔哩哔哩大会员、百度文库VIP、QQ音乐VIP、网易云黑胶VIP、喜马拉雅VIP、樊登读书会VIP、千图网VIP、包图网VIP、摄图网VIP、CSDN下载VIP、天眼查VIP、苹果ID等等各类VIP帐号，随取随用，完全免费，绝无套路，同时提供：百度文库VIP下载、图库素材VIP下载、学术文献VIP下载（知网维普万方读秀龙源超星、英文数据库、法律数据库、医学数据库、金融数据库）、全网视频VIP解析、全网音乐MP3免费听及下载、微信域名拦截检测API ，欢迎推荐分享给
 
+*   [googlehosts/hosts](https://github.com/googlehosts/hosts) - 镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts
+
 ## Go
 
 *   [nobiyou/wx\_channel](https://github.com/nobiyou/wx_channel) - 微信视频号下载工具
@@ -1027,7 +1031,7 @@
 
 *   [stackJx/databaseDoc](https://github.com/stackJx/databaseDoc) -
 
-*   [glidea/zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!! \[网页监控工具-预定送会员：https://waitlist.dingding.glidea.app]
+*   [glidea/zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!! 【29元500次sonnet，下方wx扫码联系】
 
 *   [lovebai/plist](https://github.com/lovebai/plist) - Http图片列表程序
 
@@ -2019,8 +2023,6 @@
 
 *   [star5o/reverse-check](https://github.com/star5o/reverse-check) - Pure Front-End LLM API Testing Tool
 
-*   [lanxiuyun/lazyeat](https://github.com/lanxiuyun/lazyeat) - Lazyeat（懒人手势）｜手势隔空控制，比划就行！Lazyeat is a touch-free controller for use while eating! Don't want greasy hands while watching shows or browsing the web during meals? You can pause videos/full screen/switch videos just by gesturing to the camera!
-
 *   [anghunk/linuxdo-scripts](https://github.com/anghunk/linuxdo-scripts) - LinuxDo Scripts 扩展，功能持续更新，欢迎提出新想法！已上架 Chrome Web Store 和 Firefox 商店！文档地址：https://linuxdo-scripts.zishu.me
 
 *   [aehyok/video2blog](https://github.com/aehyok/video2blog) - 视频转图文 AI跨平台客户端（win mac linux）
@@ -2123,8 +2125,6 @@
 
 *   [kangpeiqin/bilivideo\_down](https://github.com/kangpeiqin/bilivideo_down) - A cross-platform（Win / MacOS） BiliBili Video downloader | 一款基于 Flutter 开发的桌面端 B 站视频下载器
 
-*   [3003h/Eros-FE](https://github.com/3003h/Eros-FE) - An e-hentai/exhentai app make on flutter
-
 *   [xiaoyaocz/dart\_simple\_live](https://github.com/xiaoyaocz/dart_simple_live) - 简简单单的看直播
 
 *   [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
@@ -2185,7 +2185,7 @@
 
 *   [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
 
-*   [destan19/OpenAppFilter](https://github.com/destan19/OpenAppFilter) - OAF is a parental control plug-in based on OpenWrt, which supports app filtering for games, videos, chats, downloads, such as Tiktok, Youtube, Telegram,etc.
+*   [destan19/OpenAppFilter](https://github.com/destan19/OpenAppFilter) - OAF(OpenAppFilter) is a parental control software based on OpenWrt. It supports popular applications across gaming, video streaming, instant messaging, such as TikTok, YouTube, Facebook. Currently, it supports hundreds of different applications.
 
 *   [EZLippi/Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) - Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。官网:http://tinyhttpd.sourceforge.net
 
