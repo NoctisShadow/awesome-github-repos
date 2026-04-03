@@ -165,8 +165,6 @@
 
 *   [aigem/bolt.diy](https://github.com/aigem/bolt.diy) - bolt.xxx
 
-*   [zqq-nuli/supabase-react-template](https://github.com/zqq-nuli/supabase-react-template) -
-
 *   [YuChenSSR/multi-ai-advisor-mcp](https://github.com/YuChenSSR/multi-ai-advisor-mcp) - council of models for decision
 
 *   [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
@@ -1207,6 +1205,8 @@
 
 *   [Momo707577045/media-source-extract](https://github.com/Momo707577045/media-source-extract) - MediaSource 视频提取教程
 
+*   [itwanger/toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) - 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄
+
 *   [eveningwater/code-segment](https://github.com/eveningwater/code-segment) - 一个代码片段的集合
 
 *   [remram44/regex-cheatsheet](https://github.com/remram44/regex-cheatsheet) - Cheatsheet for different regex syntaxes
@@ -1232,6 +1232,8 @@
 *   [bajins/notes-docsify](https://github.com/bajins/notes-docsify) - 这是一个用docsify构建的文档
 
 *   [bajins/notes-vuepress](https://github.com/bajins/notes-vuepress) - 使用VuePress构建静态网站 https://github.com/bajins/bajins.github.io ，动态构建 https://github.com/bajins/notes-docsify
+
+*   [xiongbao/we.dog](https://github.com/xiongbao/we.dog) - 我们是狗，舔狗。心酸的舔狗日记。
 
 ## C\#
 
@@ -1382,8 +1384,6 @@
 *   [hollischuang/toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) - To Be Top Javaer - Java工程师成神之路
 
 *   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
-
-*   [itwanger/toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) - 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄
 
 *   [langhsu/mblog](https://github.com/langhsu/mblog) - 开源免费的Java博客系统, 采用spring-boot、spring-data-jpa、shiro、freemarker、bootstrap等框架, 支持Docker
 
@@ -1923,7 +1923,7 @@
 
 *   [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 
-*   [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines) - ⏰ Agenticly track worldwide conference deadlines (Website, Python Cli, Wechat Applet) / If you find it useful, please star this project, thanks~
+*   [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines) - ⏰ Agenticly track worldwide conference deadlines (Website, Python Cli, Wechat Applet)
 
 *   [cangzhang/champr](https://github.com/cangzhang/champr) - 🐶 Yet another League of Legends helper
 
