@@ -22,6 +22,7 @@
 *   [PowerShell](#powershell)
 *   [TeX](#tex)
 *   [Typst](#typst)
+*   [Fluent](#fluent)
 *   [Markdown](#markdown)
 *   [C](#c-2)
 *   [Less](#less)
@@ -361,7 +362,7 @@
 
 ## JavaScript
 
-*   [libaxuan/cursor2api-go](https://github.com/libaxuan/cursor2api-go) - Free claude-sonnet-4.6  | cursor不倒我不倒🙏 ❌
+*   [libaxuan/cursor2api-go](https://github.com/libaxuan/cursor2api-go) - Free gemini-3-flash  | cursor不倒我不倒🙏 ❌
 
 *   [ZhangShengFan/GetWeb](https://github.com/ZhangShengFan/GetWeb) - 网页打包EXE工具，基于 Cloudflare Workers + GitHub Actions + Electron，无需本地环境，填写网址即可打包桌面应用。
 
@@ -425,7 +426,7 @@
 
 *   [eraycc/M3U8Download](https://github.com/eraycc/M3U8Download) - 基于开源项目修改后的在线m3u8下载网页，主要修改了传参方式以适配SuperTV，新增支持多清晰度、部分加密M3U8下载
 
-*   [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - edgetunnel 2.0 VLESS/Trojan 多功能面板
+*   [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - edgetunnel2 VLESS/Trojan 多功能面板
 
 *   [cattail-mutt/Illusion](https://github.com/cattail-mutt/Illusion) - 油猴脚本：帮助你管理和快速输入常用的提示词。
 
@@ -1901,8 +1902,6 @@
 
 *   [afaa1991/BetterWX-UI](https://github.com/afaa1991/BetterWX-UI) - 微信|企业微信|抖Y多聊|钉钉 多开、防撤回提示、多账号免扫码登录的终极解决方案
 
-*   [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
-
 *   [djkato/m0nkrus-adobe-tracker](https://github.com/djkato/m0nkrus-adobe-tracker) - Track m0nkrus torrents for Adobe, update your local versions or get new apps
 
 *   [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
@@ -2164,6 +2163,10 @@
 ## Typst
 
 *   [OrangeX4/Chinese-Resume-in-Typst](https://github.com/OrangeX4/Chinese-Resume-in-Typst) - 使用 Typst 编写的中文简历, 语法简洁, 样式美观, 开箱即用, 可选是否显示照片
+
+## Fluent
+
+*   [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 
 ## Markdown
 
