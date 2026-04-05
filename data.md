@@ -650,6 +650,8 @@
 
 *   [unbug/codelf](https://github.com/unbug/codelf) - A search tool helps dev to solve the naming things problem.
 
+*   [be5invis/Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) - Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
+
 ## miscellaneous
 
 *   [Accademia/Clash\_Configuration\_Template](https://github.com/Accademia/Clash_Configuration_Template) - 🔥🔥🔥 超级省电 Clash 配置模板 🔥🔥🔥 （The ultimate Clash configuration template, combining high-precision matching and multi-layered logic for comprehensive network proxy scenarios.）
@@ -1063,6 +1065,8 @@
 *   [SunRelease/BaiduSVIP](https://github.com/SunRelease/BaiduSVIP) - 每日分享百度网盘SVIP会员账号|百度云会员|百度网盘云账号,不定期更新,欢迎使用
 
 *   [wuxingsanren/wildcat-vip-account](https://github.com/wuxingsanren/wildcat-vip-account) - 野猫 - 每天分享最新的百度网盘SVIP、迅雷超级会员、手机话费折扣充值、霸王餐免费吃VIP（美团、饿了么、大众点评、肯德基、麦当劳、星巴克）、饿了么超级会员、美团外卖会员&红包券、爱奇艺VIP会员、腾讯视频VIP、优酷VIP会员、哔哩哔哩大会员、百度文库VIP、QQ音乐VIP、网易云黑胶VIP、喜马拉雅VIP、樊登读书会VIP、千图网VIP、包图网VIP、摄图网VIP、CSDN下载VIP、天眼查VIP、苹果ID等等各类VIP帐号，随取随用，完全免费，绝无套路，同时提供：百度文库VIP下载、图库素材VIP下载、学术文献VIP下载（知网维普万方读秀龙源超星、英文数据库、法律数据库、医学数据库、金融数据库）、全网视频VIP解析、全网音乐MP3免费听及下载、微信域名拦截检测API ，欢迎推荐分享给
+
+*   [googlehosts/hosts](https://github.com/googlehosts/hosts) - 镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts
 
 ## Go
 
@@ -1576,8 +1580,6 @@
 
 *   [dbccccccc/ttsfm](https://github.com/dbccccccc/ttsfm) - TTSFM mirrors OpenAI's TTS service, providing a compatible interface for text-to-speech conversion with multiple voice options for free.
 
-*   [gua12345/grok2api\_python](https://github.com/gua12345/grok2api_python) -
-
 *   [zetaloop/cursor-shadow-patch](https://github.com/zetaloop/cursor-shadow-patch) - An experimental patch for Cursor to force different machine ids.
 
 *   [andrewyng/translation-agent](https://github.com/andrewyng/translation-agent) -
@@ -1653,8 +1655,6 @@
 *   [pelme/htpy](https://github.com/pelme/htpy) - Generate HTML in Python
 
 *   [AowerDmax/Simple-Interview-Audio-Processing](https://github.com/AowerDmax/Simple-Interview-Audio-Processing) -
-
-*   [jonssonyan/3.jetbra.in](https://github.com/jonssonyan/3.jetbra.in) - 3.jetbra.in 存档
 
 *   [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr) - 带带弟弟 通用验证码识别OCR pypi版
 
