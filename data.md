@@ -650,8 +650,6 @@
 
 *   [unbug/codelf](https://github.com/unbug/codelf) - A search tool helps dev to solve the naming things problem.
 
-*   [be5invis/Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) - Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
-
 ## miscellaneous
 
 *   [Accademia/Clash\_Configuration\_Template](https://github.com/Accademia/Clash_Configuration_Template) - 🔥🔥🔥 超级省电 Clash 配置模板 🔥🔥🔥 （The ultimate Clash configuration template, combining high-precision matching and multi-layered logic for comprehensive network proxy scenarios.）
@@ -1575,6 +1573,8 @@
 *   [tibbar213/Manifest2Lua](https://github.com/tibbar213/Manifest2Lua) - 爬取清单生成steamtools解锁文件
 
 *   [dbccccccc/ttsfm](https://github.com/dbccccccc/ttsfm) - TTSFM mirrors OpenAI's TTS service, providing a compatible interface for text-to-speech conversion with multiple voice options for free.
+
+*   [gua12345/grok2api\_python](https://github.com/gua12345/grok2api_python) -
 
 *   [zetaloop/cursor-shadow-patch](https://github.com/zetaloop/cursor-shadow-patch) - An experimental patch for Cursor to force different machine ids.
 
