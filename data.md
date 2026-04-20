@@ -1330,7 +1330,7 @@
 
 *   [hzhilong/bilibili-backup](https://github.com/hzhilong/bilibili-backup) - 一键对B站账号进行数据备份和还原，方便账号数据迁移/快速转生(哔哩哔哩 bilibili)。One-click backup and restore of B station account data, convenient account data migration/quick reincarnation.
 
-*   [qaiu/netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download) - 聚合多种主流网盘的直链解析下载服务, 一键解析下载，已支持夸克网盘/uc网盘/蓝奏云/蓝奏优享/小飞机盘/123云盘/移动/联通/天翼云/wps等. 支持文件夹分享解析. 体验地址: https://189.qaiu.top
+*   [qaiu/netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download) - 聚合多种主流网盘的直链解析下载服务, 一键解析下载，已支持夸克网盘/uc网盘/蓝奏云/蓝奏优享/小飞机盘/123云盘等. 支持文件夹分享解析. 体验地址: https://lz.qaiu.top https://189.qaiu.top
 
 *   [freeok/so-novel](https://github.com/freeok/so-novel) - 小说下载｜网文下载 | 网络小说
 
