@@ -238,6 +238,8 @@
 
 *   [Edge-coordinates/mason-gallery](https://github.com/Edge-coordinates/mason-gallery) - Masonry layouts Picture Viewer
 
+*   [SylarLong/iztro](https://github.com/SylarLong/iztro) - ⭐This is a lightweight kit for generating astrolabes for Zi Wei Dou Shu (The Purple Star Astrology), an ancient Chinese astrology. It allows you to obtain your horoscope and personality analysis. 支持多语言轻量级获取紫微斗数排盘信息的javascript开源库。
+
 *   [ifyour/deeplx](https://github.com/ifyour/deeplx) - ⚡️ DeepLX API npm package
 
 *   [varHarrie/varharrie.github.io](https://github.com/varHarrie/varharrie.github.io) - :blue\_book: Personal blog site based on github issues.
@@ -649,8 +651,6 @@
 *   [Lakr233/GetThemAll](https://github.com/Lakr233/GetThemAll) - A copy of GetThemAll of *Chrome Extesnion* that seems got banned from Google.
 
 *   [jadezi/github-accelerator](https://github.com/jadezi/github-accelerator) - 油猴插件---github访问加速
-
-*   [unbug/codelf](https://github.com/unbug/codelf) - A search tool helps dev to solve the naming things problem.
 
 ## miscellaneous
 
