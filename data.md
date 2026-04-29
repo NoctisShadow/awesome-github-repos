@@ -422,6 +422,8 @@
 
 *   [ling-drag0n/CloudPaste-old](https://github.com/ling-drag0n/CloudPaste-old) - An online clipboard and file sharing service based on Cloudflare Workers, supporting Markdown, burn-after-reading, text/file sharing, password protection, and more.
 
+*   [ltaoo/wx\_channels\_download](https://github.com/ltaoo/wx_channels_download) - 微信视频号下载器
+
 *   [knowing-top/ChannelsDownloader](https://github.com/knowing-top/ChannelsDownloader) - 微信视频号下载器，能够实时捕获视频号的视频地址，捕获后可进行预览和下载，支持 Win/Mac。Supports real-time video URL capture for WeChat Video Channels, allowing for preview and download after capture. Compatible with Win/Mac.
 
 *   [swhoro/myJset](https://github.com/swhoro/myJset) - 垃圾脚本合集
@@ -1501,8 +1503,6 @@
 *   [chengazhen/gitlens-pro](https://github.com/chengazhen/gitlens-pro) - 一个用于激活 GitLens Pro 的工具。
 
 *   [EutropicAI/FinalRip](https://github.com/EutropicAI/FinalRip) - a distributed AI video processing tool
-
-*   [ltaoo/wx\_channels\_download](https://github.com/ltaoo/wx_channels_download) - 微信视频号下载器
 
 *   [kingparks/cursor-vip](https://github.com/kingparks/cursor-vip) - cursor IDE enjoy VIP
 
