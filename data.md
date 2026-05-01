@@ -54,9 +54,9 @@
 
 *   [shawnxie94/infinitum](https://github.com/shawnxie94/infinitum) - 基于RSS的资讯聚合工作台
 
-*   [ConardLi/easy-agent](https://github.com/ConardLi/easy-agent) - Fully recreating Claude Code from scratch, so anyone can learn how it works.
+*   [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) - ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.
 
-*   [WJZ-P/sona](https://github.com/WJZ-P/sona) - 基于Pengu loader的英雄联盟客户端增强插件.
+*   [ConardLi/easy-agent](https://github.com/ConardLi/easy-agent) - Fully recreating Claude Code from scratch, so anyone can learn how it works.
 
 *   [zhukunpenglinyutong/desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui) - CC GUI 客户端（专为开发者打造的VibeCoding平台）
 
@@ -320,7 +320,7 @@
 
 *   [xixu-me/xget](https://github.com/xixu-me/xget) - Ultra-high-performance, secure, all-in-one acceleration engine for developer resources
 
-*   [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) - ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.
+*   [WJZ-P/sona](https://github.com/WJZ-P/sona) - 基于Pengu loader的英雄联盟客户端增强插件.
 
 *   [Xchat1/cursor2api-go](https://github.com/Xchat1/cursor2api-go) - Free gemini-3-flash  | cursor不倒我不倒🙏 ❌ 这次倒下啦
 
@@ -432,7 +432,7 @@
 
 *   [shengplus-2024/wechat-video-collect](https://github.com/shengplus-2024/wechat-video-collect) - 微信视频号采集
 
-*   [DowneyRem/PixivSource](https://github.com/DowneyRem/PixivSource) - 最好的 Pixiv 小说阅读器——开源阅读 + Pixiv 书源 / Legado with Pixiv BookSource, The Best Novel Reader for Pixiv
+*   [DowneyRem/PixivSource](https://github.com/DowneyRem/PixivSource) - 最好的 Pixiv 第三方小说阅读器——开源阅读 + Pixiv 书源 / Legado with Pixiv BookSource, the Best Third-Party Novel Reader for Pixiv
 
 *   [guobao2333/DeepLX-Serverless](https://github.com/guobao2333/DeepLX-Serverless) - Free DeepL API for Serverless
 
