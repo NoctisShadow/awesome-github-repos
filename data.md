@@ -336,7 +336,7 @@
 
 *   [timerring/BiliSpeedUp](https://github.com/timerring/BiliSpeedUp) - 提供B站倍速播放功能，支持鼠标滚轮调节、触控板调节、自定义记忆播放速度。Provides customize playback speed options for Bilibili.
 
-*   [glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker) - 🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly   \[gpt-5.5 -> https://token.glidea.app 0.2 倍率, 0.2元当1刀花，比官方便宜35倍]
+*   [glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker) - 🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly   \[gpt-5.5 -> https://pay.ldxp.cn/shop/8465P8HU 0.2 倍率, 0.2元当1刀花，比官方便宜35倍]
 
 *   [huppugo1/WindsurfRegistration-Tool](https://github.com/huppugo1/WindsurfRegistration-Tool) - 一个功能强大的 Chrome 浏览器扩展，用于自动注册和管理 Windsurf (Codeium) 账号。
 
@@ -1514,7 +1514,7 @@
 
 *   [stackJx/databaseDoc](https://github.com/stackJx/databaseDoc) -
 
-*   [glidea/zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!! \[gpt-5.5 -> https://token.glidea.app 0.2 倍率, 0.2元当1刀花，比官方便宜35倍]
+*   [glidea/zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!! \[gpt-5.5 -> https://pay.ldxp.cn/shop/8465P8HU 0.2 倍率, 0.2元当1刀花，比官方便宜35倍]
 
 *   [lovebai/plist](https://github.com/lovebai/plist) - Http图片列表程序
 
@@ -2200,7 +2200,7 @@
 
 ## Less
 
-*   [MadMaxChow/VLOOK](https://github.com/MadMaxChow/VLOOK) - VLOOK™ 是优雅好用的 Typora/Markdown 主题包和增强插件。  VLOOK™ is an elegant and practical THEME PACKAGE × ENHANCEMENT PLUGIN for Typora/Markdown.
+*   [MadMaxChow/VLOOK](https://github.com/MadMaxChow/VLOOK) - VLOOK™ 是优雅好用的 Typora/Markdown 主题包和排版增强插件。  VLOOK™ is an elegant and practical THEME PACKAGE × TYPESETTING PLUS for Typora/Markdown
 
 ## Awk
 
