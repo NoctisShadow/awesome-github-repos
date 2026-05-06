@@ -25,7 +25,6 @@
 *   [Fluent](#fluent)
 *   [Markdown](#markdown)
 *   [C](#c-2)
-*   [Less](#less)
 *   [Awk](#awk)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [AutoHotkey](#autohotkey)
@@ -41,7 +40,6 @@
 *   [Clojure](#clojure)
 *   [Rich Text Format](#rich-text-format)
 *   [HLSL](#hlsl)
-*   [Dockerfile](#dockerfile)
 *   [Vim Script](#vim-script)
 *   [Groovy](#groovy)
 *   [Handlebars](#handlebars)
@@ -49,6 +47,7 @@
 *   [Perl](#perl)
 *   [Haskell](#haskell)
 *   [Swift](#swift)
+*   [Dockerfile](#dockerfile)
 
 ## TypeScript
 
@@ -536,6 +535,8 @@
 
 *   [zkqiang/hangzhou-house-guide](https://github.com/zkqiang/hangzhou-house-guide) - 杭州购房指南，根据个人购房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料。
 
+*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
+
 *   [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
 
 *   [ldqk/Masuit.MyBlogs](https://github.com/ldqk/Masuit.MyBlogs) - 基于C#/.NET9+vue3的 masuit.org个人博客站项目源码，https://masuit.org ，供参考、学习、引用、非商业性质的部署。
@@ -747,6 +748,8 @@
 *   [hmhm2022/ChatFree](https://github.com/hmhm2022/ChatFree) - 让你的AI摆脱浏览器的束缚
 
 *   [kfcx/biaomiao](https://github.com/kfcx/biaomiao) - 白描2API
+
+*   [MadMaxChow/VLOOK](https://github.com/MadMaxChow/VLOOK) - VLOOK™ 是优雅好用的 Typora/Markdown 主题包和排版增强插件。  VLOOK™ is an elegant and practical THEME PACKAGE × TYPESETTING PLUS for Typora/Markdown
 
 *   [NJUNLP/MORE](https://github.com/NJUNLP/MORE) - Code and data for ACM MM '23 paper “MORE: A Multimodal Object-Entity Relation Extraction Dataset with a Benchmark Evaluation”
 
@@ -2198,10 +2201,6 @@
 
 *   [luoweipeter/C](https://github.com/luoweipeter/C) - c/c++ 学习记录
 
-## Less
-
-*   [MadMaxChow/VLOOK](https://github.com/MadMaxChow/VLOOK) - VLOOK™ 是优雅好用的 Typora/Markdown 主题包和排版增强插件。  VLOOK™ is an elegant and practical THEME PACKAGE × TYPESETTING PLUS for Typora/Markdown
-
 ## Awk
 
 *   [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Shell Superpowers for AI Agents.
@@ -2306,12 +2305,6 @@
 
 *   [Blinue/Magpie](https://github.com/Blinue/Magpie) - A general-purpose window upscaler for Windows 10/11.
 
-## Dockerfile
-
-*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
-
-*   [Y1ran/Free-VPN-for-Coursera](https://github.com/Y1ran/Free-VPN-for-Coursera) - :key: :unlock:免费开源的科学上网工具
-
 ## Vim Script
 
 *   [wsdjeg/vim-galore-zh\_cn](https://github.com/wsdjeg/vim-galore-zh_cn) - Vim 从入门到精通
@@ -2343,3 +2336,7 @@
 ## Swift
 
 *   [wwdc/2020](https://github.com/wwdc/2020) - Student submissions for the WWDC 2020 - Swift Student Challenge
+
+## Dockerfile
+
+*   [Y1ran/Free-VPN-for-Coursera](https://github.com/Y1ran/Free-VPN-for-Coursera) - :key: :unlock:免费开源的科学上网工具
