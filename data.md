@@ -25,6 +25,7 @@
 *   [Fluent](#fluent)
 *   [Markdown](#markdown)
 *   [C](#c-2)
+*   [Less](#less)
 *   [Awk](#awk)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [AutoHotkey](#autohotkey)
@@ -748,8 +749,6 @@
 *   [hmhm2022/ChatFree](https://github.com/hmhm2022/ChatFree) - 让你的AI摆脱浏览器的束缚
 
 *   [kfcx/biaomiao](https://github.com/kfcx/biaomiao) - 白描2API
-
-*   [MadMaxChow/VLOOK](https://github.com/MadMaxChow/VLOOK) - VLOOK™ 是优雅好用的 Typora/Markdown 主题包和排版增强插件。  VLOOK™ is an elegant and practical THEME PACKAGE × TYPESETTING PLUS for Typora/Markdown
 
 *   [NJUNLP/MORE](https://github.com/NJUNLP/MORE) - Code and data for ACM MM '23 paper “MORE: A Multimodal Object-Entity Relation Extraction Dataset with a Benchmark Evaluation”
 
@@ -1673,7 +1672,7 @@
 
 *   [studyzy/imewlconverter](https://github.com/studyzy/imewlconverter) - ”深蓝词库转换“ 一款开源免费的输入法词库转换程序
 
-*   [DearVa/Everywhere](https://github.com/DearVa/Everywhere) - Context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools.
+*   [Sylinko/Everywhere](https://github.com/Sylinko/Everywhere) - Context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools.
 
 *   [4evergaeul/JAV\_MovieManager](https://github.com/4evergaeul/JAV_MovieManager) - JAV影片管理器(Jav Manager)。支持通过MDXC刮削后构建你的专属影片库。
 
@@ -2200,6 +2199,10 @@
 *   [binbyu/Reader](https://github.com/binbyu/Reader) - A win32 txt file reader
 
 *   [luoweipeter/C](https://github.com/luoweipeter/C) - c/c++ 学习记录
+
+## Less
+
+*   [MadMaxChow/VLOOK](https://github.com/MadMaxChow/VLOOK) - VLOOK™ 是优雅好用的 Typora/Markdown 主题包和排版增强插件。  VLOOK™ is an elegant and practical THEME PACKAGE × TYPESETTING PLUS for Typora/Markdown
 
 ## Awk
 
