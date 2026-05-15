@@ -1426,7 +1426,7 @@
 
 *   [freefq/free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
 
-*   [xjh22222228/linux-manual](https://github.com/xjh22222228/linux-manual) - 🐧 Linux command reference manual; Linux 常用命令参考手册, 日常运维的最佳拍档。
+*   [liuzi6612/linux-manual](https://github.com/liuzi6612/linux-manual) - 🐧 Linux command reference manual; Linux 常用命令参考手册, 日常运维的最佳拍档。
 
 *   [jjqqkk/jjqqkk](https://github.com/jjqqkk/jjqqkk) - JJQQKK上网助手
 
@@ -1512,7 +1512,7 @@
 
 *   [putyy/res-downloader](https://github.com/putyy/res-downloader) - 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
 
-*   [fish2018/pansou](https://github.com/fish2018/pansou) - PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。 https://so.252035.xyz/
+*   [fish2018/pansou](https://github.com/fish2018/pansou) - PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。仅供学习研究，请勿以各种形式用于盈利目的。
 
 *   [gdy666/lucky](https://github.com/gdy666/lucky) - 软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,rclone,ftp,webdav,filebrowser
 
