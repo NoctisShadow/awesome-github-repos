@@ -56,8 +56,6 @@
 
 *   [ConardLi/easy-agent](https://github.com/ConardLi/easy-agent) - Fully recreating Claude Code from scratch, so anyone can learn how it works.
 
-*   [WJZ-P/sona](https://github.com/WJZ-P/sona) - 基于Pengu loader的英雄联盟客户端增强插件.
-
 *   [zhukunpenglinyutong/desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui) - CC GUI 客户端（专为开发者打造的VibeCoding平台）
 
 *   [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
@@ -323,6 +321,8 @@
 ## JavaScript
 
 *   [xixu-me/xget](https://github.com/xixu-me/xget) - Ultra-high-performance, secure, all-in-one acceleration engine for developer resources
+
+*   [WJZ-P/sona](https://github.com/WJZ-P/sona) - 基于Pengu loader的英雄联盟客户端增强插件；LOL助手；sona助手；LOL插件
 
 *   [Xchat1/cursor2api-go](https://github.com/Xchat1/cursor2api-go) - Free gemini-3-flash  | cursor不倒我不倒🙏 ❌ 这次倒下啦
 
@@ -1192,7 +1192,7 @@
 
 *   [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 
-*   [cbamls/AI\_Tutorial](https://github.com/cbamls/AI_Tutorial) - 精选机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，搜索，推荐，广告系统架构及算法技术资料整理。算法大牛笔记汇总
+*   [cbamls/AI\_Tutorial](https://github.com/cbamls/AI_Tutorial) - 大厂发布的AI落地实践、顶尖实验室的最新论文、工业界的真实踩坑记录
 
 *   [jordan-cutler/path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) - All the resources you need to get to Senior Engineer and beyond
 
