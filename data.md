@@ -1754,7 +1754,7 @@
 
 *   [cyuanyuan520/sbbs-community](https://github.com/cyuanyuan520/sbbs-community) - springboot + nuxt3.0构建的现代化轻量级社区
 
-*   [Idea-flow/novel-download](https://github.com/Idea-flow/novel-download) - 在线小说下载网站 | 小说下载工具 | 免费下载小说 |网络小说 | 免费下载
+*   [YunyuVv/novel-download](https://github.com/YunyuVv/novel-download) - 在线小说下载网站 | 小说下载工具 | 免费下载小说 |网络小说 | 免费下载
 
 *   [ccmjga/zhilu-admin](https://github.com/ccmjga/zhilu-admin) - 🔥 通过 AI 驱动的新一代后台管理系统（Java21+Vue3.5）
 
