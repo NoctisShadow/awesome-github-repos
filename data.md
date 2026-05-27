@@ -66,7 +66,7 @@
 
 *   [waooAI/waoowaoo](https://github.com/waooAI/waoowaoo) - 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.
 
-*   [Adsryen/JavdBviewed](https://github.com/Adsryen/JavdBviewed) - Jav 助手：面向 JavDB 用户的浏览器扩展，用于管理影片浏览、观看和想看记录，支持番号库与演员库管理、WebDAV 多端同   步、数据导入导出、115 云下载任务、隐私保护和可视化统计。
+*   [Adsryen/JavdBviewed](https://github.com/Adsryen/JavdBviewed) - Jav 助手：面向 JavDB 用户的浏览器扩展，用于管理影片浏览、观看和想看记录，支持番号库与演员库管理、WebDAV 多端同步、数据导入导出、115云下载任务、隐私保护和可视化统计。
 
 *   [vanloctech/youwee](https://github.com/vanloctech/youwee) - A beautiful, cross-platform downloader for YouTube, TikTok, Instagram, and 1800+ sites (yt-dlp GUI) with AI video summaries and post-processing
 
@@ -1942,7 +1942,7 @@
 
 *   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
 
-*   [mosheng1/QuickClipboard](https://github.com/mosheng1/QuickClipboard) - QuickClipboard 是一款剪贴板增强工具， 让你的复制与粘贴更加智能、高效与愉悦
+*   [mosheng1/QuickClipboard](https://github.com/mosheng1/QuickClipboard) - QuickClipboard 是一款跨平台剪贴板增强工具（现支持Windows，Android），基于 Tauri 2 + Rust + React 构建。它在你复制的那一刻就开始工作——自动记录文本、图片、富文本、文件，让你随时找回曾经复制过的任何内容。不只是记录，QuickClipboard 还集成了截图、贴图、OCR、局域网同步等能力，是日常办公效率的全面提升
 
 *   [devonmochi/byetype](https://github.com/devonmochi/byetype) - ByeType 是一个 Markdown 驱动的 AI 语音输入工具，用多模态大模型直接处理原始音频（使用自己的APIKEY），编辑 Markdown 文件即可自定义专有词汇、转录规则和格式化策略，人名、术语、口水词、数字格式一次转录到位，减少二次修改。支持 macOS、Windows 和 iOS。
 
