@@ -834,7 +834,7 @@
 
 *   [ZhugeKongan/torch-template-for-deep-learning](https://github.com/ZhugeKongan/torch-template-for-deep-learning) - Pytorch Implementations of large number  classical backbone CNNs, data enhancement, torch loss, attention, visualization and  some common algorithms.
 
-*   [fastnlp/fitlog](https://github.com/fastnlp/fitlog) - fitlog是一款在深度学习训练中用于辅助用户记录日志和管理代码的工具
+*   [FudanNLP/fitlog](https://github.com/FudanNLP/fitlog) - fitlog是一款在深度学习训练中用于辅助用户记录日志和管理代码的工具
 
 *   [yym68686/ChatGPT-Telegram-Bot](https://github.com/yym68686/ChatGPT-Telegram-Bot) - TeleChat: 🤖️ an AI chat Telegram bot can Web Search Powered by GPT-5, DALL·E , Groq, Gemini 2.5 Pro/Flash and the official Claude4.1 API using Python on Zeabur, fly.io and Replit.
 
@@ -1158,7 +1158,7 @@
 
 *   [deezertidal/freevpn](https://github.com/deezertidal/freevpn) - 免费公益机场节点分享
 
-*   [zpj80231/idea-set](https://github.com/zpj80231/idea-set) - ✅ JetBrains IntelliJ IDEA 最新自用配置、常用插件、破解激活，打包整理。
+*   [zpj80231/idea-set](https://github.com/zpj80231/idea-set) - ✅ JetBrains And IntelliJ IDEA 最新版自用配置、常用插件、破解激活、打包整理。
 
 *   [elicit/machine-learning-list](https://github.com/elicit/machine-learning-list) - A curriculum for learning about foundation models, from scratch to the frontier
 
