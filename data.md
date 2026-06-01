@@ -324,7 +324,7 @@
 
 *   [xixu-me/xget](https://github.com/xixu-me/xget) - Ultra-high-performance, secure, all-in-one acceleration engine for developer resources
 
-*   [WJZ-P/sona](https://github.com/WJZ-P/sona) - 基于Pengu loader的英雄联盟客户端增强插件；LOL助手；sona助手；LOL插件
+*   [WJZ-P/sona](https://github.com/WJZ-P/sona) - 基于Pengu loader的英雄联盟客户端增强插件；LOL助手；sona助手；LOL插件；A LOL plugin base on Pengu loader; sona plugin;
 
 *   [Xchat1/cursor2api-go](https://github.com/Xchat1/cursor2api-go) - Free gemini-3-flash  | cursor不倒我不倒🙏 ❌ 这次倒下啦
 
