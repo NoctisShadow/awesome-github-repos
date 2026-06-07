@@ -106,6 +106,8 @@
 
 *   [TokenRollAI/fast-mvp](https://github.com/TokenRollAI/fast-mvp) - AI MVP应用的通用template
 
+*   [shiyi-0x7f/o-lib](https://github.com/shiyi-0x7f/o-lib) - O-lib is a free and open-source software application for PC
+
 *   [1595901624/crypto-mcp](https://github.com/1595901624/crypto-mcp) - A Model Context Protocol (MCP) server for encrypting/decrypting/algorithm/hash
 
 *   [d1y/kitty](https://github.com/d1y/kitty) - 小猫影视扩展源(@d1y自用)
@@ -342,7 +344,7 @@
 
 *   [timerring/BiliSpeedUp](https://github.com/timerring/BiliSpeedUp) - 提供B站倍速播放功能，支持鼠标滚轮调节、触控板调节、自定义记忆播放速度。Provides customize playback speed options for Bilibili.
 
-*   [glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker) - 🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly   \[作者新开的Gpt模型中转站 - 0.2 倍率, 0.2元当1刀花，比官方便宜35倍 https://token.glidea.app]
+*   [glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker) - 🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly   \[作者新开的Gpt/Claude模型中转站(Claude 0.28低价) - https://token.glidea.app]
 
 *   [huppugo1/WindsurfRegistration-Tool](https://github.com/huppugo1/WindsurfRegistration-Tool) - 一个功能强大的 Chrome 浏览器扩展，用于自动注册和管理 Windsurf (Codeium) 账号。
 
@@ -641,8 +643,6 @@
 *   [hyb-oyqq/hajimi-king-pro](https://github.com/hyb-oyqq/hajimi-king-pro) - 人人都是【超级】哈基米大王
 
 *   [adminlove520/Source-Collector](https://github.com/adminlove520/Source-Collector) -
-
-*   [shiyi-0x7f/o-lib](https://github.com/shiyi-0x7f/o-lib) - O-lib is a free and open-source software application for PC
 
 *   [danghb/moyu\_yolov8](https://github.com/danghb/moyu_yolov8) - AI编程的yolo摄像头摸鱼小工具，防止背后凉凉的，不知道有没有人。
 
@@ -1158,7 +1158,7 @@
 
 *   [deezertidal/freevpn](https://github.com/deezertidal/freevpn) - 免费公益机场节点分享
 
-*   [zpj80231/idea-set](https://github.com/zpj80231/idea-set) - ✅ JetBrains And IntelliJ IDEA 最新版自用配置、常用插件、破解激活、打包整理。
+*   [zpj80231/idea-set](https://github.com/zpj80231/idea-set) - ✅ JetBrains And IntelliJ IDEA 自用配置、常用插件、破解激活、打包整理。
 
 *   [elicit/machine-learning-list](https://github.com/elicit/machine-learning-list) - A curriculum for learning about foundation models, from scratch to the frontier
 
@@ -1516,7 +1516,7 @@
 
 *   [stackJx/databaseDoc](https://github.com/stackJx/databaseDoc) -
 
-*   [glidea/zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!! \[作者新开的Gpt模型中转站 - 0.2 倍率, 0.2元当1刀花，比官方便宜35倍  https://token.glidea.app]
+*   [glidea/zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!! \[作者新开的Gpt/Claude模型中转站(Claude 0.28低价) - https://token.glidea.app]
 
 *   [lovebai/plist](https://github.com/lovebai/plist) - Http图片列表程序
 
