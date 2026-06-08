@@ -3,6 +3,7 @@
 ## Table of Contents
 
 *   [TypeScript](#typescript)
+*   [AutoHotkey](#autohotkey)
 *   [JavaScript](#javascript)
 *   [Python](#python)
 *   [PHP](#php)
@@ -28,7 +29,6 @@
 *   [Less](#less)
 *   [Awk](#awk)
 *   [Jupyter Notebook](#jupyter-notebook)
-*   [AutoHotkey](#autohotkey)
 *   [Batchfile](#batchfile)
 *   [SCSS](#scss)
 *   [PostScript](#postscript)
@@ -51,6 +51,8 @@
 *   [Dockerfile](#dockerfile)
 
 ## TypeScript
+
+*   [cshuangyy/videdown](https://github.com/cshuangyy/videdown) - Videdown 是一款现代化的开源视频下载工具，让你可以从抖音 小红书 B站 YT Instagram等网站下载无水印高清视频
 
 *   [CookSleep/gpt\_image\_playground](https://github.com/CookSleep/gpt_image_playground) - 基于 OpenAI gpt-image-2 API 的图片生成与编辑工具
 
@@ -321,6 +323,16 @@
 *   [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 
 *   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.
+
+## AutoHotkey
+
+*   [lch319/XiaoYao\_QuickJump](https://github.com/lch319/XiaoYao_QuickJump) - 在打开或保存对话框中，快速跳转到当前 资源管理器/TC/DO/XY/Q-Dir中打开的文件夹路径
+
+*   [sxzxs/Real-time-translation-typing](https://github.com/sxzxs/Real-time-translation-typing) - 实时打字翻译软件、语音实时打字、语音实时翻译、LOL 语音打字
+
+*   [wo52616111/capslock-plus](https://github.com/wo52616111/capslock-plus) - An efficiency tool that provides various functions by enhancing the Caps Lock key into a modifier key.
+
+*   [no5ix/sux](https://github.com/no5ix/sux) - An alternative to Alfred+Wox+Listary+OneQuick+CapslockPlus.一个只有2M大小的强大效率工具
 
 ## JavaScript
 
@@ -603,8 +615,6 @@
 *   [Ovilia/lipstick](https://github.com/Ovilia/lipstick) - 口红颜色可视化 - 为什么你的女神总缺一支口红
 
 *   [zenghongtu/saladict-desktop](https://github.com/zenghongtu/saladict-desktop) - ✨✨桌面划词与翻译工具，聚合了 N 多词典，功能强大，支持 Windows 、 Mac 和 Linux。
-
-*   [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
 
 ## Python
 
@@ -940,7 +950,7 @@
 
 *   [fuergaosi233/gitbook2pdf](https://github.com/fuergaosi233/gitbook2pdf) - Grab the contents of the gitbook document and convert it to pdf
 
-*   [fossasia/visdom](https://github.com/fossasia/visdom) - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy
+*   [fossasia/visdom](https://github.com/fossasia/visdom) - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy https://visdom.dev
 
 *   [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2024 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers
 
@@ -1445,8 +1455,6 @@
 *   [justjavac/free-programming-books-zh\_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 
 *   [stanzhai/be-a-professional-programmer](https://github.com/stanzhai/be-a-professional-programmer) - 成为专业程序员路上用到的各种优秀资料、神器及框架
-
-*   [HandSonic/HTQ](https://github.com/HandSonic/HTQ) - How To Ask Questions The Smart Way 《提问的智慧》简体中文版
 
 ## Shell
 
@@ -2231,14 +2239,6 @@
 *   [metafy-social/python-scripts](https://github.com/metafy-social/python-scripts) - A repository of python scripts that come in handy in automating day-to-day tasks
 
 *   [cbdb-project/named-entities-for-premodern-chinese-history-research](https://github.com/cbdb-project/named-entities-for-premodern-chinese-history-research) - Repo to generate and host named entities for premodern chinese history research
-
-## AutoHotkey
-
-*   [sxzxs/Real-time-translation-typing](https://github.com/sxzxs/Real-time-translation-typing) - 实时打字翻译软件、语音实时打字、语音实时翻译、LOL 语音打字
-
-*   [wo52616111/capslock-plus](https://github.com/wo52616111/capslock-plus) - An efficiency tool that provides various functions by enhancing the Caps Lock key into a modifier key.
-
-*   [no5ix/sux](https://github.com/no5ix/sux) - An alternative to Alfred+Wox+Listary+OneQuick+CapslockPlus.一个只有2M大小的强大效率工具
 
 ## Batchfile
 
