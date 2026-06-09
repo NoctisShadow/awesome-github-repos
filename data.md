@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [C#](#c)
 *   [TypeScript](#typescript)
 *   [AutoHotkey](#autohotkey)
 *   [JavaScript](#javascript)
@@ -12,7 +13,6 @@
 *   [Shell](#shell)
 *   [Go](#go)
 *   [HTML](#html)
-*   [C#](#c)
 *   [Java](#java)
 *   [Kotlin](#kotlin)
 *   [Rust](#rust)
@@ -49,6 +49,82 @@
 *   [Haskell](#haskell)
 *   [Swift](#swift)
 *   [Dockerfile](#dockerfile)
+
+## C\#
+
+*   [humanfirework/FlowWheel](https://github.com/humanfirework/FlowWheel) - Global Smooth Auto-Scrolling for Windows Windows 全局平滑自动滚屏工具（支持多屏协同滚动）
+
+*   [studyzy/imewlconverter](https://github.com/studyzy/imewlconverter) - ”深蓝词库转换“ 一款开源免费的输入法词库转换程序
+
+*   [Sylinko/Everywhere](https://github.com/Sylinko/Everywhere) - Context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools.
+
+*   [4evergaeul/JAV\_MovieManager](https://github.com/4evergaeul/JAV_MovieManager) - JAV影片管理器(Jav Manager)。支持通过MDXC刮削后构建你的专属影片库。
+
+*   [BililiveRecorder/BililiveRecorder](https://github.com/BililiveRecorder/BililiveRecorder) - 录播姬 | mikufans 生放送录制
+
+*   [cmliu/SubsCheck-Win-GUI](https://github.com/cmliu/SubsCheck-Win-GUI) - SubsCheck 为 Windows 用户设计的 GUI 程序界面。
+
+*   [imDema/FreeMove](https://github.com/imDema/FreeMove) - Move directories without breaking shortcuts or installations
+
+*   [leafOfTree/WindowTabs](https://github.com/leafOfTree/WindowTabs) - A utility that brings browser-style tabbed window management to the desktop.
+
+*   [Milk-Dream/WeChatVideoDownload-Fiddler](https://github.com/Milk-Dream/WeChatVideoDownload-Fiddler) - 小白视频号助手是微信视频号下载的Fiddler插件,使用此插件你可以很轻松的下载微信视频号的视频内容,这个微信视频号插件使用C# .NETFramework4.7.1开发
+
+*   [James-LG/AutoCursorLock](https://github.com/James-LG/AutoCursorLock) - Locks cursor to specified windows while in focus. Good for games that don't properly lock the cursor.
+
+*   [liuke-wuhan/ZuAnBot](https://github.com/liuke-wuhan/ZuAnBot) - 祖安助手：英雄联盟（League Of Legends）一键喷人，LOL游戏和客户端中可用。只为反击喷子！
+
+*   [hrpzcf/ImageCvt](https://github.com/hrpzcf/ImageCvt) - 监视目录并自动把目录里新增或被重命名为目标格式的图像转换为指定格式
+
+*   [YSGStudyHards/DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide) - 🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。
+
+*   [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+
+*   [OdysseusYuan/LKY\_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) - 一键自动化 下载、安装、激活 Office 的利器。
+
+*   [Ponderfly/GoogleTranslateIpCheck](https://github.com/Ponderfly/GoogleTranslateIpCheck) - 扫描国内可用的谷歌翻译IP
+
+*   [gerardog/gsudo](https://github.com/gerardog/gsudo) - Sudo for Windows
+
+*   [Abdelrhman-AK/WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter) - Advanced Windows Appearance Editor
+
+*   [BartoszCichecki/LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit) - Lightweight Lenovo Vantage and Hotkeys replacement for Lenovo Legion laptops.
+
+*   [TGSAN/CMWTAT\_Digital\_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) - CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
+
+*   [BugLordI/EldenRingAutoArchive](https://github.com/BugLordI/EldenRingAutoArchive) - 艾尔登法环黑夜君临、黑神话悟空、老头环(艾尔登法环)、黑魂系列、只狼、堕落之主……存档快捷备份工具
+
+*   [xiaoyaocz/AllLive](https://github.com/xiaoyaocz/AllLive) - 获取多个直播平台的信息和弹幕
+
+*   [plummm/AntiRecall](https://github.com/plummm/AntiRecall) - Anti-Recall/Anti-Delete for Telegram, WeChat, and QQ（针对Telegram, QQ和微信的防撤回）
+
+*   [kvakulo/Switcheroo](https://github.com/kvakulo/Switcheroo) - The humble incremental-search task switcher for Windows
+
+*   [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
+
+*   [Tichau/FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.
+
+*   [Tlaster/YourAV](https://github.com/Tlaster/YourAV) - 宇宙级最轻量杀毒软件
+
+*   [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
+
+*   [Richasy/Bili.Uwp](https://github.com/Richasy/Bili.Uwp) - 适用于新系统UI的哔哩
+
+*   [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
+
+*   [LeagueSandbox/GameServer](https://github.com/LeagueSandbox/GameServer) - League Sandbox's Game Server
+
+*   [Richasy/BiliBili-UWP](https://github.com/Richasy/BiliBili-UWP) - BiliBili的UWP客户端，当然，是第三方的了
+
+*   [MoocDownloader/MoocDownloader](https://github.com/MoocDownloader/MoocDownloader) - An MOOC downloader implemented by .NET. 一枚由 .NET 实现的 MOOC 下载器.
+
+*   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
+
+*   [nilaoda/N\_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) - \[.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.
+
+*   [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
+
+*   [randyrants/sharpkeys](https://github.com/randyrants/sharpkeys) - SharpKeys is a utility that manages a Registry key that allows Windows to remap one key to any other key.
 
 ## TypeScript
 
@@ -356,7 +432,7 @@
 
 *   [timerring/BiliSpeedUp](https://github.com/timerring/BiliSpeedUp) - 提供B站倍速播放功能，支持鼠标滚轮调节、触控板调节、自定义记忆播放速度。Provides customize playback speed options for Bilibili.
 
-*   [glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker) - 🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly   \[作者新开的Gpt/Claude模型中转站(Claude 0.28低价) - https://token.glidea.app]
+*   [glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker) - 🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly
 
 *   [huppugo1/WindsurfRegistration-Tool](https://github.com/huppugo1/WindsurfRegistration-Tool) - 一个功能强大的 Chrome 浏览器扩展，用于自动注册和管理 Windsurf (Codeium) 账号。
 
@@ -1168,7 +1244,7 @@
 
 *   [deezertidal/freevpn](https://github.com/deezertidal/freevpn) - 免费公益机场节点分享
 
-*   [zpj80231/idea-set](https://github.com/zpj80231/idea-set) - ✅ JetBrains And IntelliJ IDEA 自用配置、常用插件、破解激活、打包整理。
+*   [zpj80231/idea-set](https://github.com/zpj80231/idea-set) - ✅ JetBrains And IntelliJ IDEA 自用配置、常用插件、打包整理。
 
 *   [elicit/machine-learning-list](https://github.com/elicit/machine-learning-list) - A curriculum for learning about foundation models, from scratch to the frontier
 
@@ -1524,7 +1600,7 @@
 
 *   [stackJx/databaseDoc](https://github.com/stackJx/databaseDoc) -
 
-*   [glidea/zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!! \[作者新开的Gpt/Claude模型中转站(Claude 0.28低价) - https://token.glidea.app]
+*   [glidea/zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!!
 
 *   [lovebai/plist](https://github.com/lovebai/plist) - Http图片列表程序
 
@@ -1675,80 +1751,6 @@
 *   [bajins/notes-docsify](https://github.com/bajins/notes-docsify) - 这是一个用docsify构建的文档
 
 *   [bajins/notes-vuepress](https://github.com/bajins/notes-vuepress) - 使用VuePress构建静态网站 https://github.com/bajins/bajins.github.io ，动态构建 https://github.com/bajins/notes-docsify
-
-## C\#
-
-*   [studyzy/imewlconverter](https://github.com/studyzy/imewlconverter) - ”深蓝词库转换“ 一款开源免费的输入法词库转换程序
-
-*   [Sylinko/Everywhere](https://github.com/Sylinko/Everywhere) - Context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools.
-
-*   [4evergaeul/JAV\_MovieManager](https://github.com/4evergaeul/JAV_MovieManager) - JAV影片管理器(Jav Manager)。支持通过MDXC刮削后构建你的专属影片库。
-
-*   [BililiveRecorder/BililiveRecorder](https://github.com/BililiveRecorder/BililiveRecorder) - 录播姬 | mikufans 生放送录制
-
-*   [cmliu/SubsCheck-Win-GUI](https://github.com/cmliu/SubsCheck-Win-GUI) - SubsCheck 为 Windows 用户设计的 GUI 程序界面。
-
-*   [imDema/FreeMove](https://github.com/imDema/FreeMove) - Move directories without breaking shortcuts or installations
-
-*   [leafOfTree/WindowTabs](https://github.com/leafOfTree/WindowTabs) - A utility that brings browser-style tabbed window management to the desktop.
-
-*   [Milk-Dream/WeChatVideoDownload-Fiddler](https://github.com/Milk-Dream/WeChatVideoDownload-Fiddler) - 小白视频号助手是微信视频号下载的Fiddler插件,使用此插件你可以很轻松的下载微信视频号的视频内容,这个微信视频号插件使用C# .NETFramework4.7.1开发
-
-*   [James-LG/AutoCursorLock](https://github.com/James-LG/AutoCursorLock) - Locks cursor to specified windows while in focus. Good for games that don't properly lock the cursor.
-
-*   [liuke-wuhan/ZuAnBot](https://github.com/liuke-wuhan/ZuAnBot) - 祖安助手：英雄联盟（League Of Legends）一键喷人，LOL游戏和客户端中可用。只为反击喷子！
-
-*   [hrpzcf/ImageCvt](https://github.com/hrpzcf/ImageCvt) - 监视目录并自动把目录里新增或被重命名为目标格式的图像转换为指定格式
-
-*   [YSGStudyHards/DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide) - 🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。
-
-*   [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
-
-*   [OdysseusYuan/LKY\_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) - 一键自动化 下载、安装、激活 Office 的利器。
-
-*   [Ponderfly/GoogleTranslateIpCheck](https://github.com/Ponderfly/GoogleTranslateIpCheck) - 扫描国内可用的谷歌翻译IP
-
-*   [gerardog/gsudo](https://github.com/gerardog/gsudo) - Sudo for Windows
-
-*   [Abdelrhman-AK/WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter) - Advanced Windows Appearance Editor
-
-*   [BartoszCichecki/LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit) - Lightweight Lenovo Vantage and Hotkeys replacement for Lenovo Legion laptops.
-
-*   [TGSAN/CMWTAT\_Digital\_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) - CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
-
-*   [BugLordI/EldenRingAutoArchive](https://github.com/BugLordI/EldenRingAutoArchive) - 艾尔登法环黑夜君临、黑神话悟空、老头环(艾尔登法环)、黑魂系列、只狼、堕落之主……存档快捷备份工具
-
-*   [xiaoyaocz/AllLive](https://github.com/xiaoyaocz/AllLive) - 获取多个直播平台的信息和弹幕
-
-*   [plummm/AntiRecall](https://github.com/plummm/AntiRecall) - Anti-Recall/Anti-Delete for Telegram, WeChat, and QQ（针对Telegram, QQ和微信的防撤回）
-
-*   [kvakulo/Switcheroo](https://github.com/kvakulo/Switcheroo) - The humble incremental-search task switcher for Windows
-
-*   [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
-
-*   [Tichau/FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.
-
-*   [Tlaster/YourAV](https://github.com/Tlaster/YourAV) - 宇宙级最轻量杀毒软件
-
-*   [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
-
-*   [Richasy/Bili.Uwp](https://github.com/Richasy/Bili.Uwp) - 适用于新系统UI的哔哩
-
-*   [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
-
-*   [LeagueSandbox/GameServer](https://github.com/LeagueSandbox/GameServer) - League Sandbox's Game Server
-
-*   [Richasy/BiliBili-UWP](https://github.com/Richasy/BiliBili-UWP) - BiliBili的UWP客户端，当然，是第三方的了
-
-*   [MoocDownloader/MoocDownloader](https://github.com/MoocDownloader/MoocDownloader) - An MOOC downloader implemented by .NET. 一枚由 .NET 实现的 MOOC 下载器.
-
-*   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
-
-*   [nilaoda/N\_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) - \[.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.
-
-*   [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
-
-*   [randyrants/sharpkeys](https://github.com/randyrants/sharpkeys) - SharpKeys is a utility that manages a Registry key that allows Windows to remap one key to any other key.
 
 ## Java
 
@@ -1905,8 +1907,6 @@
 *   [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍 针对小白的算法训练 | 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）推荐免费ChatGPT使用网站
 
 *   [LJWLgl/CommonUtil](https://github.com/LJWLgl/CommonUtil) - 轻便简单的Java常用工具类库
-
-*   [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 
 ## Kotlin
 
@@ -2324,7 +2324,7 @@
 
 ## Ruby
 
-*   [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
+*   [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The Package Manager for Everywhere
 
 *   [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
 
