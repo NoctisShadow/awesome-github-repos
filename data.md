@@ -122,8 +122,6 @@
 
 *   [nilaoda/N\_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) - \[.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.
 
-*   [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
-
 *   [randyrants/sharpkeys](https://github.com/randyrants/sharpkeys) - SharpKeys is a utility that manages a Registry key that allows Windows to remap one key to any other key.
 
 ## TypeScript
@@ -447,8 +445,6 @@
 *   [hubhubgogo/AI-model-comparison](https://github.com/hubhubgogo/AI-model-comparison) - 🤖 A beautiful web tool for comparing AI model responses side-by-side. Test prompts across different LLMs and find the best model for your needs.
 
 *   [liujuntao123/smart-mermaid](https://github.com/liujuntao123/smart-mermaid) - 一款基于 AI 技术的 Web 应用程序，可将文本内容智能转换为 Mermaid 格式的代码，并将其渲染成可视化图表。
-
-*   [mosheng1/QuickClipboard](https://github.com/mosheng1/QuickClipboard) - QuickClipboard 是一款跨平台剪贴板增强工具（现支持Windows，Android），基于 Tauri 2 + Rust + React 构建。它在你复制的那一刻就开始工作——自动记录文本、图片、富文本、文件，让你随时找回曾经复制过的任何内容。不只是记录，QuickClipboard 还集成了截图、贴图、OCR、局域网同步等能力，是日常办公效率的全面提升
 
 *   [Veloera/vibe\_coding\_enhanced](https://github.com/Veloera/vibe_coding_enhanced) - Enhance your Vibe Coding experience with a suite of powerful tools.
 
@@ -1910,6 +1906,8 @@
 
 *   [LJWLgl/CommonUtil](https://github.com/LJWLgl/CommonUtil) - 轻便简单的Java常用工具类库
 
+*   [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
+
 ## Kotlin
 
 *   [Haleclipse/Codex-JetBrains](https://github.com/Haleclipse/Codex-JetBrains) - Run VSCode-based coding agents and extensions seamlessly within other IDE platforms - bridging the gap between VSCode ecosystem and other development environment.
@@ -1951,6 +1949,8 @@
 *   [wuqi-y/auto-cursor-releases](https://github.com/wuqi-y/auto-cursor-releases) - 源代码
 
 *   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
+
+*   [mosheng1/QuickClipboard](https://github.com/mosheng1/QuickClipboard) - QuickClipboard 是一款跨平台剪贴板增强工具（现支持Windows，Android），基于 Tauri 2 + Rust + React 构建。它在你复制的那一刻就开始工作——自动记录文本、图片、富文本、文件，让你随时找回曾经复制过的任何内容。不只是记录，QuickClipboard 还集成了截图、贴图、OCR、局域网同步等能力，是日常办公效率的全面提升
 
 *   [devonmochi/byetype](https://github.com/devonmochi/byetype) - ByeType 是一个 Markdown 驱动的 AI 语音输入工具，用多模态大模型直接处理原始音频（使用自己的APIKEY），编辑 Markdown 文件即可自定义专有词汇、转录规则和格式化策略，人名、术语、口水词、数字格式一次转录到位，减少二次修改。支持 macOS、Windows 和 iOS。
 
@@ -2057,8 +2057,6 @@
 *   [huppugo1/ProxyPoolWithUI](https://github.com/huppugo1/ProxyPoolWithUI) -  核心特性 :bullseye: 自动爬取 - 从 14+ 个免费代理源自动爬取代理  :white\_check\_mark: 自动验证 - 实时验证代理可用性，只返回可用代理  :globe\_with\_meridians: 多协议支持 - HTTP、HTTPS、SOCKS4、SOCKS5  :artist\_palette: 现代化 UI - 基于 Nuxt 3 + Vue 3 + Ant Design Vue  :high\_voltage: Clash 订阅 - 一键导入 Clash，支持 50+ 国家节点筛选  :counterclockwise\_arrows\_button: 实时监控 - 代理状态、爬取器状态实时展示  :round\_pushpin: 地理位置 - 自动识别代理 IP 归
 
 *   [xiaoyutx94/clash-config-editor](https://github.com/xiaoyutx94/clash-config-editor) - 一个现代化的 Clash/Mihomo 配置文件可视化编辑工具，提供友好的用户界面来简化 Clash 配置文件的编辑过程。
-
-*   [liu-ziting/what-to-eat](https://github.com/liu-ziting/what-to-eat) - 一饭封神：一个基于 AI 的智能菜谱生成平台，支持中华八大菜系 + 国际料理，提供营养分析、酒水推荐、菜谱效果图生成等全方位烹饪指导。
 
 *   [LSTM-Kirigaya/slidev-theme-miracle](https://github.com/LSTM-Kirigaya/slidev-theme-miracle) - Academic slidev theme for USTC 🎓
 
@@ -2207,6 +2205,8 @@
 *   [binbyu/Reader](https://github.com/binbyu/Reader) - A win32 txt file reader
 
 *   [luoweipeter/C](https://github.com/luoweipeter/C) - c/c++ 学习记录
+
+*   [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 
 ## Less
 
