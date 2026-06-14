@@ -1180,7 +1180,7 @@
 
 *   [PhantasmAI/PromptMicroTune-Revolution](https://github.com/PhantasmAI/PromptMicroTune-Revolution) - 把一段提示词变成“软微调”——重塑大模型定制成本与想象力的边界
 
-*   [POf-L/Fanqie-novel-Downloader](https://github.com/POf-L/Fanqie-novel-Downloader) - 番茄小说下载器 ，提供TXT/EPUB格式，GUI界面下载功能，番茄小说转txt，MP4可用，绿色单文件，2026年6月恢复活跃更新🔥
+*   [POf-L/Fanqie-novel-Downloader](https://github.com/POf-L/Fanqie-novel-Downloader) - 🍅 番茄小说下载器 | 免费番茄小说转TXT/EPUB绿色GUI工具，支持Windows/macOS/Linux，持续活跃更新 | Fanqie Novel Downloader
 
 *   [Leon406/BurpSuiteCN-Release](https://github.com/Leon406/BurpSuiteCN-Release) -  BurpSuite汉化发布
 
