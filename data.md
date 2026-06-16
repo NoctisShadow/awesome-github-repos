@@ -134,6 +134,8 @@
 
 *   [ConardLi/easy-agent](https://github.com/ConardLi/easy-agent) - Fully recreating Claude Code from scratch, so anyone can learn how it works.
 
+*   [WJZ-P/sona](https://github.com/WJZ-P/sona) - 基于Pengu loader的英雄联盟客户端增强插件；LOL助手；sona助手；LOL插件；A LOL plugin base on Pengu loader; sona plugin;
+
 *   [zhukunpenglinyutong/desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui) - CC GUI 客户端（专为开发者打造的VibeCoding平台）
 
 *   [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
@@ -411,8 +413,6 @@
 ## JavaScript
 
 *   [xixu-me/xget](https://github.com/xixu-me/xget) - Ultra-high-performance, secure, all-in-one acceleration engine for developer resources
-
-*   [WJZ-P/sona](https://github.com/WJZ-P/sona) - 基于Pengu loader的英雄联盟客户端增强插件；LOL助手；sona助手；LOL插件；A LOL plugin base on Pengu loader; sona plugin;
 
 *   [Xchat1/cursor2api-go](https://github.com/Xchat1/cursor2api-go) - Free gemini-3-flash  | cursor不倒我不倒🙏 ❌ 这次倒下啦
 
@@ -734,8 +734,6 @@
 
 *   [melosbot/telegram-chat-organizer](https://github.com/melosbot/telegram-chat-organizer) -
 
-*   [liangdabiao/resume-matcher-agent-cn](https://github.com/liangdabiao/resume-matcher-agent-cn) - "简历匹配智能体"是一个AI驱动的平台，旨在逆向工程招聘算法，向您展示如何精准定制简历。获取那些能让你通过初步筛选、进入人工审阅阶段的关键词、格式和洞察。resume-matcher-agent意思就是模拟HR怎样筛选你的简历，提前给你展示筛选的结论，方便你尽快修改好你的简历，以增加通过的可能性。
-
 *   [sylearn/AICode](https://github.com/sylearn/AICode) - A comprehensive collection of AI-related utility scripts designed to simplify AI development workflows and automate common tasks.
 
 *   [Seameee/override-hub](https://github.com/Seameee/override-hub) - Mihomo Party Override Scripts
@@ -979,8 +977,6 @@
 *   [Dod-o/Statistical-Learning-Method\_Code](https://github.com/Dod-o/Statistical-Learning-Method_Code) - 手写实现李航《统计学习方法》书中全部算法
 
 *   [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
-
-*   [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
 
 *   [labmlai/annotated\_deep\_learning\_paper\_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
 
@@ -1692,6 +1688,8 @@
 
 *   [Wilsonoonn/n8n\_nl2sql](https://github.com/Wilsonoonn/n8n_nl2sql) - This is an n8n NL2SQL workflow that converts natural language questions into executable SQL queries. It can be embedded as an intelligent data assistant into web systems to query databases and provide visual charts for the data.
 
+*   [liangdabiao/resume-matcher-agent-cn](https://github.com/liangdabiao/resume-matcher-agent-cn) - "HR批评"简历智能体，是一个AI驱动的平台，旨在逆向工程招聘算法，向您展示如何精准定制简历。获取那些能让你通过初步筛选、进入人工审阅阶段的关键词、格式和洞察。resume-matcher-agent意思就是模拟HR怎样筛选你的简历，提前给你展示筛选的结论，方便你尽快修改好你的简历，以增加通过的可能性。
+
 *   [madlifer/BentoGrid-Html-Slide](https://github.com/madlifer/BentoGrid-Html-Slide) - A Bento Grid Style Slide template.
 
 *   [MindMobius/WallpaperEngineMediaLibrary](https://github.com/MindMobius/WallpaperEngineMediaLibrary) - 一键将你本地的 Wallpaper Engine 仓库变成一个可通过浏览器访问的个人媒体库，支持多端访问和数据同步
@@ -1975,6 +1973,8 @@
 *   [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
 
 *   [Edge-coordinates/mason-gallery](https://github.com/Edge-coordinates/mason-gallery) - Masonry layouts Picture Viewer
+
+*   [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
 
 *   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 
