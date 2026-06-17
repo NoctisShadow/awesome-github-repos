@@ -134,8 +134,6 @@
 
 *   [ConardLi/easy-agent](https://github.com/ConardLi/easy-agent) - Fully recreating Claude Code from scratch, so anyone can learn how it works.
 
-*   [WJZ-P/sona](https://github.com/WJZ-P/sona) - 基于Pengu loader的英雄联盟客户端增强插件；LOL助手；sona助手；LOL插件；A LOL plugin base on Pengu loader; sona plugin;
-
 *   [zhukunpenglinyutong/desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui) - CC GUI 客户端（专为开发者打造的VibeCoding平台）
 
 *   [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
@@ -249,8 +247,6 @@
 *   [mettamatt/code-reasoning](https://github.com/mettamatt/code-reasoning) - A code reasoning MCP server, a fork of sequential-thinking
 
 *   [Lianues/AIStudioBuildCopy](https://github.com/Lianues/AIStudioBuildCopy) -
-
-*   [JefferyHcool/BiliNote](https://github.com/JefferyHcool/BiliNote) - AI 视频笔记生成工具 让 AI 为你的视频做笔记
 
 *   [xyTom/snippai](https://github.com/xyTom/snippai) - Snip Anything Solve Everything​
 
@@ -413,6 +409,8 @@
 ## JavaScript
 
 *   [xixu-me/xget](https://github.com/xixu-me/xget) - Ultra-high-performance, secure, all-in-one acceleration engine for developer resources
+
+*   [WJZ-P/sona](https://github.com/WJZ-P/sona) - 基于Pengu loader的英雄联盟客户端增强插件；LOL助手；sona助手；LOL插件；A LOL plugin base on Pengu loader; sona plugin;
 
 *   [Xchat1/cursor2api-go](https://github.com/Xchat1/cursor2api-go) - Free gemini-3-flash  | cursor不倒我不倒🙏 ❌ 这次倒下啦
 
@@ -702,7 +700,7 @@
 
 *   [liangdabiao/XHS\_Business\_Idea\_Validator](https://github.com/liangdabiao/XHS_Business_Idea_Validator) - 小红书收集和分析数据来解析市场需求用户痛点及竞争格局 - 📊 **小红书数据抓取**: 自动抓取相关笔记和评论数据  - 🤖 **AI 内容分析**: 使用 LLM 分析用户痛点和市场需求 - 📄 **自动化报告生成**: 生成专业的市场验证报告
 
-*   [Yuvi9587/Kemono-Downloader](https://github.com/Yuvi9587/Kemono-Downloader) - Kemono Downloader is a fast, powerful PyQt5 app for archiving content from a wide array of sites, including Kemono, Coomer, Bunkr, Erome, Saint2.su, nhentai, and Discord. It features a Creator Browser, update checker, and supports multi-threaded, multi-part downloads. Sessions can pause, resume, or recover. Advanced filters
+*   [Yuvi9587/Kemono-Downloader](https://github.com/Yuvi9587/Kemono-Downloader) - Kemono pawchive Downloader is a fast, powerful PyQt5 app for archiving content from a wide array of sites, including Kemono, Coomer, Bunkr, Erome, Saint2.su, nhentai, and Discord. It features a Creator Browser, update checker, and supports multi-threaded, multi-part downloads. Sessions can pause, resume, or recover. Advanced filters
 
 *   [markcxx/Xiaozhi-ai](https://github.com/markcxx/Xiaozhi-ai) - xiaozhi(小智AI)fluent风格桌面端应用
 
@@ -789,6 +787,8 @@
 *   [DR-lin-eng/download\_speed\_tester](https://github.com/DR-lin-eng/download_speed_tester) - 可以针对任意下载链接通过32线程的下载方式来测试下载链接的下载速度与稳定性。
 
 *   [y9nhjy/Proxifier-Keygen](https://github.com/y9nhjy/Proxifier-Keygen) - Proxifier注册机
+
+*   [JefferyHcool/BiliNote](https://github.com/JefferyHcool/BiliNote) - AI 视频笔记生成工具 让 AI 为你的视频做笔记
 
 *   [aipotheosis-labs/aci](https://github.com/aipotheosis-labs/aci) - ACI.dev is the open source tool-calling platform that hooks up 600+ tools into any agentic IDE or custom AI agent through direct function calling or a unified MCP server. The birthplace of VibeOps.
 
