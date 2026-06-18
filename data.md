@@ -2006,7 +2006,7 @@
 
 *   [MrBeanCpp/AltTaber](https://github.com/MrBeanCpp/AltTaber) - A MacOS-style Alt-Tab window/app switcher replacement for Windows
 
-*   [hitfyd/ShowJCR](https://github.com/hitfyd/ShowJCR) - 期刊分区查询小工具，包括新锐期刊分区表（2026）、中科院分区表升级版（2025）及国际期刊预警名单（2025、2024、2023、2021、2020）、JCR（2024、2023）、CCF推荐国际会议和期刊目录（2026）、计算领域高质量科技期刊分级目录（2025）。
+*   [hitfyd/ShowJCR](https://github.com/hitfyd/ShowJCR) - 期刊分区查询小工具，包括新锐期刊分区表（2026）、中科院分区表升级版（2025）及国际期刊预警名单（2025、2024、2023、2021、2020）、JCR（2025、2024）、CCF推荐国际会议和期刊目录（2026）、计算领域高质量科技期刊分级目录（2025）。
 
 *   [mrpond/BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - Video, audio & banner adblock/skip for Spotify
 
