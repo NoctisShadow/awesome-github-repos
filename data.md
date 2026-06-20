@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [Dart](#dart)
 *   [C#](#c)
 *   [TypeScript](#typescript)
 *   [AutoHotkey](#autohotkey)
@@ -19,7 +20,6 @@
 *   [C++](#c-1)
 *   [Vue](#vue)
 *   [Svelte](#svelte)
-*   [Dart](#dart)
 *   [PowerShell](#powershell)
 *   [TeX](#tex)
 *   [Typst](#typst)
@@ -49,6 +49,26 @@
 *   [Haskell](#haskell)
 *   [Swift](#swift)
 *   [Dockerfile](#dockerfile)
+
+## Dart
+
+*   [WEP-56/JAVBUS](https://github.com/WEP-56/JAVBUS) - 一个插件式BT种子搜索器，通过为BHT爬虫网站、BT资源收集网站制作html正则匹配json插件，来实现一个软件-全网资源的效果。同时支持网盘搜索、局域网互传
+
+*   [Predidit/Kazumi](https://github.com/Predidit/Kazumi) - 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。
+
+*   [kangpeiqin/bilivideo\_down](https://github.com/kangpeiqin/bilivideo_down) - A cross-platform（Win / MacOS） BiliBili Video downloader | 一款基于 Flutter 开发的桌面端 B 站视频下载器
+
+*   [xiaoyaocz/dart\_simple\_live](https://github.com/xiaoyaocz/dart_simple_live) - 简简单单的看直播
+
+*   [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
+
+*   [ComicSparks/pikapika](https://github.com/ComicSparks/pikapika) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
+
+*   [user1121114685/Wallpaper\_Engine](https://github.com/user1121114685/Wallpaper_Engine) - 一个便捷的创意工坊下载器
+
+*   [xausky/DockerRegisterCloud](https://github.com/xausky/DockerRegisterCloud) - 基于 Docker 仓库协议的网盘客户端，可以将目前众多的免费容器仓库服务用于网盘。
+
+*   [getlantern/lantern](https://github.com/getlantern/lantern) - Open-source VPN for speed, privacy, and censorship circumvention. Free to download on Android, iOS, Windows, macOS, and Linux.
 
 ## C\#
 
@@ -745,8 +765,6 @@
 *   [SimonUTD/ai-cognitive-nexus-mcp](https://github.com/SimonUTD/ai-cognitive-nexus-mcp) - 一个专业的、可动态编组的 AI 团队协作与编排的MCP。允许您通过简单的指令创建、管理和指挥由多个 AI 智能体 (Agent) 组成的层级化团队，以解决复杂和多阶段的任务。
 
 *   [SimonUTD/AI-Diagram-Prototype-Generator-MCP-Server-](https://github.com/SimonUTD/AI-Diagram-Prototype-Generator-MCP-Server-) - AI Diagram & Prototype File Generator (MCP Server)
-
-*   [zigu-git/ql\_scripts](https://github.com/zigu-git/ql_scripts) - 自写自用脚本
 
 *   [fengyuanluo/firemail](https://github.com/fengyuanluo/firemail) - 一款通用邮箱收件工具，提供简单高效的邮件管理解决方案
 
@@ -2121,24 +2139,6 @@
 *   [Ryson-32/AI-Formula-Scanner](https://github.com/Ryson-32/AI-Formula-Scanner) - AI-based Formula OCR Recognition, Analysis, and Management Software. 基于 AI 的公式 OCR 识别、分析和管理软件
 
 *   [cmudig/AutoProfiler](https://github.com/cmudig/AutoProfiler) - Automatically profile dataframes in the Jupyter sidebar
-
-## Dart
-
-*   [Predidit/Kazumi](https://github.com/Predidit/Kazumi) - 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。
-
-*   [kangpeiqin/bilivideo\_down](https://github.com/kangpeiqin/bilivideo_down) - A cross-platform（Win / MacOS） BiliBili Video downloader | 一款基于 Flutter 开发的桌面端 B 站视频下载器
-
-*   [xiaoyaocz/dart\_simple\_live](https://github.com/xiaoyaocz/dart_simple_live) - 简简单单的看直播
-
-*   [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
-
-*   [ComicSparks/pikapika](https://github.com/ComicSparks/pikapika) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
-
-*   [user1121114685/Wallpaper\_Engine](https://github.com/user1121114685/Wallpaper_Engine) - 一个便捷的创意工坊下载器
-
-*   [xausky/DockerRegisterCloud](https://github.com/xausky/DockerRegisterCloud) - 基于 Docker 仓库协议的网盘客户端，可以将目前众多的免费容器仓库服务用于网盘。
-
-*   [getlantern/lantern](https://github.com/getlantern/lantern) - Open-source VPN for speed, privacy, and censorship circumvention. Free to download on Android, iOS, Windows, macOS, and Linux.
 
 ## PowerShell
 
