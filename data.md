@@ -54,7 +54,7 @@
 
 *   [wublub/WTHTMC](https://github.com/wublub/WTHTMC) -
 
-*   [humanfirework/FlowWheel](https://github.com/humanfirework/FlowWheel) - Global Smooth Auto-Scrolling for Windows Windows 全局平滑自动滚屏工具（支持多屏协同滚动）
+*   [humanfirework/FlowWheel](https://github.com/humanfirework/FlowWheel) - Global Smooth Auto-Scrolling for Windows / Windows 全局平滑自动滚屏工具（支持多屏协同滚动）
 
 *   [studyzy/imewlconverter](https://github.com/studyzy/imewlconverter) - ”深蓝词库转换“ 一款开源免费的输入法词库转换程序
 
@@ -810,6 +810,8 @@
 
 *   [JefferyHcool/BiliNote](https://github.com/JefferyHcool/BiliNote) - AI 视频笔记生成工具 让 AI 为你的视频做笔记
 
+*   [superzhang21/ghostwriter](https://github.com/superzhang21/ghostwriter) - 影子作家（ghostwriter），一些人的写作或语言特征。
+
 *   [aipotheosis-labs/aci](https://github.com/aipotheosis-labs/aci) - ACI.dev is the open source tool-calling platform that hooks up 600+ tools into any agentic IDE or custom AI agent through direct function calling or a unified MCP server. The birthplace of VibeOps.
 
 *   [dong-dong6/DynaDNS-Router](https://github.com/dong-dong6/DynaDNS-Router) - 这个工具用于自动获取路由器的WAN口IP，并更新Cloudflare DNS记录。支持多种路由器类型，可以轻松扩展以适应不同的路由器固件。
@@ -1201,8 +1203,6 @@
 *   [POf-L/Fanqie-novel-Downloader](https://github.com/POf-L/Fanqie-novel-Downloader) - 🍅 番茄小说下载器 | 免费番茄小说转TXT/EPUB绿色GUI工具，支持Windows/macOS/Linux，持续活跃更新 | Fanqie Novel Downloader
 
 *   [Leon406/BurpSuiteCN-Release](https://github.com/Leon406/BurpSuiteCN-Release) -  BurpSuite汉化发布
-
-*   [superzhang21/ghostwriter](https://github.com/superzhang21/ghostwriter) - 影子作家（ghostwriter），一些人的写作或语言特征。
 
 *   [mqyqingfeng/Blog](https://github.com/mqyqingfeng/Blog) - 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。
 
